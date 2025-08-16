@@ -119,6 +119,7 @@
       "natures_spirit:chaparral": "2025-08-16 15:37:30 +0000",
       "natures_spirit:tropical_shores": "2025-08-16 15:14:27 +0000",
       "minecraft:forest": "2025-08-16 15:10:16 +0000",
+      "minecraft:jungle": "2025-08-16 15:42:52 +0000",
       "minecraft:river": "2025-08-16 15:12:42 +0000",
       "minecraft:lukewarm_ocean": "2025-08-16 15:14:50 +0000",
       "minecraft:savanna": "2025-08-16 15:19:22 +0000",
@@ -171,6 +172,12 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/copy_bowl_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-08-16 15:47:17 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/echo_boat": {
     "criteria": {
       "in_water": "2025-08-16 15:12:44 +0000"
@@ -207,6 +214,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-08-16 15:43:58 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/helix_tree_sign": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
@@ -216,6 +229,12 @@
   "betterend:recipes/decorations/jellyshroom_chair": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/tnt_from_bop_sand": {
+    "criteria": {
+      "has_gunpowder": "2025-08-16 15:43:36 +0000"
     },
     "done": true
   },
@@ -237,9 +256,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-08-16 15:47:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-08-16 15:47:17 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/transportation/skyroot_boat": {
     "criteria": {
       "in_water": "2025-08-16 15:12:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 15:47:19 +0000"
     },
     "done": true
   },
@@ -267,9 +304,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 15:47:19 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/tenanea_taburet": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 15:47:19 +0000"
     },
     "done": true
   },
@@ -294,6 +343,12 @@
   "handcrafted:recipes/misc/hammer": {
     "criteria": {
       "has_hammer": "2025-08-16 15:30:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 15:47:19 +0000"
     },
     "done": true
   },
@@ -381,6 +436,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-16 15:44:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2025-08-16 15:10:54 +0000"
@@ -399,9 +460,27 @@
     },
     "done": true
   },
+  "charm:kilns/recipes/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-16 15:47:46 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_side_table": {
+    "criteria": {
+      "has_jungle_side_table": "2025-08-16 15:48:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-08-16 15:12:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-08-16 15:47:17 +0000"
     },
     "done": true
   },
@@ -432,6 +511,12 @@
   "betterend:recipes/decorations/lacugrove_chair": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 15:47:19 +0000"
     },
     "done": true
   },
@@ -507,6 +592,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 15:47:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-08-16 15:17:25 +0000"
@@ -543,9 +634,27 @@
     },
     "done": true
   },
+  "another_furniture:recipes/jungle_chair": {
+    "criteria": {
+      "has_planks": "2025-08-16 15:48:15 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/apple_cider": {
     "criteria": {
       "has_apple": "2025-08-16 15:10:56 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/trapped_spruce_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-08-16 15:47:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-08-16 15:47:17 +0000"
     },
     "done": true
   },
@@ -576,6 +685,12 @@
   "stoneworks:recipes/building_blocks/cobbled_dark_prismarine_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-08-16 15:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-16 15:44:35 +0000"
     },
     "done": true
   },
@@ -612,6 +727,12 @@
   "betterend:recipes/redstone/tenanea_gate": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-16 15:48:15 +0000"
     },
     "done": true
   },
@@ -678,6 +799,12 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-08-16 15:09:12 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_ring": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 15:47:19 +0000"
     },
     "done": true
   },
@@ -771,6 +898,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_dining_bench": {
+    "criteria": {
+      "has_jungle_dining_bench": "2025-08-16 15:48:15 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/helix_tree_ladder": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
@@ -819,6 +952,18 @@
     },
     "done": true
   },
+  "charm:gunpowder_block/recipes/gunpowder_block": {
+    "criteria": {
+      "has_gunpowder": "2025-08-16 15:43:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-16 15:48:15 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/oak_chair": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
@@ -849,6 +994,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_drawer": {
+    "criteria": {
+      "has_jungle_drawer": "2025-08-16 15:48:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-16 15:47:46 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/end_stone_smelter": {
     "criteria": {
       "has_tag_wover_furnaces": "2025-08-16 15:24:18 +0000"
@@ -858,6 +1015,12 @@
   "betterend:recipes/decorations/end_lotus_taburet": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-08-16 15:48:15 +0000"
     },
     "done": true
   },
@@ -873,9 +1036,33 @@
     },
     "done": true
   },
+  "charm:azalea_wood/recipes/trapped_azalea_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-08-16 15:47:04 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/goat_trophy": {
     "criteria": {
       "has_goat_trophy": "2025-08-16 15:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 15:47:19 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/trapped_jungle_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-08-16 15:47:04 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_diamond_ingot": {
+    "criteria": {
+      "has_minecraft:diamond": "2025-08-16 15:47:17 +0000"
     },
     "done": true
   },
@@ -906,6 +1093,12 @@
   "betternether:recipes/decorations/nether_sakura_bar_stool": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 15:47:19 +0000"
     },
     "done": true
   },
@@ -942,6 +1135,18 @@
   "betternether:recipes/decorations/dark_oak_taburet": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-08-16 15:48:15 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/trapped_birch_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-08-16 15:47:04 +0000"
     },
     "done": true
   },
@@ -1017,6 +1222,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-08-16 15:47:17 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_corner_trim": {
+    "criteria": {
+      "has_jungle_corner_trim": "2025-08-16 15:48:15 +0000"
+    },
+    "done": true
+  },
   "natures_spirit:recipes/transportation/maple_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-16 15:14:35 +0000"
@@ -1053,9 +1270,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-08-16 15:43:36 +0000"
+    },
+    "done": true
+  },
+  "variantcraftingtables:recipes/misc/jungle_crafting_table": {
+    "criteria": {
+      "has_planks": "2025-08-16 15:48:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-08-16 15:03:14 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_shelf": {
+    "criteria": {
+      "has_jungle_shelf": "2025-08-16 15:48:15 +0000"
     },
     "done": true
   },
@@ -1107,6 +1342,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/jungle_shelf": {
+    "criteria": {
+      "has_planks": "2025-08-16 15:48:15 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/dark_prismarine_brick_wall_from_dark_prismarine_or_dark_prismarine_bricks_stonecutting": {
     "criteria": {
       "has_dark_prismarine_or_dark_prismarine_bricks": "2025-08-16 15:16:05 +0000"
@@ -1122,6 +1363,12 @@
   "betternether:recipes/decorations/cherry_bar_stool": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-08-16 15:49:48 +0000"
     },
     "done": true
   },
@@ -1371,9 +1618,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_table": {
+    "criteria": {
+      "has_jungle_table": "2025-08-16 15:48:15 +0000"
+    },
+    "done": true
+  },
   "natures_spirit:recipes/transportation/saxaul_boat": {
     "criteria": {
       "in_water": "2025-08-16 15:12:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 15:47:19 +0000"
     },
     "done": true
   },
@@ -1425,9 +1684,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-08-16 15:47:04 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2025-08-16 15:12:44 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/jungle_chest": {
+    "criteria": {
+      "has_planks": "2025-08-16 15:48:15 +0000"
     },
     "done": true
   },
@@ -1665,6 +1936,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-08-16 15:47:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2025-08-16 15:30:26 +0000"
@@ -1731,6 +2008,12 @@
     },
     "done": true
   },
+  "magnumtorch:recipes/decorations/diamond_magnum_torch": {
+    "criteria": {
+      "has_diamond": "2025-08-16 15:47:17 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-08-16 15:30:26 +0000"
@@ -1791,6 +2074,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-16 15:46:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-08-16 15:33:19 +0000"
@@ -1824,6 +2113,18 @@
   "betternether:recipes/redstone/wart_gate": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-16 15:47:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-16 15:44:35 +0000"
     },
     "done": true
   },
@@ -2049,6 +2350,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-16 15:48:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-08-16 15:30:26 +0000"
@@ -2064,6 +2371,12 @@
   "natures_spirit:recipes/transportation/fir_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-16 15:14:35 +0000"
+    },
+    "done": true
+  },
+  "barteringstation:recipes/decorations/bartering_station": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 15:47:19 +0000"
     },
     "done": true
   },
@@ -2103,6 +2416,18 @@
     },
     "done": true
   },
+  "charm:vanilla_wood_variants/recipes/trapped_oak_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-08-16 15:47:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 15:47:19 +0000"
+    },
+    "done": true
+  },
   "natures_spirit:recipes/transportation/redwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-16 15:14:35 +0000"
@@ -2111,6 +2436,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-08-16 15:48:54 +0000",
       "bread": "2025-08-16 15:06:15 +0000",
       "cooked_mutton": "2025-08-16 15:34:19 +0000",
       "cooked_salmon": "2025-08-16 15:20:48 +0000"
@@ -2129,9 +2455,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-16 15:44:35 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/cherry_chair": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/copy_flaming_ruby_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-08-16 15:47:17 +0000"
     },
     "done": true
   },
@@ -2144,6 +2482,12 @@
   "betterend:recipes/decorations/tenanea_ladder": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "charm:ebony_wood/recipes/trapped_ebony_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-08-16 15:47:04 +0000"
     },
     "done": true
   },
@@ -2162,6 +2506,18 @@
   "another_furniture:recipes/furniture_hammer": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_counter": {
+    "criteria": {
+      "has_jungle_counter": "2025-08-16 15:48:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_pendant": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 15:47:19 +0000"
     },
     "done": true
   },
@@ -2216,6 +2572,12 @@
   "animal_feeding_trough:recipes/decorations/feeding_trough": {
     "criteria": {
       "has_wood_slab": "2025-08-16 14:55:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/copy_cincinnasite_diamond_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-08-16 15:47:17 +0000"
     },
     "done": true
   },
@@ -2339,6 +2701,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 15:47:19 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/hunting_post": {
+    "criteria": {
+      "has_arrow": "2025-08-16 15:44:53 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/rubeus_gate": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
@@ -2381,6 +2755,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 15:47:19 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/crimson_chest_boat": {
     "criteria": {
       "has_tag_c_chests": "2025-08-16 15:22:20 +0000"
@@ -2405,6 +2785,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_pillar_trim": {
+    "criteria": {
+      "has_jungle_pillar_trim": "2025-08-16 15:48:15 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/dark_prismarine_shingles_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-08-16 15:16:05 +0000"
@@ -2420,6 +2806,12 @@
   "stoneworks:recipes/building_blocks/raw_dark_prismarine_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-08-16 15:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-08-16 15:47:17 +0000"
     },
     "done": true
   },
@@ -2456,6 +2848,12 @@
   "charm:atlases/recipes/atlas": {
     "criteria": {
       "has_book": "2025-08-16 15:10:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-16 15:47:46 +0000"
     },
     "done": true
   },
@@ -2557,6 +2955,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:spider": "2025-08-16 15:46:11 +0000",
+      "minecraft:creeper": "2025-08-16 15:43:35 +0000",
       "minecraft:drowned": "2025-08-16 15:15:29 +0000"
     },
     "done": false
@@ -2705,6 +3105,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-08-16 15:47:17 +0000"
+    },
+    "done": true
+  },
   "vanillabackport:recipes/combat/saddle": {
     "criteria": {
       "has_leather": "2025-08-16 15:12:18 +0000"
@@ -2729,6 +3135,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 15:47:19 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_dark_prismarine_slab_from_dark_prismarine_or_polished_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine_or_polished_dark_prismarine": "2025-08-16 15:16:05 +0000"
@@ -2750,6 +3162,12 @@
   "natures_spirit:recipes/transportation/ghaf_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-16 15:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-16 15:44:35 +0000"
     },
     "done": true
   },
@@ -2885,6 +3303,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_nightstand": {
+    "criteria": {
+      "has_jungle_nightstand": "2025-08-16 15:48:15 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/pythadendron_bookshelf": {
     "criteria": {
       "has_book": "2025-08-16 15:10:54 +0000"
@@ -2981,6 +3405,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-16 15:47:46 +0000"
+    },
+    "done": true
+  },
   "natures_spirit:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-08-16 15:12:44 +0000"
@@ -3017,6 +3447,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-08-16 15:47:17 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/golden_hammer": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
@@ -3032,6 +3468,12 @@
   "stoneworks:recipes/building_blocks/cobbled_dark_prismarine_slab_from_dark_prismarine_or_cobbled_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine_or_cobbled_dark_prismarine": "2025-08-16 15:16:05 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_gold_ingot": {
+    "criteria": {
+      "has_minecraft:gold_ingot": "2025-08-16 15:47:19 +0000"
     },
     "done": true
   },
@@ -3053,6 +3495,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-08-16 15:48:15 +0000"
+    },
+    "done": true
+  },
   "comforts:recipes/decorations/shapeless_rope_and_nail": {
     "criteria": {
       "has_iron_ingot": "2025-08-16 15:30:26 +0000"
@@ -3071,9 +3519,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_gloves": {
+    "criteria": {
+      "has_diamond": "2025-08-16 15:47:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-08-16 15:44:35 +0000"
     },
     "done": true
   },
@@ -3125,6 +3585,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/jungle_table": {
+    "criteria": {
+      "has_planks": "2025-08-16 15:48:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_string": "2025-08-16 15:17:25 +0000"
@@ -3134,6 +3600,18 @@
   "farmersdelight:recipes/food/shepherds_pie_block": {
     "criteria": {
       "has_cooked_mutton": "2025-08-16 15:34:17 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_aeternium_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-08-16 15:47:17 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/stone_sword_repairing": {
+    "criteria": {
+      "has_stone_sword": "2025-08-16 15:45:41 +0000"
     },
     "done": true
   },
@@ -3185,6 +3663,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_cupboard": {
+    "criteria": {
+      "has_jungle_cupboard": "2025-08-16 15:48:15 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/pythadendron_taburet": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
@@ -3215,6 +3699,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-08-16 15:47:17 +0000"
+    },
+    "done": true
+  },
   "natures_spirit:recipes/building_blocks/sugi_planks": {
     "criteria": {
       "has_logs": "2025-08-16 15:05:22 +0000"
@@ -3233,6 +3723,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/gold_chandelier": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 15:47:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-08-16 14:58:11 +0000"
@@ -3242,6 +3738,12 @@
   "stoneworks:recipes/building_blocks/dark_prismarine_shingle_slab_from_dark_prismarine_or_dark_prismarine_shingles_stonecutting": {
     "criteria": {
       "has_dark_prismarine_or_dark_prismarine_shingles": "2025-08-16 15:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-08-16 15:48:15 +0000"
     },
     "done": true
   },
@@ -3275,6 +3777,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2025-08-16 15:47:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-08-16 15:30:26 +0000"
@@ -3299,6 +3807,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-08-16 15:47:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/workbench/tinkering_table": {
     "criteria": {
       "has_tinkering_table": "2025-08-16 15:02:54 +0000"
@@ -3317,6 +3831,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-16 15:47:46 +0000"
+    },
+    "done": true
+  },
   "inmis:recipes/frayed_backpack": {
     "criteria": {
       "has_leather": "2025-08-16 15:12:18 +0000"
@@ -3326,6 +3846,12 @@
   "betternether:recipes/decorations/mangrove_chair": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/jungle_barrel": {
+    "criteria": {
+      "has_planks": "2025-08-16 15:48:15 +0000"
     },
     "done": true
   },
@@ -3359,9 +3885,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-16 15:47:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-16 15:47:46 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/copy_netherite_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-08-16 15:47:17 +0000"
     },
     "done": true
   },
@@ -3419,6 +3963,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_jukebox": {
+    "criteria": {
+      "has_diamond": "2025-08-16 15:47:17 +0000"
+    },
+    "done": true
+  },
   "adventuredungeons:adventuredungeons/root": {
     "criteria": {
       "killed_something": "2025-08-16 15:12:13 +0000"
@@ -3455,6 +4005,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-08-16 15:40:44 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/wart_bookshelf": {
     "criteria": {
       "has_book": "2025-08-16 15:10:54 +0000"
@@ -3467,9 +4023,27 @@
     },
     "done": true
   },
+  "charm:vanilla_wood_variants/recipes/trapped_mangrove_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-08-16 15:47:04 +0000"
+    },
+    "done": true
+  },
   "charm:vanilla_wood_variants/recipes/mangrove_ladder": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/trapped_warped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-08-16 15:47:04 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2025-08-16 15:40:44 +0000"
     },
     "done": true
   },
@@ -3482,6 +4056,12 @@
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-08-16 15:17:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2025-08-16 15:47:46 +0000"
     },
     "done": true
   },
@@ -3558,6 +4138,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_chair": {
+    "criteria": {
+      "has_jungle_chair": "2025-08-16 15:48:15 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/transportation/tag_rail": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
@@ -3573,6 +4159,12 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-08-16 15:30:26 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/trapped_bamboo_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-08-16 15:47:04 +0000"
     },
     "done": true
   },
@@ -3594,6 +4186,12 @@
     },
     "done": true
   },
+  "charm:vanilla_wood_variants/recipes/trapped_dark_oak_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-08-16 15:47:04 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/mossy_glowshroom_chair": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
@@ -3609,6 +4207,18 @@
   "betternether:recipes/decorations/rubeus_ladder": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_desk": {
+    "criteria": {
+      "has_jungle_desk": "2025-08-16 15:48:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-08-16 15:48:15 +0000"
     },
     "done": true
   },
@@ -3681,6 +4291,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-08-16 15:12:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-08-16 15:47:46 +0000"
     },
     "done": true
   },
@@ -3774,6 +4390,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-16 15:48:15 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/redwood_door": {
     "criteria": {
       "has_planks": "2025-08-16 15:03:38 +0000"
@@ -3829,6 +4451,12 @@
     },
     "done": true
   },
+  "charm:vanilla_wood_variants/recipes/trapped_cherry_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-08-16 15:47:04 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/pufferfish_trophy": {
     "criteria": {
       "has_pufferfish_trophy": "2025-08-16 15:02:52 +0000"
@@ -3868,6 +4496,18 @@
   "morevillagers:recipes/blueprint_table": {
     "criteria": {
       "has_paper": "2025-08-16 15:30:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-08-16 15:43:58 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/jungle_bench": {
+    "criteria": {
+      "has_jungle_bench": "2025-08-16 15:48:15 +0000"
     },
     "done": true
   },
@@ -3979,6 +4619,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_gloves": {
+    "criteria": {
+      "has_gold": "2025-08-16 15:47:19 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/redwood_stairs": {
     "criteria": {
       "has_planks": "2025-08-16 15:03:38 +0000"
@@ -4021,6 +4667,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_couch": {
+    "criteria": {
+      "has_jungle_couch": "2025-08-16 15:48:15 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_ring": {
     "criteria": {
       "has_iron_ingot": "2025-08-16 15:30:26 +0000"
@@ -4039,6 +4691,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/jungle_fancy_bed": {
+    "criteria": {
+      "has_jungle_fancy_bed": "2025-08-16 15:48:15 +0000"
+    },
+    "done": true
+  },
   "charm:vanilla_wood_variants/recipes/cherry_bookshelf": {
     "criteria": {
       "has_book": "2025-08-16 15:10:54 +0000"
@@ -4048,6 +4706,12 @@
   "stoneworks:recipes/building_blocks/dark_prismarine_shingle_stairs_from_dark_prismarine_or_dark_prismarine_shingles_stonecutting": {
     "criteria": {
       "has_dark_prismarine_or_dark_prismarine_shingles": "2025-08-16 15:16:05 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/trapped_crimson_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-08-16 15:47:04 +0000"
     },
     "done": true
   },
@@ -4117,6 +4781,12 @@
     },
     "done": true
   },
+  "xp_storage:recipes/misc/diamond_xp_book_upgrade": {
+    "criteria": {
+      "has_xp_book_upgrade_ingredient": "2025-08-16 15:47:17 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/stone_axe_repairing": {
     "criteria": {
       "has_stone_axe": "2025-08-16 15:05:07 +0000"
@@ -4174,6 +4844,12 @@
   "betterend:recipes/decorations/umbrella_tree_taburet": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-08-16 15:43:36 +0000"
     },
     "done": true
   },
@@ -4237,6 +4913,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-08-16 15:47:17 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/warped_chest_boat": {
     "criteria": {
       "has_tag_c_chests": "2025-08-16 15:22:20 +0000"
@@ -4246,6 +4928,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-08-16 15:07:19 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/chiseled_jungle_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-08-16 15:48:15 +0000"
     },
     "done": true
   },
@@ -4297,9 +4985,21 @@
     },
     "done": true
   },
+  "charm:vanilla_wood_variants/recipes/trapped_acacia_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-08-16 15:47:04 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/stalagnate_bar_stool": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-08-16 15:47:19 +0000"
     },
     "done": true
   },
