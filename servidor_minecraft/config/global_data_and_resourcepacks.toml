@@ -18,8 +18,7 @@ required = [
 
 [datapacks]
 required = [
-    "resourcepacks/",
-    "global_packs/required_data/"
+    "config/paxi/datapacks"
 ]
 
 optional = [
