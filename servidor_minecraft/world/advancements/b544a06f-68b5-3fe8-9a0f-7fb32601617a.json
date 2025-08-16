@@ -118,6 +118,7 @@
     "criteria": {
       "natures_spirit:chaparral": "2025-08-16 15:37:30 +0000",
       "natures_spirit:tropical_shores": "2025-08-16 15:14:27 +0000",
+      "minecraft:beach": "2025-08-16 15:55:28 +0000",
       "minecraft:forest": "2025-08-16 15:10:16 +0000",
       "minecraft:jungle": "2025-08-16 15:42:52 +0000",
       "minecraft:river": "2025-08-16 15:12:42 +0000",
@@ -253,6 +254,12 @@
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-08-16 15:12:44 +0000"
+    },
+    "done": true
+  },
+  "magnumtorch:recipes/decorations/emerald_magnum_torch": {
+    "criteria": {
+      "has_emerald": "2025-08-16 15:53:56 +0000"
     },
     "done": true
   },
@@ -409,6 +416,12 @@
   "betterend:recipes/decorations/pythadendron_fence": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_gloves": "2025-08-16 15:59:47 +0000"
     },
     "done": true
   },
@@ -796,6 +809,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2025-08-16 15:59:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2025-08-16 15:09:12 +0000"
@@ -853,6 +872,12 @@
   "betterend:recipes/decorations/helix_tree_fence": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2025-08-16 15:51:43 +0000"
     },
     "done": true
   },
@@ -1390,6 +1415,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2025-08-16 15:59:39 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/redstone/mossy_glowshroom_gate": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
@@ -1552,6 +1583,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2025-08-16 15:58:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-08-16 15:03:14 +0000"
@@ -1648,6 +1685,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_thin_pot": {
+    "criteria": {
+      "has_golden_thin_pot": "2025-08-16 15:58:20 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_dark_prismarine_tiles_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-08-16 15:16:05 +0000"
@@ -1681,6 +1724,12 @@
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-08-16 15:24:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-08-16 15:53:56 +0000"
     },
     "done": true
   },
@@ -1732,6 +1781,12 @@
     },
     "done": true
   },
+  "inmis:frayed_backpack": {
+    "criteria": {
+      "backpack": "2025-08-16 15:52:53 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lucernia_bar_stool": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
@@ -1765,6 +1820,12 @@
   "betterend:recipes/redstone/helix_tree_gate": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-08-16 15:51:50 +0000"
     },
     "done": true
   },
@@ -1984,6 +2045,18 @@
     },
     "done": true
   },
+  "frostiful:adventure/root": {
+    "criteria": {
+      "player_is_cold": "2025-08-16 15:54:20 +0000"
+    },
+    "done": true
+  },
+  "tradingpost:recipes/decorations/trading_post": {
+    "criteria": {
+      "has_emerald": "2025-08-16 15:53:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-08-16 15:30:26 +0000"
@@ -2167,6 +2240,12 @@
   "betterend:recipes/decorations/jellyshroom_taburet": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-08-16 15:51:50 +0000"
     },
     "done": true
   },
@@ -2467,6 +2546,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_boots_repairing": {
+    "criteria": {
+      "has_golden_boots": "2025-08-16 15:58:23 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/copy_flaming_ruby_upgrade": {
     "criteria": {
       "has_diamond": "2025-08-16 15:47:17 +0000"
@@ -2662,6 +2747,12 @@
   "betternether:recipes/decorations/nether_reed_fence": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-08-16 15:58:20 +0000"
     },
     "done": true
   },
@@ -2863,6 +2954,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2025-08-16 15:58:23 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/get_fd_seed": {
     "criteria": {
       "tomato_seeds": "2025-08-16 15:10:49 +0000"
@@ -2955,6 +3052,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-08-16 15:54:23 +0000",
       "minecraft:spider": "2025-08-16 15:46:11 +0000",
       "minecraft:creeper": "2025-08-16 15:43:35 +0000",
       "minecraft:drowned": "2025-08-16 15:15:29 +0000"
@@ -3195,6 +3293,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2025-08-16 15:59:39 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_reed_sign": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
@@ -3204,6 +3308,12 @@
   "betterend:recipes/decorations/lucernia_sign": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_leggings_repairing": {
+    "criteria": {
+      "has_golden_leggings": "2025-08-16 15:58:24 +0000"
     },
     "done": true
   },
@@ -3306,6 +3416,12 @@
   "handcrafted:recipes/misc/jungle_nightstand": {
     "criteria": {
       "has_jungle_nightstand": "2025-08-16 15:48:15 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_medium_pot": {
+    "criteria": {
+      "has_golden_medium_pot": "2025-08-16 15:58:20 +0000"
     },
     "done": true
   },
@@ -3602,6 +3718,12 @@
       "has_cooked_mutton": "2025-08-16 15:34:17 +0000"
     },
     "done": true
+  },
+  "adorabuild_structures:tireless_legs": {
+    "criteria": {
+      "oak_house_medium_2": "2025-08-16 15:52:07 +0000"
+    },
+    "done": false
   },
   "betterend:recipes/misc/copy_aeternium_upgrade": {
     "criteria": {
@@ -3915,6 +4037,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/golden_thick_pot": {
+    "criteria": {
+      "has_golden_thick_pot": "2025-08-16 15:58:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-08-16 15:30:26 +0000"
@@ -3996,6 +4124,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-08-16 15:19:13 +0000"
+    },
+    "done": true
+  },
+  "inmis:recipes/plated_backpack": {
+    "criteria": {
+      "has_frayed_backpack": "2025-08-16 15:52:53 +0000"
     },
     "done": true
   },
@@ -4091,6 +4225,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "old_growth_woodland": "2025-08-16 15:54:18 +0000",
       "redwood_forest": "2025-08-16 14:55:49 +0000",
       "scrubland": "2025-08-16 15:21:59 +0000"
     },
@@ -4198,6 +4333,12 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/misc/netherite_emerald_ingot": {
+    "criteria": {
+      "has_minecraft:emerald": "2025-08-16 15:53:56 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/fox_trophy": {
     "criteria": {
       "has_fox_trophy": "2025-08-16 15:02:52 +0000"
@@ -4231,6 +4372,12 @@
   "bclib:recipes/combat/tag_shield": {
     "criteria": {
       "has_tag_minecraft_planks": "2025-08-16 15:02:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/aether_iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_gloves": "2025-08-16 15:59:47 +0000"
     },
     "done": true
   },
@@ -4393,6 +4540,12 @@
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-16 15:48:15 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_gloves_repairing": {
+    "criteria": {
+      "has_iron_gloves": "2025-08-16 15:59:47 +0000"
     },
     "done": true
   },
@@ -4736,6 +4889,12 @@
   "betternether:recipes/decorations/nether_mushroom_sign": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/golden_wide_pot": {
+    "criteria": {
+      "has_golden_wide_pot": "2025-08-16 15:58:20 +0000"
     },
     "done": true
   },

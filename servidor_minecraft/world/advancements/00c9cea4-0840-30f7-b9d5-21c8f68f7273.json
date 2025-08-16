@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_gloves": "2025-08-16 15:58:25 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/decorations/tag_shulker_box": {
     "criteria": {
       "has_tag_c_chests": "2025-08-16 15:39:12 +0000"
@@ -425,6 +431,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-16 15:52:05 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/golden_knife": {
     "criteria": {
       "has_gold_ingot": "2025-08-16 15:46:20 +0000"
@@ -458,6 +470,12 @@
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-16 15:14:40 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-08-16 15:52:35 +0000"
     },
     "done": true
   },
@@ -665,6 +683,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_sword_repairing": {
+    "criteria": {
+      "has_iron_sword": "2025-08-16 15:56:34 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_reed_ladder": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:30 +0000"
@@ -674,6 +698,12 @@
   "betterend:root": {
     "criteria": {
       "welcome": "2025-08-16 14:54:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-08-16 15:58:26 +0000"
     },
     "done": true
   },
@@ -1043,6 +1073,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-08-16 15:49:53 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/blaze_trophy": {
     "criteria": {
       "has_blaze_trophy": "2025-08-16 15:04:49 +0000"
@@ -1136,6 +1172,12 @@
   "betterend:recipes/misc/leather_wrapped_stick": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-08-16 15:52:05 +0000"
     },
     "done": true
   },
@@ -1247,6 +1289,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_gloves_repairing": {
+    "criteria": {
+      "has_golden_gloves": "2025-08-16 15:58:25 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/leather_to_stripes": {
     "criteria": {
       "has_leather": "2025-08-16 15:17:09 +0000"
@@ -1352,6 +1400,12 @@
   "betterend:recipes/redstone/helix_tree_gate": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-08-16 15:54:48 +0000"
     },
     "done": true
   },
@@ -1679,6 +1733,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-08-16 15:52:05 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/stalagnate_sign": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:30 +0000"
@@ -1694,6 +1754,12 @@
   "betterend:recipes/decorations/jellyshroom_taburet": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2025-08-16 15:54:48 +0000"
     },
     "done": true
   },
@@ -1730,6 +1796,12 @@
   "betternether:recipes/decorations/nether_sakura_sign": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-08-16 15:58:26 +0000"
     },
     "done": true
   },
@@ -2185,6 +2257,12 @@
     },
     "done": true
   },
+  "morevillagers:recipes/hunting_post": {
+    "criteria": {
+      "has_arrow": "2025-08-16 15:54:48 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/rubeus_gate": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:30 +0000"
@@ -2387,6 +2465,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:cave_spider": "2025-08-16 15:45:08 +0000",
+      "minecraft:skeleton": "2025-08-16 15:54:38 +0000",
       "minecraft:spider": "2025-08-16 15:45:24 +0000",
       "minecraft:creeper": "2025-08-16 15:44:09 +0000"
     },
@@ -2980,6 +3059,12 @@
     },
     "done": true
   },
+  "adorabuild_structures:tireless_legs": {
+    "criteria": {
+      "oak_house_medium_2": "2025-08-16 15:51:48 +0000"
+    },
+    "done": false
+  },
   "betterend:recipes/misc/copy_aeternium_upgrade": {
     "criteria": {
       "has_diamond": "2025-08-16 15:46:19 +0000"
@@ -2995,6 +3080,12 @@
   "betternether:recipes/redstone/nether_sakura_gate": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "golden_knife": "2025-08-16 15:58:26 +0000"
     },
     "done": true
   },
@@ -3244,6 +3335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-08-16 15:52:05 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/nether_mushroom_gate": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:30 +0000"
@@ -3360,6 +3457,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "old_growth_woodland": "2025-08-16 15:54:27 +0000",
       "redwood_forest": "2025-08-16 14:54:49 +0000",
       "scrubland": "2025-08-16 15:20:39 +0000"
     },
@@ -3876,6 +3974,12 @@
     },
     "done": true
   },
+  "aether:recipes/misc/aether_gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_gloves": "2025-08-16 15:58:25 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/umbrella_tree_bar_stool": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:30 +0000"
@@ -3909,16 +4013,17 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "natures_spirit:chaparral": "2025-08-16 15:37:38 +0000",
-      "natures_spirit:tropical_shores": "2025-08-16 15:14:29 +0000",
-      "natures_spirit:wooded_drylands": "2025-08-16 15:12:21 +0000",
+      "minecraft:beach": "2025-08-16 15:56:17 +0000",
       "minecraft:forest": "2025-08-16 15:11:21 +0000",
-      "minecraft:jungle": "2025-08-16 15:42:42 +0000",
       "minecraft:river": "2025-08-16 15:13:08 +0000",
       "minecraft:lukewarm_ocean": "2025-08-16 15:14:53 +0000",
-      "minecraft:savanna": "2025-08-16 15:19:25 +0000",
       "natures_spirit:cypress_fields": "2025-08-16 15:38:20 +0000",
-      "minecraft:plains": "2025-08-16 15:13:13 +0000",
       "natures_spirit:oak_savanna": "2025-08-16 15:32:58 +0000",
+      "natures_spirit:tropical_shores": "2025-08-16 15:14:29 +0000",
+      "natures_spirit:wooded_drylands": "2025-08-16 15:12:21 +0000",
+      "minecraft:jungle": "2025-08-16 15:42:42 +0000",
+      "minecraft:savanna": "2025-08-16 15:19:25 +0000",
+      "minecraft:plains": "2025-08-16 15:13:13 +0000",
       "natures_spirit:sugi_forest": "2025-08-16 14:55:24 +0000"
     },
     "done": false
