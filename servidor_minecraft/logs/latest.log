@@ -3392,3 +3392,49 @@ Caused by: java.lang.RuntimeException: Cannot load class com.dooji.underlay.jade
 [16:02:51] [Server thread/INFO]: Rogerto has made the advancement [Hidden in the Depths]
 [16:04:49] [Server thread/INFO]: Saving data for 389 chunks for dimension 'overworld' took 2 milliseconds
 [16:09:49] [Server thread/INFO]: Saving data for 392 chunks for dimension 'overworld' took 1 milliseconds
+[16:14:49] [Server thread/INFO]: Saving data for 392 chunks for dimension 'overworld' took 2 milliseconds
+[16:19:48] [Server thread/INFO]: Nikomaiden lost connection: Disconnected
+[16:19:48] [Server thread/INFO]: Nikomaiden left the game
+[16:19:48] [Server thread/INFO]: Updating all forceload tickets for 00c9cea4-0840-30f7-b9d5-21c8f68f7273
+[16:19:49] [Server thread/INFO]: Rogerto lost connection: Disconnected
+[16:19:49] [Server thread/INFO]: Rogerto left the game
+[16:19:49] [Server thread/INFO]: Updating all forceload tickets for b544a06f-68b5-3fe8-9a0f-7fb32601617a
+[16:19:49] [Server thread/INFO]: Saving data for 399 chunks for dimension 'overworld' took 1 milliseconds
+[16:19:56] [Server thread/INFO]: Stopping the server
+[16:19:56] [Server thread/INFO]: Invalidated damage temperature effect registry cache
+[16:19:56] [Server thread/INFO]: Resetting environment controller...
+[16:19:56] [Server thread/INFO]: Stopping server
+[16:19:56] [Server thread/INFO]: Saving players
+[16:19:56] [Server thread/INFO]: Saving worlds
+[16:19:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:19:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[16:19:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/voidz:void
+[16:19:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[16:19:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[16:19:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[16:19:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/uf_data:data
+[16:19:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[16:19:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:19:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[16:19:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (void): All chunks are saved
+[16:19:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[16:19:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:19:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:19:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (data): All chunks are saved
+[16:19:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[16:19:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:19:56] [Server thread/INFO]: Server stopping, clearing chunk activity tracking map.
+[16:19:56] [Server thread/INFO]: Unloading server configs...
+[16:19:56] [Server thread/INFO]: Sending config unload event for goblintraders-entities.toml
+[16:19:56] [Server thread/INFO]: Finished unloading server configs
+[16:19:56] [Server thread/INFO]: Stopping IO worker...
+[16:19:56] [Server thread/INFO]: Stopped IO worker!
+[16:19:56] [Server thread/INFO]: Dispatching unloading event for config barteringstation-server.toml
+[16:19:56] [Server thread/INFO]: Dispatching unloading event for config easyanvils-server.toml
+[16:19:56] [Server thread/INFO]: Dispatching unloading event for config easymagic-server.toml
+[16:19:56] [Server thread/INFO]: Dispatching unloading event for config illagerinvasion-server.toml
+[16:19:56] [Server thread/INFO]: Dispatching unloading event for config leavesbegone-server.toml
+[16:19:56] [Server thread/INFO]: Dispatching unloading event for config magnumtorch-server.toml
+[16:19:56] [Server thread/INFO]: Dispatching unloading event for config netherchested-server.toml
+[16:19:56] [Server thread/INFO]: Dispatching unloading event for config skeletonaifix-server.toml
+[16:19:56] [Server thread/INFO]: Dispatching unloading event for config tradingpost-server.toml

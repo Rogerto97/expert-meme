@@ -186,6 +186,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-08-16 16:19:20 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lucernia_chair": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
@@ -858,6 +864,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-08-16 16:15:43 +0000"
+    },
+    "done": true
+  },
   "deeperdarker:recipes/transportation/bloom_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-16 15:14:35 +0000"
@@ -1005,6 +1017,12 @@
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-16 15:48:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-08-16 16:19:20 +0000"
     },
     "done": true
   },
@@ -2548,6 +2566,7 @@
     "criteria": {
       "cooked_porkchop": "2025-08-16 15:48:54 +0000",
       "bread": "2025-08-16 15:06:15 +0000",
+      "cooked_chicken": "2025-08-16 16:19:40 +0000",
       "cooked_mutton": "2025-08-16 15:34:19 +0000",
       "cooked_salmon": "2025-08-16 15:20:48 +0000"
     },
@@ -2958,6 +2977,12 @@
   "natures_spirit:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2025-08-16 15:12:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-08-16 16:19:36 +0000"
     },
     "done": true
   },
@@ -4045,6 +4070,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-08-16 16:19:20 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/nether_reed_chest_boat": {
     "criteria": {
       "has_tag_c_chests": "2025-08-16 15:22:20 +0000"
@@ -5018,6 +5049,12 @@
   "inmis:recipes/baby_backpack": {
     "criteria": {
       "has_leather": "2025-08-16 15:12:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-08-16 16:19:36 +0000"
     },
     "done": true
   },
