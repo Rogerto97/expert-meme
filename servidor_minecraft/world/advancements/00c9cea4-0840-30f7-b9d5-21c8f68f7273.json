@@ -1,4 +1,10 @@
 {
+  "betternether:recipes/transportation/mushroom_fir_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-08-16 15:39:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-08-16 15:17:09 +0000"
@@ -35,6 +41,12 @@
     },
     "done": true
   },
+  "bclib:recipes/decorations/tag_shulker_box": {
+    "criteria": {
+      "has_tag_c_chests": "2025-08-16 15:39:12 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/warped_chair": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:30 +0000"
@@ -65,9 +77,21 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/blossom_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-08-16 15:30:06 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/end_lotus_ladder": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-08-16 15:33:22 +0000"
     },
     "done": true
   },
@@ -389,6 +413,12 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-16 15:30:03 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/jellyshroom_sign": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:30 +0000"
@@ -449,6 +479,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-16 15:30:03 +0000"
+    },
+    "done": true
+  },
   "natures_spirit:recipes/transportation/larch_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-16 15:14:40 +0000"
@@ -458,6 +494,12 @@
   "betternether:recipes/redstone/stalagnate_gate": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-16 15:30:03 +0000"
     },
     "done": true
   },
@@ -611,6 +653,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-16 15:36:51 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/end_lotus_taburet": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:30 +0000"
@@ -692,6 +740,12 @@
   "betternether:recipes/decorations/dark_oak_taburet": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-08-16 15:33:22 +0000"
     },
     "done": true
   },
@@ -833,6 +887,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_pickaxe_repairing": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-08-16 15:35:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-08-16 15:18:12 +0000"
@@ -923,6 +983,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-08-16 15:35:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-08-16 15:18:12 +0000"
@@ -995,6 +1061,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/nether_mushroom_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-08-16 15:39:12 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/tenanea_bar_stool": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:30 +0000"
@@ -1016,6 +1088,12 @@
   "betternether:recipes/decorations/anchor_tree_chair": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-08-16 15:30:06 +0000"
     },
     "done": true
   },
@@ -1058,6 +1136,12 @@
   "handcrafted:recipes/misc/oak_bench": {
     "criteria": {
       "has_oak_bench": "2025-08-16 15:04:49 +0000"
+    },
+    "done": true
+  },
+  "inmis:frayed_backpack": {
+    "criteria": {
+      "backpack": "2025-08-16 15:39:22 +0000"
     },
     "done": true
   },
@@ -1313,6 +1397,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-08-16 15:33:22 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/skyroot_iron_vanilla_shield": {
     "criteria": {
       "has_iron_ingot": "2025-08-16 15:18:12 +0000"
@@ -1340,6 +1430,12 @@
   "betternether:recipes/redstone/wart_gate": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:30 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/sweet_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-08-16 15:30:06 +0000"
     },
     "done": true
   },
@@ -1529,6 +1625,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-16 15:30:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-08-16 15:18:12 +0000"
@@ -1550,6 +1652,12 @@
   "farmersdelight:recipes/food/mutton_wrap": {
     "criteria": {
       "has_mutton": "2025-08-16 15:25:27 +0000"
+    },
+    "done": true
+  },
+  "magnumtorch:recipes/decorations/amethyst_magnum_torch": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-16 15:30:03 +0000"
     },
     "done": true
   },
@@ -1650,6 +1758,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/rubeus_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-08-16 15:39:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-08-16 15:18:12 +0000"
@@ -1689,6 +1803,12 @@
   "betternether:recipes/decorations/crimson_ladder": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-08-16 15:39:12 +0000"
     },
     "done": true
   },
@@ -1764,6 +1884,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/stalagnate_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-08-16 15:39:12 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/oak_drawer": {
     "criteria": {
       "has_planks": "2025-08-16 15:03:30 +0000"
@@ -1797,6 +1923,12 @@
   "natures_spirit:recipes/transportation/saxaul_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-16 15:14:40 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/crimson_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-08-16 15:39:12 +0000"
     },
     "done": true
   },
@@ -1885,6 +2017,12 @@
     },
     "done": true
   },
+  "morevillagers:recipes/mining_bench": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-08-16 15:35:10 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:root": {
     "criteria": {
       "always": "2025-08-16 14:54:48 +0000"
@@ -1924,6 +2062,12 @@
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-16 15:14:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-16 15:30:03 +0000"
     },
     "done": true
   },
@@ -2164,6 +2308,12 @@
   "charm:core/world": {
     "criteria": {
       "player_joined": "2025-08-16 14:54:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-08-16 15:36:51 +0000"
     },
     "done": true
   },
@@ -2533,6 +2683,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/wart_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-08-16 15:39:12 +0000"
+    },
+    "done": true
+  },
   "natures_spirit:recipes/building_blocks/sugi_planks": {
     "criteria": {
       "has_logs": "2025-08-16 15:05:12 +0000"
@@ -2554,6 +2710,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-08-16 14:59:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-08-16 15:36:51 +0000"
     },
     "done": true
   },
@@ -2620,6 +2782,12 @@
   "betternether:recipes/decorations/stalagnate_ladder": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_reed_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-08-16 15:39:12 +0000"
     },
     "done": true
   },
@@ -2695,9 +2863,21 @@
     },
     "done": true
   },
+  "inmis:recipes/plated_backpack": {
+    "criteria": {
+      "has_frayed_backpack": "2025-08-16 15:39:22 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/decorations/tag_smith_table": {
     "criteria": {
       "has_tag_minecraft_planks": "2025-08-16 15:04:49 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/nether_sakura_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-08-16 15:39:12 +0000"
     },
     "done": true
   },
@@ -2840,6 +3020,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/shadow_berry_jelly_potion": {
+    "criteria": {
+      "has_potion": "2025-08-16 15:30:06 +0000"
+    },
+    "done": true
+  },
   "charm:vanilla_wood_variants/recipes/birch_ladder": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:30 +0000"
@@ -2948,6 +3134,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/anchor_tree_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-08-16 15:39:12 +0000"
+    },
+    "done": true
+  },
   "comforts:recipes/decorations/sleeping_bag_white": {
     "criteria": {
       "has_white_wool": "2025-08-16 15:12:47 +0000"
@@ -3048,6 +3240,12 @@
   "aether:recipes/combat/leather_chestplate_repairing": {
     "criteria": {
       "has_leather_chestplate": "2025-08-16 15:20:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-16 15:36:51 +0000"
     },
     "done": true
   },
@@ -3215,13 +3413,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "natures_spirit:chaparral": "2025-08-16 15:37:38 +0000",
       "natures_spirit:tropical_shores": "2025-08-16 15:14:29 +0000",
       "natures_spirit:wooded_drylands": "2025-08-16 15:12:21 +0000",
       "minecraft:forest": "2025-08-16 15:11:21 +0000",
       "minecraft:river": "2025-08-16 15:13:08 +0000",
       "minecraft:lukewarm_ocean": "2025-08-16 15:14:53 +0000",
       "minecraft:savanna": "2025-08-16 15:19:25 +0000",
+      "natures_spirit:cypress_fields": "2025-08-16 15:38:20 +0000",
       "minecraft:plains": "2025-08-16 15:13:13 +0000",
+      "natures_spirit:oak_savanna": "2025-08-16 15:32:58 +0000",
       "natures_spirit:sugi_forest": "2025-08-16 14:55:24 +0000"
     },
     "done": false
@@ -3328,6 +3529,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/warped_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-08-16 15:39:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-08-16 15:07:19 +0000"
@@ -3385,6 +3592,12 @@
   "charm:core/tweaks": {
     "criteria": {
       "player_joined": "2025-08-16 14:54:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-08-16 15:36:51 +0000"
     },
     "done": true
   },

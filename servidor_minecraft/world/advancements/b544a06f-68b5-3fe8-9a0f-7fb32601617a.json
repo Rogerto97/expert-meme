@@ -116,12 +116,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "natures_spirit:chaparral": "2025-08-16 15:37:30 +0000",
       "natures_spirit:tropical_shores": "2025-08-16 15:14:27 +0000",
       "minecraft:forest": "2025-08-16 15:10:16 +0000",
       "minecraft:river": "2025-08-16 15:12:42 +0000",
       "minecraft:lukewarm_ocean": "2025-08-16 15:14:50 +0000",
       "minecraft:savanna": "2025-08-16 15:19:22 +0000",
+      "natures_spirit:cypress_fields": "2025-08-16 15:38:16 +0000",
       "minecraft:plains": "2025-08-16 15:12:47 +0000",
+      "natures_spirit:oak_savanna": "2025-08-16 15:33:03 +0000",
       "natures_spirit:sugi_forest": "2025-08-16 14:49:24 +0000"
     },
     "done": false
@@ -222,6 +225,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-08-16 15:33:19 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2025-08-16 15:12:44 +0000"
@@ -252,6 +261,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-16 15:30:26 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/tenanea_taburet": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
@@ -273,6 +288,12 @@
   "deeperdarker:recipes/transportation/bloom_boat": {
     "criteria": {
       "in_water": "2025-08-16 15:12:44 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/hammer": {
+    "criteria": {
+      "has_hammer": "2025-08-16 15:30:26 +0000"
     },
     "done": true
   },
@@ -381,6 +402,12 @@
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-08-16 15:12:44 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/cooking/spicy_noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-16 15:35:29 +0000"
     },
     "done": true
   },
@@ -630,6 +657,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-16 15:30:26 +0000"
+    },
+    "done": true
+  },
   "natures_spirit:recipes/transportation/larch_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-16 15:14:35 +0000"
@@ -648,6 +681,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_gloves": {
+    "criteria": {
+      "has_iron": "2025-08-16 15:30:26 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/dark_prismarine_tiles_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-08-16 15:16:05 +0000"
@@ -660,6 +699,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-08-16 15:35:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-08-16 15:02:52 +0000"
@@ -669,6 +714,12 @@
   "aether:recipes/redstone/skyroot_tripwire_hook": {
     "criteria": {
       "has_string": "2025-08-16 15:17:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-08-16 15:34:17 +0000"
     },
     "done": true
   },
@@ -693,6 +744,12 @@
   "betterend:recipes/redstone/pythadendron_gate": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-16 15:30:26 +0000"
     },
     "done": true
   },
@@ -771,6 +828,12 @@
   "betternether:recipes/decorations/willow_ladder": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/misc/tag_bucket": {
+    "criteria": {
+      "has_tag_c_ingots/iron": "2025-08-16 15:30:26 +0000"
     },
     "done": true
   },
@@ -870,9 +933,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-16 15:30:26 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/dark_oak_taburet": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-08-16 15:33:19 +0000"
     },
     "done": true
   },
@@ -906,6 +981,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-08-16 15:35:29 +0000"
+    },
+    "done": true
+  },
   "charm:vanilla_wood_variants/recipes/jungle_bookshelf": {
     "criteria": {
       "has_book": "2025-08-16 15:10:54 +0000"
@@ -927,6 +1008,12 @@
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-08-16 15:03:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_cartography_table": {
+    "criteria": {
+      "has_paper": "2025-08-16 15:30:18 +0000"
     },
     "done": true
   },
@@ -960,9 +1047,21 @@
     },
     "done": true
   },
+  "frostiful:recipes/combat/armor/fur_boots": {
+    "criteria": {
+      "has_fur": "2025-08-16 15:36:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-08-16 15:03:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/iron_knife": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-16 15:30:26 +0000"
     },
     "done": true
   },
@@ -1038,6 +1137,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_pickaxe_repairing": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-08-16 15:35:01 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/redstone/mossy_glowshroom_gate": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
@@ -1104,6 +1209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-08-16 15:35:01 +0000"
+    },
+    "done": true
+  },
   "natures_spirit:recipes/decorations/sugi_fence": {
     "criteria": {
       "has_planks": "2025-08-16 15:15:42 +0000"
@@ -1146,6 +1257,18 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-08-16 15:35:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-16 15:30:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-08-16 15:02:52 +0000"
@@ -1176,6 +1299,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/copy_plate_upgrade": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-16 15:30:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-08-16 15:03:14 +0000"
@@ -1185,6 +1314,24 @@
   "betterend:recipes/decorations/mossy_glowshroom_sign": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/iron_chandelier": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-16 15:30:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-16 15:30:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-16 15:30:26 +0000"
     },
     "done": true
   },
@@ -1257,6 +1404,12 @@
   "charm:vanilla_wood_variants/recipes/birch_bookshelf": {
     "criteria": {
       "has_book": "2025-08-16 15:10:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-08-16 15:30:26 +0000"
     },
     "done": true
   },
@@ -1452,6 +1605,12 @@
     },
     "done": true
   },
+  "frostiful:recipes/combat/armor/fur_chestplate": {
+    "criteria": {
+      "has_fur": "2025-08-16 15:36:36 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-08-16 15:12:44 +0000"
@@ -1482,15 +1641,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-08-16 15:30:26 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mangrove_bar_stool": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
     },
     "done": true
   },
+  "natures_spirit:recipes/building_blocks/paper_lantern": {
+    "criteria": {
+      "has_paper": "2025-08-16 15:30:18 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spider_trophy": {
     "criteria": {
       "has_spider_trophy": "2025-08-16 15:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-16 15:30:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-16 15:30:26 +0000"
     },
     "done": true
   },
@@ -1506,6 +1689,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-16 15:30:26 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/anchor_tree_bookshelf": {
     "criteria": {
       "has_book": "2025-08-16 15:10:54 +0000"
@@ -1515,6 +1704,12 @@
   "aether:recipes/building_blocks/skyroot_bookshelf": {
     "criteria": {
       "has_book": "2025-08-16 15:10:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-16 15:30:26 +0000"
     },
     "done": true
   },
@@ -1533,6 +1728,12 @@
   "betternether:recipes/decorations/willow_bar_stool": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-16 15:30:26 +0000"
     },
     "done": true
   },
@@ -1566,6 +1767,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-08-16 15:35:59 +0000"
+    },
+    "done": true
+  },
   "charm:vanilla_wood_variants/recipes/acacia_ladder": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
@@ -1581,6 +1788,18 @@
   "another_furniture:recipes/white_sofa": {
     "criteria": {
       "has_wool": "2025-08-16 15:19:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-08-16 15:33:19 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/skyroot_iron_vanilla_shield": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-16 15:30:26 +0000"
     },
     "done": true
   },
@@ -1830,6 +2049,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-16 15:30:26 +0000"
+    },
+    "done": true
+  },
   "natures_spirit:recipes/transportation/maple_boat": {
     "criteria": {
       "in_water": "2025-08-16 15:12:44 +0000"
@@ -1842,9 +2067,27 @@
     },
     "done": true
   },
+  "natures_spirit:recipes/building_blocks/paper_block": {
+    "criteria": {
+      "has_paper": "2025-08-16 15:30:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-08-16 15:34:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:drowned": "2025-08-16 15:15:29 +0000"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/rope_and_nail": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-16 15:30:26 +0000"
     },
     "done": true
   },
@@ -1869,6 +2112,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-08-16 15:06:15 +0000",
+      "cooked_mutton": "2025-08-16 15:34:19 +0000",
       "cooked_salmon": "2025-08-16 15:20:48 +0000"
     },
     "done": false
@@ -1951,6 +2195,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-16 15:30:26 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/mossy_glowshroom_ladder": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
@@ -2005,6 +2255,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_pendant": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-16 15:30:26 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_dark_prismarine_stairs_from_dark_prismarine_or_cobbled_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine_or_cobbled_dark_prismarine": "2025-08-16 15:16:05 +0000"
@@ -2014,6 +2270,12 @@
   "aether:recipes/decorations/skyroot_bed": {
     "criteria": {
       "has_wool": "2025-08-16 15:19:13 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/tools/tag_compass": {
+    "criteria": {
+      "has_tag_c_ingots/iron": "2025-08-16 15:30:26 +0000"
     },
     "done": true
   },
@@ -2227,6 +2489,12 @@
     },
     "done": true
   },
+  "morevillagers:recipes/mining_bench": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-08-16 15:35:01 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_mushroom_bar_stool": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
@@ -2236,6 +2504,12 @@
   "betternether:recipes/decorations/willow_fence": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/shears": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-16 15:30:26 +0000"
     },
     "done": true
   },
@@ -2299,6 +2573,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-16 15:30:26 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/crimson_taburet": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
@@ -2308,6 +2588,12 @@
   "charm:vanilla_wood_variants/recipes/bamboo_ladder": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cooking_pot": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-16 15:30:26 +0000"
     },
     "done": true
   },
@@ -2326,6 +2612,12 @@
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-08-16 15:12:44 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/hopper_with_custom_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-16 15:30:26 +0000"
     },
     "done": true
   },
@@ -2587,6 +2879,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-16 15:30:26 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/pythadendron_bookshelf": {
     "criteria": {
       "has_book": "2025-08-16 15:10:54 +0000"
@@ -2653,6 +2951,12 @@
     },
     "done": true
   },
+  "bclib:recipes/transportation/tag_minecart": {
+    "criteria": {
+      "has_tag_c_ingots/iron": "2025-08-16 15:30:26 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/oak_desk": {
     "criteria": {
       "has_oak_desk": "2025-08-16 15:02:52 +0000"
@@ -2686,6 +2990,12 @@
   "biomesoplenty:recipes/transportation/hellbark_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-16 15:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-16 15:30:26 +0000"
     },
     "done": true
   },
@@ -2740,6 +3050,12 @@
   "betternether:recipes/decorations/mushroom_fir_ladder": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "comforts:recipes/decorations/shapeless_rope_and_nail": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-16 15:30:26 +0000"
     },
     "done": true
   },
@@ -2815,6 +3131,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-08-16 15:34:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-08-16 15:02:52 +0000"
@@ -2854,6 +3176,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-08-16 15:19:13 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_leggings": {
+    "criteria": {
+      "has_fur": "2025-08-16 15:36:36 +0000"
     },
     "done": true
   },
@@ -2929,6 +3257,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-16 15:30:26 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/book_of_lore": {
     "criteria": {
       "has_book": "2025-08-16 15:10:54 +0000"
@@ -2938,6 +3272,12 @@
   "morevillagers:first_workstation_get": {
     "criteria": {
       "smoker": "2025-08-16 15:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-16 15:30:26 +0000"
     },
     "done": true
   },
@@ -2995,6 +3335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-08-16 15:30:18 +0000"
+    },
+    "done": true
+  },
   "variantcraftingtables:recipes/misc/crafting_table": {
     "criteria": {
       "has_crafting_table": "2025-08-16 15:02:54 +0000"
@@ -3022,6 +3368,24 @@
   "betterend:recipes/misc/copy_terminite_upgrade": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-16 15:30:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-16 15:30:26 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_helmet": {
+    "criteria": {
+      "has_fur": "2025-08-16 15:36:36 +0000"
     },
     "done": true
   },
@@ -3070,6 +3434,12 @@
   "stoneworks:recipes/building_blocks/dark_prismarine_plate_wall_from_dark_prismarine_or_dark_prismarine_plates_stonecutting": {
     "criteria": {
       "has_dark_prismarine_or_dark_prismarine_plates": "2025-08-16 15:16:05 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-16 15:35:29 +0000"
     },
     "done": true
   },
@@ -3164,9 +3534,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-16 15:30:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-08-16 15:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-08-16 15:35:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-16 15:35:29 +0000"
     },
     "done": true
   },
@@ -3179,6 +3567,12 @@
   "natures_spirit:recipes/transportation/mahogany_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-16 15:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-16 15:30:26 +0000"
     },
     "done": true
   },
@@ -3423,6 +3817,18 @@
     },
     "done": true
   },
+  "frostiful:recipes/misc/fur_padding": {
+    "criteria": {
+      "has_fur": "2025-08-16 15:36:36 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/iron_bulb_lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-16 15:30:26 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/pufferfish_trophy": {
     "criteria": {
       "has_pufferfish_trophy": "2025-08-16 15:02:52 +0000"
@@ -3459,6 +3865,12 @@
     },
     "done": true
   },
+  "morevillagers:recipes/blueprint_table": {
+    "criteria": {
+      "has_paper": "2025-08-16 15:30:18 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/dark_prismarine_plates_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-08-16 15:16:05 +0000"
@@ -3489,6 +3901,12 @@
     },
     "done": true
   },
+  "adventurez:recipes/deer_venison": {
+    "criteria": {
+      "got_the_venison": "2025-08-16 15:35:34 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/white_lamp": {
     "criteria": {
       "has_wool": "2025-08-16 15:19:13 +0000"
@@ -3516,6 +3934,12 @@
   "betterend:recipes/redstone/jellyshroom_gate": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bench": {
+    "criteria": {
+      "has_bench": "2025-08-16 15:30:26 +0000"
     },
     "done": true
   },
@@ -3597,6 +4021,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_ring": {
+    "criteria": {
+      "has_iron_ingot": "2025-08-16 15:30:26 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/raw_dark_prismarine_slab_from_dark_prismarine_or_raw_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine_or_raw_dark_prismarine": "2025-08-16 15:16:05 +0000"
@@ -3672,6 +4102,18 @@
   "bclib:recipes/redstone/tag_hopper": {
     "criteria": {
       "has_tag_c_chests": "2025-08-16 15:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-08-16 15:30:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-08-16 15:35:01 +0000"
     },
     "done": true
   },
@@ -3759,6 +4201,18 @@
     },
     "done": true
   },
+  "bclib:recipes/brewing/tag_cauldron": {
+    "criteria": {
+      "has_tag_c_ingots/iron": "2025-08-16 15:30:26 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/misc/netherite_iron_ingot": {
+    "criteria": {
+      "has_minecraft:iron_ingot": "2025-08-16 15:30:26 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_dark_prismarine_brick_wall_from_dark_prismarine_or_mossy_dark_prismarine_bricks_stonecutting": {
     "criteria": {
       "has_dark_prismarine_or_mossy_dark_prismarine_bricks": "2025-08-16 15:16:05 +0000"
@@ -3798,6 +4252,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-08-16 15:02:54 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_stonecutter": {
+    "criteria": {
+      "has_tag_c_ingots/iron": "2025-08-16 15:30:26 +0000"
     },
     "done": true
   },

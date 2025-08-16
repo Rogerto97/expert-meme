@@ -3358,3 +3358,22 @@ Caused by: java.lang.RuntimeException: Cannot load class com.dooji.underlay.jade
 [15:29:04] [Worker-Main-8/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [15:29:49] [Server thread/INFO]: Saving data for 146 chunks for dimension 'overworld' took 1 milliseconds
 [15:30:26] [Server thread/INFO]: Rogerto has made the advancement [Acquire Hardware]
+[15:34:49] [Server thread/INFO]: Saving data for 165 chunks for dimension 'overworld' took 3 milliseconds
+[15:35:01] [Server thread/INFO]: Rogerto has made the advancement [Isn't It Iron Pick]
+[15:35:10] [Server thread/INFO]: Nikomaiden has made the advancement [Isn't It Iron Pick]
+[15:37:32] [pool-11-thread-2/INFO]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / natures_spirit:village_coconut], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_ocean], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_mountains], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_jungle], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_cherry], ResourceKey[minecraft:worldgen/structure / minecraft:village_desert], ResourceKey[minecraft:worldgen/structure / repurposed_structures:village_giant_taiga], ResourceKey[minecraft:worldgen/structure / minecraft:village_savanna]] from pos class_2338{x=-1189, y=73, z=-507}
+[15:39:22] [Server thread/INFO]: Nikomaiden has made the advancement [Backpack Beginnings]
+[15:39:49] [Server thread/INFO]: Saving data for 225 chunks for dimension 'overworld' took 1 milliseconds
+[15:41:56] [Worker-Main-9/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:41:56] [Worker-Main-9/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:41:56] [Worker-Main-9/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:41:57] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:41:57] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:41:57] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:42:17] [Worker-Main-8/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:42:17] [Worker-Main-8/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:42:20] [Worker-Main-8/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:42:20] [Worker-Main-8/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:42:21] [Worker-Main-8/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:42:21] [Worker-Main-8/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:44:09] [Server thread/INFO]: Nikomaiden has made the advancement [Monster Hunter]
