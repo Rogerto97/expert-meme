@@ -9511,3 +9511,6 @@ org.spongepowered.asm.mixin.injection.throwables.InvalidInjectionException: Crit
 [16Aug2025 02:42:42.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rogerto: Set own game mode to Spectator Mode]
 [16Aug2025 02:42:51.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Rogerto: Set the time to 1000]
 [16Aug2025 02:43:49.765] [Server thread/INFO] [FTB Library/]: received client config settings from Rogerto for config: ftbultimine-server
+[16Aug2025 02:59:49.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto fell from a high place
+[16Aug2025 02:59:49.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Rogerto has made the advancement [Your First Grave]
+[16Aug2025 02:59:49.480] [Server thread/INFO] [tombstone/]: The player Rogerto has successfully been saved
