@@ -138,6 +138,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/mushroom_fir_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-08-16 15:22:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-08-16 15:12:18 +0000"
@@ -171,6 +177,12 @@
   "betterend:recipes/decorations/lucernia_chair": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_shulker_box": {
+    "criteria": {
+      "has_tag_c_chests": "2025-08-16 15:22:20 +0000"
     },
     "done": true
   },
@@ -357,6 +369,12 @@
   "betternether:recipes/decorations/bamboo_taburet": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-16 15:23:04 +0000"
     },
     "done": true
   },
@@ -660,6 +678,12 @@
     },
     "done": true
   },
+  "charm:kilns/recipes/kiln": {
+    "criteria": {
+      "has_furnace": "2025-08-16 15:24:18 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_reed_ladder": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
@@ -759,6 +783,12 @@
   "farmersdelight:recipes/cooking/pasta_with_meatballs": {
     "criteria": {
       "has_any_ingredient": "2025-08-16 15:12:14 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_smelter": {
+    "criteria": {
+      "has_tag_wover_furnaces": "2025-08-16 15:24:18 +0000"
     },
     "done": true
   },
@@ -1176,6 +1206,12 @@
     },
     "done": false
   },
+  "betternether:recipes/transportation/nether_mushroom_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-08-16 15:22:20 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/tenanea_bar_stool": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
@@ -1227,6 +1263,12 @@
   "stoneworks:recipes/building_blocks/dark_prismarine_pillar_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-08-16 15:16:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-08-16 15:24:18 +0000"
     },
     "done": true
   },
@@ -1826,7 +1868,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-08-16 15:06:15 +0000"
+      "bread": "2025-08-16 15:06:15 +0000",
+      "cooked_salmon": "2025-08-16 15:20:48 +0000"
     },
     "done": false
   },
@@ -1902,6 +1945,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/rubeus_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-08-16 15:22:20 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/mossy_glowshroom_ladder": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
@@ -1935,6 +1984,12 @@
   "betternether:recipes/decorations/crimson_ladder": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/willow_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-08-16 15:22:20 +0000"
     },
     "done": true
   },
@@ -2004,6 +2059,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/stalagnate_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-08-16 15:22:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-08-16 15:17:39 +0000"
@@ -2055,6 +2116,12 @@
   "charm:vanilla_wood_variants/recipes/dark_oak_bookshelf": {
     "criteria": {
       "has_book": "2025-08-16 15:10:54 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/crimson_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-08-16 15:22:20 +0000"
     },
     "done": true
   },
@@ -2814,6 +2881,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/wart_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-08-16 15:22:20 +0000"
+    },
+    "done": true
+  },
   "natures_spirit:recipes/building_blocks/sugi_planks": {
     "criteria": {
       "has_logs": "2025-08-16 15:05:22 +0000"
@@ -2934,6 +3007,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/nether_reed_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-08-16 15:22:20 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/combat/flint_knife": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
@@ -3012,6 +3091,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/nether_sakura_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-08-16 15:22:20 +0000"
+    },
+    "done": true
+  },
   "charm:vanilla_wood_variants/recipes/mangrove_ladder": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
@@ -3056,7 +3141,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "redwood_forest": "2025-08-16 14:55:49 +0000"
+      "redwood_forest": "2025-08-16 14:55:49 +0000",
+      "scrubland": "2025-08-16 15:21:59 +0000"
     },
     "done": false
   },
@@ -3249,6 +3335,12 @@
   "charm:vanilla_wood_variants/recipes/cherry_ladder": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:03 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/anchor_tree_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-08-16 15:22:20 +0000"
     },
     "done": true
   },
@@ -3577,6 +3669,12 @@
     },
     "done": true
   },
+  "bclib:recipes/redstone/tag_hopper": {
+    "criteria": {
+      "has_tag_c_chests": "2025-08-16 15:22:20 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/stone_axe_repairing": {
     "criteria": {
       "has_stone_axe": "2025-08-16 15:05:07 +0000"
@@ -3682,6 +3780,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-08-16 15:17:25 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/warped_chest_boat": {
+    "criteria": {
+      "has_tag_c_chests": "2025-08-16 15:22:20 +0000"
     },
     "done": true
   },

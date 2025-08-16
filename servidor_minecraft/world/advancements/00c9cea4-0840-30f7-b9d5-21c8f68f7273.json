@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-16 15:22:25 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/jungle_bar_stool": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:30 +0000"
@@ -221,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-16 15:22:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-08-16 15:13:08 +0000"
@@ -254,6 +266,12 @@
   "betternether:recipes/decorations/anchor_tree_bar_stool": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_planks": "2025-08-16 15:22:25 +0000"
     },
     "done": true
   },
@@ -356,6 +374,12 @@
   "betternether:recipes/redstone/mushroom_fir_gate": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-16 15:22:25 +0000"
     },
     "done": true
   },
@@ -464,6 +488,12 @@
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-08-16 15:04:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-08-16 15:25:27 +0000"
     },
     "done": true
   },
@@ -602,6 +632,12 @@
   "handcrafted:recipes/misc/goat_trophy": {
     "criteria": {
       "has_goat_trophy": "2025-08-16 15:04:49 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_helmet_repairing": {
+    "criteria": {
+      "has_leather_helmet": "2025-08-16 15:24:33 +0000"
     },
     "done": true
   },
@@ -845,6 +881,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-08-16 15:20:23 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/mushroom_fir_chair": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:30 +0000"
@@ -854,6 +896,12 @@
   "charm:azalea_wood/recipes/azalea_ladder": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_axe": "2025-08-16 15:26:09 +0000"
     },
     "done": true
   },
@@ -902,6 +950,12 @@
   "betternether:recipes/decorations/warped_taburet": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-08-16 15:20:23 +0000"
     },
     "done": true
   },
@@ -1097,6 +1151,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_planks": "2025-08-16 15:22:25 +0000"
+    },
+    "done": true
+  },
   "charm:core/decoration": {
     "criteria": {
       "player_joined": "2025-08-16 14:54:48 +0000"
@@ -1280,6 +1340,12 @@
   "betternether:recipes/redstone/wart_gate": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:30 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-16 15:22:25 +0000"
     },
     "done": true
   },
@@ -1481,6 +1547,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-08-16 15:25:27 +0000"
+    },
+    "done": true
+  },
   "comforts:recipes/decorations/rope_and_nail": {
     "criteria": {
       "has_iron_ingot": "2025-08-16 15:18:12 +0000"
@@ -1507,7 +1579,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-08-16 15:09:53 +0000"
+      "bread": "2025-08-16 15:09:53 +0000",
+      "cooked_salmon": "2025-08-16 15:24:14 +0000"
     },
     "done": false
   },
@@ -2058,6 +2131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-08-16 15:20:23 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/white_curtain": {
     "criteria": {
       "has_wool": "2025-08-16 15:12:47 +0000"
@@ -2139,6 +2218,12 @@
   "natures_spirit:recipes/transportation/joshua_boat": {
     "criteria": {
       "in_water": "2025-08-16 15:13:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2025-08-16 15:26:09 +0000"
     },
     "done": true
   },
@@ -2379,6 +2464,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-08-16 15:18:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-08-16 15:25:27 +0000"
     },
     "done": true
   },
@@ -2634,6 +2725,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_planks": "2025-08-16 15:22:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-16 15:14:40 +0000"
@@ -2642,7 +2739,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "redwood_forest": "2025-08-16 14:54:49 +0000"
+      "redwood_forest": "2025-08-16 14:54:49 +0000",
+      "scrubland": "2025-08-16 15:20:39 +0000"
     },
     "done": false
   },
@@ -2880,6 +2978,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_planks": "2025-08-16 15:22:25 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/combat/shield": {
     "criteria": {
       "has_tag_minecraft_planks": "2025-08-16 15:04:49 +0000"
@@ -2929,9 +3033,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/redwood_slab": {
+    "criteria": {
+      "has_planks": "2025-08-16 15:22:25 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/rubeus_fence": {
     "criteria": {
       "has_stick": "2025-08-16 15:03:30 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_chestplate_repairing": {
+    "criteria": {
+      "has_leather_chestplate": "2025-08-16 15:20:57 +0000"
     },
     "done": true
   },
@@ -3013,6 +3129,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-16 15:22:25 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_chest": {
     "criteria": {
       "has_lots_of_items": "2025-08-16 15:04:56 +0000"
@@ -3082,6 +3204,12 @@
   "bclib:recipes/redstone/tag_hopper": {
     "criteria": {
       "has_tag_c_ingots/iron": "2025-08-16 15:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_axe": "2025-08-16 15:26:09 +0000"
     },
     "done": true
   },

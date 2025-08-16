@@ -3336,3 +3336,25 @@ Caused by: java.lang.RuntimeException: Cannot load class com.dooji.underlay.jade
 [15:19:49] [Server thread/INFO]: Saving data for 99 chunks for dimension 'overworld' took 1 milliseconds
 [15:22:59] [Server thread/INFO]: Nikomaiden has made the advancement [Sweet Dreams]
 [15:23:04] [Server thread/INFO]: Rogerto has made the advancement [Sweet Dreams]
+[15:24:49] [Server thread/INFO]: Saving data for 138 chunks for dimension 'overworld' took 1 milliseconds
+[15:28:58] [Worker-Main-9/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:28:58] [Worker-Main-9/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:29:04] [Worker-Main-7/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:29:04] [Worker-Main-9/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:29:04] [Worker-Main-9/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:29:04] [Worker-Main-9/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:29:04] [Worker-Main-9/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:29:04] [Worker-Main-8/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[15:29:04] [Worker-Main-8/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:29:04] [Worker-Main-8/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[15:29:04] [Worker-Main-8/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:29:04] [Worker-Main-8/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[15:29:04] [Worker-Main-8/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:29:04] [Worker-Main-8/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[15:29:04] [Worker-Main-8/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:29:04] [Worker-Main-8/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[15:29:04] [Worker-Main-8/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:29:04] [Worker-Main-8/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[15:29:04] [Worker-Main-8/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[15:29:49] [Server thread/INFO]: Saving data for 146 chunks for dimension 'overworld' took 1 milliseconds
+[15:30:26] [Server thread/INFO]: Rogerto has made the advancement [Acquire Hardware]
