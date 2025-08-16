@@ -117,16 +117,17 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "natures_spirit:chaparral": "2025-08-16 15:37:30 +0000",
-      "natures_spirit:tropical_shores": "2025-08-16 15:14:27 +0000",
       "minecraft:beach": "2025-08-16 15:55:28 +0000",
       "minecraft:forest": "2025-08-16 15:10:16 +0000",
-      "minecraft:jungle": "2025-08-16 15:42:52 +0000",
+      "minecraft:sparse_jungle": "2025-08-16 16:04:24 +0000",
       "minecraft:river": "2025-08-16 15:12:42 +0000",
       "minecraft:lukewarm_ocean": "2025-08-16 15:14:50 +0000",
-      "minecraft:savanna": "2025-08-16 15:19:22 +0000",
       "natures_spirit:cypress_fields": "2025-08-16 15:38:16 +0000",
-      "minecraft:plains": "2025-08-16 15:12:47 +0000",
       "natures_spirit:oak_savanna": "2025-08-16 15:33:03 +0000",
+      "natures_spirit:tropical_shores": "2025-08-16 15:14:27 +0000",
+      "minecraft:jungle": "2025-08-16 15:42:52 +0000",
+      "minecraft:savanna": "2025-08-16 15:19:22 +0000",
+      "minecraft:plains": "2025-08-16 15:12:47 +0000",
       "natures_spirit:sugi_forest": "2025-08-16 14:49:24 +0000"
     },
     "done": false
@@ -260,6 +261,12 @@
   "magnumtorch:recipes/decorations/emerald_magnum_torch": {
     "criteria": {
       "has_emerald": "2025-08-16 15:53:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-08-16 16:02:51 +0000"
     },
     "done": true
   },
@@ -617,6 +624,12 @@
     },
     "done": true
   },
+  "eternalnether:recipes/building_blocks/blackstone": {
+    "criteria": {
+      "has_cobbled_blackstone": "2025-08-16 16:02:20 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2025-08-16 15:12:44 +0000"
@@ -710,6 +723,12 @@
   "biomesoplenty:recipes/redstone/redwood_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-16 15:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-08-16 16:01:39 +0000"
     },
     "done": true
   },
@@ -1070,6 +1089,12 @@
   "handcrafted:recipes/misc/goat_trophy": {
     "criteria": {
       "has_goat_trophy": "2025-08-16 15:02:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-08-16 16:01:39 +0000"
     },
     "done": true
   },
@@ -2483,6 +2508,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-08-16 16:01:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-08-16 15:07:19 +0000"
@@ -3052,6 +3083,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:cave_spider": "2025-08-16 16:00:05 +0000",
       "minecraft:skeleton": "2025-08-16 15:54:23 +0000",
       "minecraft:spider": "2025-08-16 15:46:11 +0000",
       "minecraft:creeper": "2025-08-16 15:43:35 +0000",
@@ -3146,6 +3178,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-08-16 15:10:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-08-16 16:02:51 +0000"
     },
     "done": true
   },
@@ -3827,6 +3865,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/andesite_pedestal": {
+    "criteria": {
+      "has_polished_andesite": "2025-08-16 16:01:39 +0000"
+    },
+    "done": true
+  },
   "natures_spirit:recipes/building_blocks/sugi_planks": {
     "criteria": {
       "has_logs": "2025-08-16 15:05:22 +0000"
@@ -4226,6 +4270,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "old_growth_woodland": "2025-08-16 15:54:18 +0000",
+      "rainforest": "2025-08-16 16:03:37 +0000",
       "redwood_forest": "2025-08-16 14:55:49 +0000",
       "scrubland": "2025-08-16 15:21:59 +0000"
     },
@@ -4240,6 +4285,12 @@
   "biomesoplenty:recipes/transportation/magic_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-16 15:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-08-16 16:02:51 +0000"
     },
     "done": true
   },
@@ -4679,6 +4730,12 @@
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-08-16 15:19:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-08-16 16:01:39 +0000"
     },
     "done": true
   },
