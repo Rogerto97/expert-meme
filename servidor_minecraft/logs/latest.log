@@ -3319,3 +3319,14 @@ Caused by: java.lang.RuntimeException: Cannot load class com.dooji.underlay.jade
 [15:03:43] [Server thread/INFO]: Rogerto has made the advancement [Getting an Upgrade]
 [15:03:49] [Server thread/INFO]: Nikomaiden has made the advancement [Stone Age]
 [15:03:56] [Server thread/INFO]: Nikomaiden has made the advancement [Getting an Upgrade]
+[15:04:49] [Server thread/INFO]: Saving data for 13 chunks for dimension 'overworld' took 2 milliseconds
+[15:06:42] [Server thread/INFO]: Made Nikomaiden a server operator
+[15:06:46] [Server thread/INFO]: Tree reached max size of 100
+[15:06:53] [Server thread/INFO]: Tree reached max size of 100
+[15:07:03] [Server thread/INFO]: Tree reached max size of 100
+[15:07:07] [Server thread/INFO]: Tree reached max size of 100
+[15:09:49] [Server thread/INFO]: Saving data for 17 chunks for dimension 'overworld' took 1 milliseconds
+[15:10:39] [Server thread/INFO]: Rogerto has made the advancement [Let's Get To Work]
+[15:10:49] [Server thread/INFO]: Rogerto has made the advancement [Crops of the Wild]
+[15:11:28] [Server thread/INFO]: Rogerto has made the advancement [This Must be a Sign!]
+[15:11:54] [Server thread/INFO]: Nikomaiden has made the advancement [This Must be a Sign!]
