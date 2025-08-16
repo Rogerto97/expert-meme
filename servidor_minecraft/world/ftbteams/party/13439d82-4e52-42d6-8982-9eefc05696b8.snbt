@@ -1,0 +1,17 @@
+{
+	id: "13439d82-4e52-42d6-8982-9eefc05696b8"
+	type: "party"
+	owner: "b544a06f-68b5-3fe8-9a0f-7fb32601617a"
+	ranks: {
+		b544a06f-68b5-3fe8-9a0f-7fb32601617a: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "MonasChinas"
+		"ftbteams:description": ""
+		"ftbteams:color": "#EE59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [{ from: "00000000-0000-0000-0000-000000000000", date: 1755356315945L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"Rogerto\"],\"color\":\"yellow\"}" }]
+	extra: { }
+}

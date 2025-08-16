@@ -2,9 +2,7 @@
 	id: "b544a06f-68b5-3fe8-9a0f-7fb32601617a"
 	type: "player"
 	player_name: "Rogerto"
-	ranks: {
-		b544a06f-68b5-3fe8-9a0f-7fb32601617a: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Rogerto"
 		"ftbteams:description": ""
