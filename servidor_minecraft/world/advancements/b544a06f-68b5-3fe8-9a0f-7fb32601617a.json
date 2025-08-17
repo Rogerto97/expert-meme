@@ -3128,8 +3128,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-08-17 17:07:47 +0000",
       "minecraft:cave_spider": "2025-08-16 16:00:05 +0000",
       "minecraft:skeleton": "2025-08-16 15:54:23 +0000",
+      "minecraft:vindicator": "2025-08-17 17:08:38 +0000",
       "minecraft:spider": "2025-08-16 15:46:11 +0000",
       "minecraft:zombie": "2025-08-17 15:40:42 +0000",
       "minecraft:creeper": "2025-08-16 15:43:35 +0000",
@@ -5048,6 +5050,7 @@
   },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
+      "prison_small_1": "2025-08-17 17:09:04 +0000",
       "oak_house_medium_2": "2025-08-16 15:52:07 +0000"
     },
     "done": false
@@ -7045,6 +7048,12 @@
   "stoneworks:recipes/building_blocks/chiseled_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-17 15:24:27 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/crossbow_repairing": {
+    "criteria": {
+      "has_crossbow": "2025-08-17 17:07:47 +0000"
     },
     "done": true
   },

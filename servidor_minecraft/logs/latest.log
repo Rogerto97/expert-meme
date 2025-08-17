@@ -3288,3 +3288,48 @@ java.lang.NullPointerException: Cannot invoke "io.wispforest.accessories.api.slo
 [17:08:38] [Server thread/INFO]: Named entity class_1632['Onella Reilly the Vindicator'/19059, l='ServerLevel[world]', x=-796.48, y=64.00, z=-885.37] died: Onella Reilly the Vindicator was slain by Rogerto
 [17:08:56] [Server thread/INFO]: Named entity class_1632['Walwynn Demir the Vindicator'/19060, l='ServerLevel[world]', x=-774.55, y=62.52, z=-857.32] died: Walwynn Demir the Vindicator was slain by Rogerto
 [17:10:10] [Server thread/INFO]: Named entity class_1604['Keith Daggs the Pillager'/19056, l='ServerLevel[world]', x=-812.24, y=66.00, z=-837.25] died: Keith Daggs the Pillager was slain by Nikomaiden
+[17:10:58] [Server thread/INFO]: Saving data for 763 chunks for dimension 'overworld' took 2 milliseconds
+[17:15:15] [Server thread/INFO]: Nikomaiden lost connection: Disconnected
+[17:15:15] [Server thread/INFO]: Nikomaiden left the game
+[17:15:15] [Server thread/INFO]: Updating all forceload tickets for 00c9cea4-0840-30f7-b9d5-21c8f68f7273
+[17:15:23] [Server thread/INFO]: Rogerto lost connection: Disconnected
+[17:15:23] [Server thread/INFO]: Rogerto left the game
+[17:15:23] [Server thread/INFO]: Updating all forceload tickets for b544a06f-68b5-3fe8-9a0f-7fb32601617a
+[17:15:40] [Server thread/INFO]: Stopping the server
+[17:15:40] [Server thread/INFO]: Invalidated damage temperature effect registry cache
+[17:15:40] [Server thread/INFO]: Resetting environment controller...
+[17:15:40] [Server thread/INFO]: Stopping server
+[17:15:40] [Server thread/INFO]: Saving players
+[17:15:40] [Server thread/INFO]: Saving worlds
+[17:15:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:15:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[17:15:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/voidz:void
+[17:15:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[17:15:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[17:15:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/uf_data:data
+[17:15:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[17:15:40] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[17:15:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:15:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[17:15:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (void): All chunks are saved
+[17:15:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:15:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[17:15:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (data): All chunks are saved
+[17:15:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[17:15:40] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:15:40] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[17:15:40] [Server thread/INFO]: Server stopping, clearing chunk activity tracking map.
+[17:15:40] [Server thread/INFO]: Unloading server configs...
+[17:15:40] [Server thread/INFO]: Sending config unload event for goblintraders-entities.toml
+[17:15:40] [Server thread/INFO]: Finished unloading server configs
+[17:15:40] [Server thread/INFO]: Stopping IO worker...
+[17:15:40] [Server thread/INFO]: Stopped IO worker!
+[17:15:40] [Server thread/INFO]: Dispatching unloading event for config barteringstation-server.toml
+[17:15:40] [Server thread/INFO]: Dispatching unloading event for config easyanvils-server.toml
+[17:15:40] [Server thread/INFO]: Dispatching unloading event for config easymagic-server.toml
+[17:15:40] [Server thread/INFO]: Dispatching unloading event for config illagerinvasion-server.toml
+[17:15:40] [Server thread/INFO]: Dispatching unloading event for config leavesbegone-server.toml
+[17:15:40] [Server thread/INFO]: Dispatching unloading event for config magnumtorch-server.toml
+[17:15:40] [Server thread/INFO]: Dispatching unloading event for config netherchested-server.toml
+[17:15:40] [Server thread/INFO]: Dispatching unloading event for config skeletonaifix-server.toml
+[17:15:40] [Server thread/INFO]: Dispatching unloading event for config tradingpost-server.toml

@@ -3624,6 +3624,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-08-17 17:10:10 +0000",
       "minecraft:cave_spider": "2025-08-16 15:45:08 +0000",
       "minecraft:skeleton": "2025-08-16 15:54:38 +0000",
       "minecraft:spider": "2025-08-16 15:45:24 +0000",
@@ -4146,6 +4147,7 @@
   },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
+      "prison_small_1": "2025-08-17 17:08:19 +0000",
       "oak_house_medium_2": "2025-08-16 15:51:48 +0000"
     },
     "done": false
@@ -4774,6 +4776,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-08-17 17:06:12 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_pavers_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-08-17 16:03:44 +0000"
@@ -4789,6 +4797,12 @@
   "stoneworks:recipes/building_blocks/tuff_shingle_wall_from_tuff_or_tuff_shingles_stonecutting": {
     "criteria": {
       "has_tuff_or_tuff_shingles": "2025-08-17 16:03:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-08-17 17:06:12 +0000"
     },
     "done": true
   },
@@ -5674,6 +5688,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-08-17 17:06:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-08-17 16:06:26 +0000"
@@ -5749,6 +5769,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-17 15:19:55 +0000"
+    },
+    "done": true
+  },
+  "illagerinvasion:recipes/misc/platinum_sheet": {
+    "criteria": {
+      "has_platinum_chunk": "2025-08-17 17:10:11 +0000"
     },
     "done": true
   },
@@ -5995,6 +6021,12 @@
   "stoneworks:recipes/building_blocks/chiseled_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-17 15:25:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/crossbow_repairing": {
+    "criteria": {
+      "has_crossbow": "2025-08-17 17:09:50 +0000"
     },
     "done": true
   },
