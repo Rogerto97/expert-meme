@@ -2033,6 +2033,7 @@
     "criteria": {
       "bread": "2025-08-16 15:09:53 +0000",
       "cooked_mutton": "2025-08-16 15:39:55 +0000",
+      "baked_potato": "2025-08-17 16:56:30 +0000",
       "cooked_salmon": "2025-08-16 15:24:14 +0000"
     },
     "done": false
@@ -3628,7 +3629,8 @@
       "minecraft:spider": "2025-08-16 15:45:24 +0000",
       "minecraft:zombie": "2025-08-17 15:27:49 +0000",
       "minecraft:creeper": "2025-08-16 15:44:09 +0000",
-      "minecraft:zombie_villager": "2025-08-17 15:42:20 +0000"
+      "minecraft:zombie_villager": "2025-08-17 15:42:20 +0000",
+      "minecraft:husk": "2025-08-17 17:01:25 +0000"
     },
     "done": false
   },
@@ -4562,6 +4564,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/fancy_painting": {
+    "criteria": {
+      "has_fancy_painting": "2025-08-17 17:05:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-17 15:25:07 +0000"
@@ -4657,6 +4665,12 @@
       "has_andesite_or_andesite_shingles": "2025-08-17 15:19:55 +0000"
     },
     "done": true
+  },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "blastfurnace": "2025-08-17 17:05:38 +0000"
+    },
+    "done": false
   },
   "aether:recipes/building_blocks/blue_ice_freezing": {
     "criteria": {
@@ -5078,6 +5092,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-17 16:56:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-17 15:24:04 +0000"
@@ -5087,6 +5107,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-08-17 15:27:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-08-17 16:56:26 +0000"
     },
     "done": true
   },
@@ -5564,6 +5590,12 @@
     },
     "done": true
   },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "blastfurnace": "2025-08-17 17:05:38 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_granite_stairs_from_granite_or_cobbled_granite_stonecutting": {
     "criteria": {
       "has_granite_or_cobbled_granite": "2025-08-17 15:25:07 +0000"
@@ -5899,6 +5931,12 @@
       "beehive": "2025-08-17 16:50:55 +0000"
     },
     "done": false
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-08-17 16:56:26 +0000"
+    },
+    "done": true
   },
   "stoneworks:recipes/building_blocks/granite_pillar_from_granite_stonecutting": {
     "criteria": {

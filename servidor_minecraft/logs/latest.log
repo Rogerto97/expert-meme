@@ -3280,3 +3280,11 @@ java.lang.NullPointerException: Cannot invoke "io.wispforest.accessories.api.slo
 [16:54:26] [Server thread/INFO]: Nikomaiden was slain by Husk
 [16:55:58] [Server thread/INFO]: Saving data for 692 chunks for dimension 'overworld' took 2 milliseconds
 [16:57:47] [Server thread/INFO]: Rogerto claimed a grave belonging to Rogerto at -757, 91, -723, minecraft:overworld
+[17:00:58] [Server thread/INFO]: Saving data for 730 chunks for dimension 'overworld' took 2 milliseconds
+[17:01:15] [Server thread/INFO]: Nikomaiden claimed a grave belonging to Nikomaiden at -756, 91, -723, minecraft:overworld
+[17:05:38] [Server thread/INFO]: Nikomaiden has made the advancement [Let's Get To Work]
+[17:05:58] [Server thread/INFO]: Saving data for 730 chunks for dimension 'overworld' took 2 milliseconds
+[17:07:47] [Server thread/INFO]: Named entity class_1604['Teobaldo Adamy the Pillager'/19020, l='ServerLevel[world]', x=-771.63, y=62.50, z=-806.77] died: Teobaldo Adamy the Pillager was slain by Rogerto
+[17:08:38] [Server thread/INFO]: Named entity class_1632['Onella Reilly the Vindicator'/19059, l='ServerLevel[world]', x=-796.48, y=64.00, z=-885.37] died: Onella Reilly the Vindicator was slain by Rogerto
+[17:08:56] [Server thread/INFO]: Named entity class_1632['Walwynn Demir the Vindicator'/19060, l='ServerLevel[world]', x=-774.55, y=62.52, z=-857.32] died: Walwynn Demir the Vindicator was slain by Rogerto
+[17:10:10] [Server thread/INFO]: Named entity class_1604['Keith Daggs the Pillager'/19056, l='ServerLevel[world]', x=-812.24, y=66.00, z=-837.25] died: Keith Daggs the Pillager was slain by Nikomaiden
