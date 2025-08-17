@@ -3271,3 +3271,7 @@ java.lang.NullPointerException: Cannot invoke "io.wispforest.accessories.api.slo
 [16:39:30] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
 [16:39:30] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
 [16:39:30] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[16:40:58] [Server thread/INFO]: Saving data for 649 chunks for dimension 'overworld' took 2 milliseconds
+[16:42:18] [Server thread/INFO]: Nikomaiden was slain by Skeleton
+[16:45:29] [Server thread/INFO]: Nikomaiden claimed a grave belonging to Nikomaiden at -762, 82, -727, minecraft:overworld
+[16:45:58] [Server thread/INFO]: Saving data for 687 chunks for dimension 'overworld' took 2 milliseconds

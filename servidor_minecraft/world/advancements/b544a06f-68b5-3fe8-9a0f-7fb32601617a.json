@@ -195,6 +195,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-08-17 16:40:08 +0000",
       "old_growth_woodland": "2025-08-16 15:54:18 +0000",
       "rainforest": "2025-08-16 16:03:37 +0000",
       "redwood_forest": "2025-08-16 14:55:49 +0000",
@@ -5926,6 +5927,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-08-17 16:40:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-17 15:30:29 +0000"
@@ -6831,6 +6838,12 @@
   "stoneworks:recipes/building_blocks/diorite_brick_wall_from_diorite_or_diorite_bricks_stonecutting": {
     "criteria": {
       "has_diorite_or_diorite_bricks": "2025-08-17 15:31:00 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-08-17 16:41:57 +0000"
     },
     "done": true
   },
