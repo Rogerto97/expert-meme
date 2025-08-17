@@ -2152,6 +2152,7 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "smoker": "2025-08-16 15:10:39 +0000",
+      "smithingtable": "2025-08-17 19:58:16 +0000",
       "stonecutter": "2025-08-17 19:52:17 +0000",
       "brewingstand": "2025-08-17 17:03:52 +0000"
     },
@@ -7132,6 +7133,18 @@
     },
     "done": true
   },
+  "betternether:recipes/misc/farmland": {
+    "criteria": {
+      "has_soul_sand": "2025-08-17 19:59:01 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/food/stalagnate_bowl_wart": {
+    "criteria": {
+      "has_nether_wart": "2025-08-17 19:59:00 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_tile_stairs_stonecutter": {
     "criteria": {
       "has_obsidian": "2025-08-17 19:32:35 +0000"
@@ -7162,15 +7175,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-08-17 19:59:01 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
     "criteria": {
       "has_obsidian": "2025-08-17 19:32:35 +0000"
     },
     "done": true
   },
+  "betternether:recipes/decorations/cincinnasite_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-08-17 19:59:01 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_boots_repairing": {
     "criteria": {
       "has_iron_boots": "2025-08-17 19:45:00 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/brick_pot": {
+    "criteria": {
+      "has_soul_sand": "2025-08-17 19:59:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-08-17 19:59:01 +0000"
     },
     "done": true
   },
@@ -7189,6 +7226,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-08-17 19:46:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/cincinnasite_fire_bowl_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-08-17 19:59:01 +0000"
     },
     "done": true
   },
@@ -7234,6 +7277,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/bricks_fire_bowl_soul": {
+    "criteria": {
+      "has_soul_sand": "2025-08-17 19:59:01 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_glass_smelting": {
     "criteria": {
       "has_obsidian": "2025-08-17 19:32:35 +0000"
@@ -7243,6 +7292,18 @@
   "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
     "criteria": {
       "has_obsidian": "2025-08-17 19:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-08-17 19:59:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-08-17 19:59:00 +0000"
     },
     "done": true
   },
@@ -7258,9 +7319,27 @@
     },
     "done": true
   },
+  "betternether:recipes/food/herbal_medicine": {
+    "criteria": {
+      "has_nether_wart": "2025-08-17 19:59:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-08-17 20:00:49 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/bacon_and_eggs": {
     "criteria": {
       "has_bacon": "2025-08-17 19:41:31 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/soul_sand_soul_sandstone": {
+    "criteria": {
+      "has_soul_sand": "2025-08-17 19:59:01 +0000"
     },
     "done": true
   },

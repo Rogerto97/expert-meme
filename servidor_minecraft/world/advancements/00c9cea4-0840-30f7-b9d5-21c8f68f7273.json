@@ -4149,6 +4149,7 @@
   "adorabuild_structures:tireless_legs": {
     "criteria": {
       "prison_small_1": "2025-08-17 17:08:19 +0000",
+      "jungle_tree_house_1": "2025-08-17 20:03:55 +0000",
       "oak_house_medium_2": "2025-08-16 15:51:48 +0000"
     },
     "done": false
@@ -6067,6 +6068,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-08-17 19:56:24 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-08-17 19:41:59 +0000"
@@ -6124,6 +6131,12 @@
   "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
     "criteria": {
       "has_obsidian": "2025-08-17 19:32:28 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_chestplate_repairing": {
+    "criteria": {
+      "has_chainmail_chestplate": "2025-08-17 20:03:36 +0000"
     },
     "done": true
   },
