@@ -2098,6 +2098,7 @@
       "bread": "2025-08-16 15:06:15 +0000",
       "cooked_chicken": "2025-08-16 16:19:40 +0000",
       "cooked_mutton": "2025-08-16 15:34:19 +0000",
+      "cooked_beef": "2025-08-17 16:12:14 +0000",
       "cooked_salmon": "2025-08-16 15:20:48 +0000"
     },
     "done": false
@@ -5407,6 +5408,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-08-17 16:14:13 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_shingle_stairs_from_diorite_or_diorite_shingles_stonecutting": {
     "criteria": {
       "has_diorite_or_diorite_shingles": "2025-08-17 15:31:00 +0000"
@@ -5698,6 +5705,12 @@
   "stoneworks:recipes/building_blocks/tuff_pillar_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-08-17 15:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-08-17 16:14:14 +0000"
     },
     "done": true
   },
@@ -6336,6 +6349,13 @@
       "has_tuff_or_tuff_plates": "2025-08-17 15:50:43 +0000"
     },
     "done": true
+  },
+  "natures_spirit:adventure/collect_all_flowers": {
+    "criteria": {
+      "poppy": "2025-08-17 16:14:13 +0000",
+      "dandelion": "2025-08-17 16:14:14 +0000"
+    },
+    "done": false
   },
   "stoneworks:recipes/building_blocks/granite_bricks_from_granite_stonecutting": {
     "criteria": {
