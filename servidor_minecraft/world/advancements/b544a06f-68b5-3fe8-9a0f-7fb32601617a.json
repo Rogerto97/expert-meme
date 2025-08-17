@@ -7516,9 +7516,21 @@
     },
     "done": true
   },
+  "inmis:recipes/blazing_backpack": {
+    "criteria": {
+      "has_bejeweled_backpack": "2025-08-17 20:35:04 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/melon_popsicle": {
     "criteria": {
       "has_melon": "2025-08-17 20:18:47 +0000"
+    },
+    "done": true
+  },
+  "inmis:recipes/withered_backpack": {
+    "criteria": {
+      "has_bejeweled_backpack": "2025-08-17 20:35:04 +0000"
     },
     "done": true
   },
@@ -7546,6 +7558,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-08-17 20:34:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
     "criteria": {
       "has_golden_knife": "2025-08-17 20:31:01 +0000"
@@ -7564,6 +7582,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2025-08-17 20:36:11 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/craft_knife": {
     "criteria": {
       "golden_knife": "2025-08-17 20:31:01 +0000"
@@ -7573,6 +7597,12 @@
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2025-08-17 20:18:47 +0000"
+    },
+    "done": true
+  },
+  "inmis:bejeweled_backpack": {
+    "criteria": {
+      "backpack": "2025-08-17 20:35:04 +0000"
     },
     "done": true
   },

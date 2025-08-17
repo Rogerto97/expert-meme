@@ -5949,7 +5949,8 @@
   },
   "natures_spirit:adventure/collect_all_flowers": {
     "criteria": {
-      "rose_bush": "2025-08-17 16:35:38 +0000"
+      "rose_bush": "2025-08-17 16:35:38 +0000",
+      "poppy": "2025-08-17 20:34:30 +0000"
     },
     "done": false
   },
@@ -6073,6 +6074,12 @@
     },
     "done": true
   },
+  "inmis:recipes/blazing_backpack": {
+    "criteria": {
+      "has_bejeweled_backpack": "2025-08-17 20:35:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-08-17 19:56:24 +0000"
@@ -6097,9 +6104,27 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-08-17 20:38:55 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/guide_book": {
     "criteria": {
       "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
+  "inmis:recipes/withered_backpack": {
+    "criteria": {
+      "has_bejeweled_backpack": "2025-08-17 20:35:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-08-17 20:34:30 +0000"
     },
     "done": true
   },
@@ -6241,6 +6266,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-08-17 20:34:30 +0000"
+    },
+    "done": true
+  },
   "charm:vanilla_wood_variants/recipes/acacia_bookshelf": {
     "criteria": {
       "has_book": "2025-08-17 20:33:10 +0000"
@@ -6307,6 +6338,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-17 20:34:30 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/warped_bookshelf": {
     "criteria": {
       "has_book": "2025-08-17 20:33:10 +0000"
@@ -6325,6 +6362,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-17 20:34:30 +0000"
+    },
+    "done": true
+  },
   "charm:vanilla_wood_variants/recipes/dark_oak_bookshelf": {
     "criteria": {
       "has_book": "2025-08-17 20:33:10 +0000"
@@ -6334,6 +6377,12 @@
   "charm:atlases/recipes/atlas": {
     "criteria": {
       "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-08-17 20:34:30 +0000"
     },
     "done": true
   },
@@ -6379,9 +6428,27 @@
     },
     "done": true
   },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2025-08-17 20:36:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-08-17 20:37:15 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/building_blocks/pythadendron_bookshelf": {
     "criteria": {
       "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-17 20:34:30 +0000"
     },
     "done": true
   },
@@ -6463,6 +6530,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-17 20:34:30 +0000"
+    },
+    "done": true
+  },
   "inmis:recipes/bejeweled_backpack": {
     "criteria": {
       "has_gilded_backpack": "2025-08-17 19:42:34 +0000"
@@ -6472,6 +6545,12 @@
   "betternether:recipes/building_blocks/obsidian_glass_smelting": {
     "criteria": {
       "has_obsidian": "2025-08-17 19:32:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2025-08-17 20:39:34 +0000"
     },
     "done": true
   },
@@ -6490,6 +6569,12 @@
   "betternether:recipes/building_blocks/wart_bookshelf": {
     "criteria": {
       "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
+  "inmis:bejeweled_backpack": {
+    "criteria": {
+      "backpack": "2025-08-17 20:35:25 +0000"
     },
     "done": true
   },
@@ -6580,6 +6665,12 @@
   "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-08-17 20:06:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-08-17 20:34:30 +0000"
     },
     "done": true
   },
