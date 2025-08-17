@@ -5378,6 +5378,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-08-17 16:19:36 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_pavers_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-17 15:19:47 +0000"
@@ -5449,6 +5455,14 @@
       "has_granite": "2025-08-17 15:24:27 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "onion": "2025-08-17 16:25:44 +0000",
+      "potato": "2025-08-17 16:24:55 +0000",
+      "carrot": "2025-08-17 16:24:43 +0000"
+    },
+    "done": false
   },
   "bosses_of_mass_destruction:recipes/void_lily": {
     "criteria": {
@@ -5546,6 +5560,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2025-08-17 16:20:41 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_tiles_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-17 15:24:27 +0000"
@@ -5594,6 +5614,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_hoe_repairing": {
+    "criteria": {
+      "has_iron_hoe": "2025-08-17 16:23:51 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_diorite_brick_slab_from_diorite_or_mossy_diorite_bricks_stonecutting": {
     "criteria": {
       "has_diorite_or_mossy_diorite_bricks": "2025-08-17 15:31:00 +0000"
@@ -5615,6 +5641,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-17 15:23:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-08-17 16:20:41 +0000"
     },
     "done": true
   },
@@ -5813,6 +5845,12 @@
   "stoneworks:recipes/building_blocks/diorite_paver_slab_from_diorite_or_diorite_pavers_stonecutting": {
     "criteria": {
       "has_diorite_or_diorite_pavers": "2025-08-17 15:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-08-17 16:23:09 +0000"
     },
     "done": true
   },
@@ -6344,6 +6382,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2025-08-17 16:16:31 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/tuff_plate_stairs_from_tuff_or_tuff_plates_stonecutting": {
     "criteria": {
       "has_tuff_or_tuff_plates": "2025-08-17 15:50:43 +0000"
@@ -6353,6 +6397,7 @@
   "natures_spirit:adventure/collect_all_flowers": {
     "criteria": {
       "poppy": "2025-08-17 16:14:13 +0000",
+      "allium": "2025-08-17 16:23:09 +0000",
       "dandelion": "2025-08-17 16:14:14 +0000"
     },
     "done": false
@@ -6429,6 +6474,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_chestplate_repairing": {
+    "criteria": {
+      "has_diamond_chestplate": "2025-08-17 16:19:36 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_slab_from_tuff_or_mossy_cobbled_tuff_stonecutting": {
     "criteria": {
       "has_tuff_or_mossy_cobbled_tuff": "2025-08-17 15:50:43 +0000"
@@ -6438,6 +6489,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-08-17 15:36:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_sword_repairing": {
+    "criteria": {
+      "has_diamond_sword": "2025-08-17 16:20:11 +0000"
     },
     "done": true
   },
@@ -6558,6 +6615,12 @@
   "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-08-17 15:50:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2025-08-17 16:19:52 +0000"
     },
     "done": true
   },
