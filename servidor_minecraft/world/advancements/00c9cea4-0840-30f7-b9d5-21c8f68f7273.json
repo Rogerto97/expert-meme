@@ -4490,6 +4490,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-08-17 16:53:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-17 15:24:04 +0000"
@@ -4979,6 +4985,12 @@
   "stoneworks:recipes/building_blocks/andesite_plates_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-17 15:19:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-08-17 16:53:31 +0000"
     },
     "done": true
   },
@@ -5882,6 +5894,12 @@
     },
     "done": true
   },
+  "friendsandfoes:husbandry/beehive": {
+    "criteria": {
+      "beehive": "2025-08-17 16:50:55 +0000"
+    },
+    "done": false
+  },
   "stoneworks:recipes/building_blocks/granite_pillar_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-17 15:25:07 +0000"
@@ -5939,6 +5957,12 @@
   "stoneworks:recipes/building_blocks/chiseled_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-17 15:25:07 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/rabbit_stew_from_toadstool": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-08-17 16:53:31 +0000"
     },
     "done": true
   },

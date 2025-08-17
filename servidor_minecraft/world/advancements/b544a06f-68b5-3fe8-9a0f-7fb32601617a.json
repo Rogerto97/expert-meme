@@ -3131,7 +3131,8 @@
       "minecraft:spider": "2025-08-16 15:46:11 +0000",
       "minecraft:zombie": "2025-08-17 15:40:42 +0000",
       "minecraft:creeper": "2025-08-16 15:43:35 +0000",
-      "minecraft:drowned": "2025-08-16 15:15:29 +0000"
+      "minecraft:drowned": "2025-08-16 15:15:29 +0000",
+      "minecraft:husk": "2025-08-17 16:54:22 +0000"
     },
     "done": false
   },
@@ -5543,9 +5544,21 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-08-17 16:51:51 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/granite_corner_trim": {
     "criteria": {
       "has_granite_corner_trim": "2025-08-17 15:24:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_campfire_cooking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-08-17 16:50:21 +0000"
     },
     "done": true
   },
@@ -5639,6 +5652,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/smoked_ham": {
+    "criteria": {
+      "has_ham": "2025-08-17 16:51:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-17 15:23:17 +0000"
@@ -5648,6 +5667,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-08-17 16:20:41 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2025-08-17 16:49:03 +0000"
     },
     "done": true
   },
@@ -5708,6 +5733,12 @@
   "stoneworks:recipes/building_blocks/diorite_plate_stairs_from_diorite_or_diorite_plates_stonecutting": {
     "criteria": {
       "has_diorite_or_diorite_plates": "2025-08-17 15:31:00 +0000"
+    },
+    "done": true
+  },
+  "charm:kilns/recipes/glass": {
+    "criteria": {
+      "has_sand": "2025-08-17 16:54:22 +0000"
     },
     "done": true
   },
@@ -5813,6 +5844,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/chainmail_boots_repairing": {
+    "criteria": {
+      "has_chainmail_boots": "2025-08-17 16:49:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-08-17 15:42:09 +0000"
@@ -5822,6 +5859,12 @@
   "stoneworks:recipes/building_blocks/diorite_brick_stairs_from_diorite_or_diorite_bricks_stonecutting": {
     "criteria": {
       "has_diorite_or_diorite_bricks": "2025-08-17 15:31:00 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops_from_smoking": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-08-17 16:50:21 +0000"
     },
     "done": true
   },
@@ -5852,6 +5895,12 @@
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2025-08-17 16:23:09 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2025-08-17 16:53:57 +0000"
     },
     "done": true
   },
@@ -5981,6 +6030,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-08-17 16:54:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-08-17 15:44:00 +0000"
@@ -6014,6 +6069,12 @@
   "stoneworks:recipes/building_blocks/andesite_plates_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-17 15:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_mushroom_stew": "2025-08-17 16:55:06 +0000"
     },
     "done": true
   },
@@ -6571,6 +6632,12 @@
     },
     "done": true
   },
+  "natures_spirit:recipes/building_blocks/sandy_soil": {
+    "criteria": {
+      "has_sand": "2025-08-17 16:54:22 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_granite_stairs_from_granite_or_cobbled_granite_stonecutting": {
     "criteria": {
       "has_granite_or_cobbled_granite": "2025-08-17 15:24:27 +0000"
@@ -6619,6 +6686,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_leggings_repairing": {
+    "criteria": {
+      "has_leather_leggings": "2025-08-17 16:49:07 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-08-17 15:50:43 +0000"
@@ -6646,6 +6719,24 @@
   "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-17 15:23:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-08-17 16:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_mushroom_stew": "2025-08-17 16:55:06 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_mutton_chops": {
+    "criteria": {
+      "cooked_mutton_chops": "2025-08-17 16:50:21 +0000"
     },
     "done": true
   },
@@ -6799,6 +6890,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/leather_chestplate_repairing": {
+    "criteria": {
+      "has_leather_chestplate": "2025-08-17 16:49:28 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/detector_rail": {
     "criteria": {
       "has_redstone": "2025-08-17 15:42:09 +0000"
@@ -6874,6 +6971,12 @@
   "stoneworks:recipes/building_blocks/mossy_andesite_brick_stairs_from_andesite_or_mossy_andesite_bricks_stonecutting": {
     "criteria": {
       "has_andesite_or_mossy_andesite_bricks": "2025-08-17 15:19:47 +0000"
+    },
+    "done": true
+  },
+  "charm:gunpowder_block/recipes/tnt_from_gunpowder_block": {
+    "criteria": {
+      "has_sand": "2025-08-17 16:54:22 +0000"
     },
     "done": true
   },
