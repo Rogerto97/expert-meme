@@ -140,7 +140,8 @@
       "old_growth_woodland": "2025-08-16 15:54:27 +0000",
       "rainforest": "2025-08-16 16:03:39 +0000",
       "redwood_forest": "2025-08-16 14:54:49 +0000",
-      "scrubland": "2025-08-16 15:20:39 +0000"
+      "scrubland": "2025-08-16 15:20:39 +0000",
+      "prairie": "2025-08-17 20:17:49 +0000"
     },
     "done": false
   },
@@ -158,6 +159,7 @@
       "natures_spirit:tropical_shores": "2025-08-16 15:14:29 +0000",
       "natures_spirit:wooded_drylands": "2025-08-16 15:12:21 +0000",
       "minecraft:jungle": "2025-08-16 15:42:42 +0000",
+      "minecraft:swamp": "2025-08-17 20:22:08 +0000",
       "minecraft:savanna": "2025-08-16 15:19:25 +0000",
       "minecraft:plains": "2025-08-16 15:13:13 +0000",
       "minecraft:windswept_savanna": "2025-08-17 20:09:43 +0000",
@@ -6145,6 +6147,12 @@
   "aether:recipes/combat/chainmail_chestplate_repairing": {
     "criteria": {
       "has_chainmail_chestplate": "2025-08-17 20:03:36 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-08-17 20:15:04 +0000"
     },
     "done": true
   },
