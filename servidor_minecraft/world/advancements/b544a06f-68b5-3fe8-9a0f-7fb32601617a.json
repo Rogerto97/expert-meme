@@ -196,6 +196,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-08-17 16:40:08 +0000",
+      "floodplain": "2025-08-17 19:46:00 +0000",
       "old_growth_woodland": "2025-08-16 15:54:18 +0000",
       "rainforest": "2025-08-16 16:03:37 +0000",
       "redwood_forest": "2025-08-16 14:55:49 +0000",
@@ -2101,7 +2102,8 @@
       "cooked_chicken": "2025-08-16 16:19:40 +0000",
       "cooked_mutton": "2025-08-16 15:34:19 +0000",
       "cooked_beef": "2025-08-17 16:12:14 +0000",
-      "cooked_salmon": "2025-08-16 15:20:48 +0000"
+      "cooked_salmon": "2025-08-16 15:20:48 +0000",
+      "pumpkin_pie": "2025-08-17 19:50:29 +0000"
     },
     "done": false
   },
@@ -2150,6 +2152,7 @@
   "morevillagers:all_workstations_get": {
     "criteria": {
       "smoker": "2025-08-16 15:10:39 +0000",
+      "stonecutter": "2025-08-17 19:52:17 +0000",
       "brewingstand": "2025-08-17 17:03:52 +0000"
     },
     "done": false
@@ -7081,15 +7084,45 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-08-17 19:45:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/bacon_sandwich": {
     "criteria": {
       "has_bacon": "2025-08-17 19:41:31 +0000"
     },
     "done": true
   },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-08-17 19:51:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-17 19:51:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough": {
+    "criteria": {
+      "has_wheat": "2025-08-17 19:46:30 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
     "criteria": {
       "has_obsidian": "2025-08-17 19:32:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-08-17 19:46:30 +0000"
     },
     "done": true
   },
@@ -7111,6 +7144,12 @@
     },
     "done": true
   },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2025-08-17 19:45:26 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
     "criteria": {
       "has_obsidian": "2025-08-17 19:32:35 +0000"
@@ -7129,9 +7168,27 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2025-08-17 19:45:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-08-17 19:46:30 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
     "criteria": {
       "has_obsidian": "2025-08-17 19:32:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-08-17 19:46:30 +0000"
     },
     "done": true
   },
@@ -7153,9 +7210,21 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-08-17 19:45:26 +0000"
+    },
+    "done": true
+  },
   "inmis:gilded_backpack": {
     "criteria": {
       "backpack": "2025-08-17 19:42:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-08-17 19:45:26 +0000"
     },
     "done": true
   },
@@ -7198,6 +7267,18 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-08-17 19:32:35 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/diamond_shovel_repairing": {
+    "criteria": {
+      "has_diamond_shovel": "2025-08-17 19:50:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-08-17 19:45:26 +0000"
     },
     "done": true
   },

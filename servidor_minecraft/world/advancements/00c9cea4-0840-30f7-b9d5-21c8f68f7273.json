@@ -134,6 +134,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "volcanic_plains": "2025-08-17 19:44:40 +0000",
       "woodland": "2025-08-17 16:40:13 +0000",
       "floodplain": "2025-08-17 16:30:27 +0000",
       "old_growth_woodland": "2025-08-16 15:54:27 +0000",
@@ -6072,9 +6073,21 @@
     },
     "done": true
   },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-08-17 19:49:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-08-17 19:31:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-08-17 19:49:46 +0000"
     },
     "done": true
   },
@@ -6123,6 +6136,12 @@
   "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
     "criteria": {
       "has_obsidian": "2025-08-17 19:32:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-08-17 19:50:47 +0000"
     },
     "done": true
   },
@@ -6192,6 +6211,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-08-17 19:50:47 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
     "criteria": {
       "has_obsidian": "2025-08-17 19:32:28 +0000"
@@ -6213,6 +6238,12 @@
   "betternether:recipes/building_blocks/obsidian_tile": {
     "criteria": {
       "has_obsidian": "2025-08-17 19:32:28 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/misc/ice_skate_upgrade_template": {
+    "criteria": {
+      "has_ice_skate_upgrade_template": "2025-08-17 19:50:51 +0000"
     },
     "done": true
   },
