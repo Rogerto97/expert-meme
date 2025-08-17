@@ -4153,6 +4153,7 @@
   "adorabuild_structures:tireless_legs": {
     "criteria": {
       "prison_small_1": "2025-08-17 17:08:19 +0000",
+      "oak_house_medium_1": "2025-08-17 20:25:00 +0000",
       "jungle_tree_house_1": "2025-08-17 20:03:55 +0000",
       "oak_house_medium_2": "2025-08-16 15:51:48 +0000"
     },
@@ -6084,9 +6085,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_stone_brick_wall": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-08-17 20:06:03 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/guide_book": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_reed_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
     },
     "done": true
   },
@@ -6096,9 +6115,27 @@
     },
     "done": true
   },
+  "betterend:recipes/building_blocks/dragon_tree_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-08-17 19:31:03 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/end_lotus_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/spruce_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
     },
     "done": true
   },
@@ -6108,9 +6145,45 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/mushroom_fir_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/mossy_glowshroom_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/lacugrove_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/jungle_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/crimson_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
     "criteria": {
       "has_obsidian": "2025-08-17 19:32:28 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/umbrella_tree_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
     },
     "done": true
   },
@@ -6120,9 +6193,57 @@
     },
     "done": true
   },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2025-08-17 20:33:24 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_lectern": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/tenanea_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_tile_stairs_stonecutter": {
     "criteria": {
       "has_obsidian": "2025-08-17 19:32:28 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/birch_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/helix_tree_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/acacia_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
     },
     "done": true
   },
@@ -6138,6 +6259,12 @@
     },
     "done": true
   },
+  "charm:vanilla_wood_variants/recipes/lectern_with_custom_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_rod_tiles_stonecutting": {
     "criteria": {
       "has_obsidian": "2025-08-17 19:32:28 +0000"
@@ -6147,6 +6274,18 @@
   "aether:recipes/combat/chainmail_chestplate_repairing": {
     "criteria": {
       "has_chainmail_chestplate": "2025-08-17 20:03:36 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/anchor_tree_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
     },
     "done": true
   },
@@ -6168,15 +6307,45 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/warped_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_tile_small_stonecutter": {
     "criteria": {
       "has_obsidian": "2025-08-17 19:32:28 +0000"
     },
     "done": true
   },
+  "charm:vanilla_wood_variants/recipes/bamboo_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/dark_oak_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
+  "charm:atlases/recipes/atlas": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-08-17 19:50:47 +0000"
+    },
+    "done": true
+  },
+  "charm:ebony_wood/recipes/ebony_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
     },
     "done": true
   },
@@ -6192,6 +6361,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_tile_slab_stonecutter": {
     "criteria": {
       "has_obsidian": "2025-08-17 19:32:28 +0000"
@@ -6204,6 +6379,18 @@
     },
     "done": true
   },
+  "betterend:recipes/building_blocks/pythadendron_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/mangrove_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-08-17 19:32:28 +0000"
@@ -6213,6 +6400,18 @@
   "betternether:recipes/building_blocks/obsidian_tile_stonecutter": {
     "criteria": {
       "has_obsidian": "2025-08-17 19:32:28 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/stalagnate_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/stackable_book": {
+    "criteria": {
+      "has_stackable_book": "2025-08-17 20:33:10 +0000"
     },
     "done": true
   },
@@ -6231,6 +6430,18 @@
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2025-08-17 20:06:03 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/lucernia_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
     },
     "done": true
   },
@@ -6276,6 +6487,18 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/wart_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_mushroom_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/fried_rice": {
     "criteria": {
       "has_any_ingredient": "2025-08-17 19:41:59 +0000"
@@ -6291,6 +6514,54 @@
   "betternether:recipes/building_blocks/obsidian_tile": {
     "criteria": {
       "has_obsidian": "2025-08-17 19:32:28 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/willow_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/rubeus_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/building_blocks/jellyshroom_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/warped_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/cherry_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/crimson_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
+  "charm:azalea_wood/recipes/azalea_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/nether_sakura_bookshelf": {
+    "criteria": {
+      "has_book": "2025-08-17 20:33:10 +0000"
     },
     "done": true
   },
