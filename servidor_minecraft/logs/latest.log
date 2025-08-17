@@ -3122,3 +3122,18 @@ Caused by: java.lang.RuntimeException: Cannot load class com.dooji.underlay.jade
 [19:56:24] [Server thread/INFO]: Nikomaiden has made the advancement [Take Aim]
 [19:59:08] [Server thread/INFO]: Saving data for 832 chunks for dimension 'overworld' took 2 milliseconds
 [20:04:08] [Server thread/INFO]: Saving data for 887 chunks for dimension 'overworld' took 2 milliseconds
+[20:09:08] [Server thread/INFO]: Saving data for 924 chunks for dimension 'overworld' took 6 milliseconds
+[20:09:35] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:09:35] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:09:53] [Server thread/INFO]: Rogerto lost connection: Timed out
+[20:09:53] [Server thread/INFO]: Rogerto left the game
+[20:09:53] [Server thread/INFO]: Updating all forceload tickets for b544a06f-68b5-3fe8-9a0f-7fb32601617a
+[20:09:53] [Server thread/WARN]: handleDisconnection() called twice
+[20:14:08] [Server thread/INFO]: Saving data for 952 chunks for dimension 'overworld' took 4 milliseconds
+[20:18:22] [Server thread/INFO]: Rogerto[/127.236.71.96:47615] logged in with entity id 9644 at (-1430.6165758317268, 63.41999998688698, -1686.6399204150443)
+[20:18:22] [Server thread/INFO]: Sending server config values to client
+[20:18:22] [Server thread/INFO]: Rogerto joined the game
+[20:18:23] [Server thread/INFO]: Updating all forceload tickets for b544a06f-68b5-3fe8-9a0f-7fb32601617a
+[20:18:25] [Server thread/INFO]: Channel update: Rogerto -> default
+[20:18:25] [Server thread/INFO]: Priority overwritten for player Rogerto. Claiming: GRAVE / Robbing: INVENTORY
+[20:18:25] [Server thread/INFO]: Receiving client config
