@@ -5287,6 +5287,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cracked_tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-08-17 15:50:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_paver_wall_from_diorite_or_diorite_pavers_stonecutting": {
     "criteria": {
       "has_diorite_or_diorite_pavers": "2025-08-17 15:31:00 +0000"
@@ -5302,6 +5308,12 @@
   "stoneworks:recipes/building_blocks/cobbled_andesite_slab_from_andesite_or_cobbled_andesite_stonecutting": {
     "criteria": {
       "has_andesite_or_cobbled_andesite": "2025-08-17 15:19:47 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_tuff_brick_stairs_from_tuff_or_mossy_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_or_mossy_tuff_bricks": "2025-08-17 15:50:43 +0000"
     },
     "done": true
   },
@@ -5413,6 +5425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tuff_brick_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-08-17 15:50:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_tile_wall_from_diorite_or_diorite_tiles_stonecutting": {
     "criteria": {
       "has_diorite_or_diorite_tiles": "2025-08-17 15:31:00 +0000"
@@ -5434,6 +5452,12 @@
   "stoneworks:recipes/building_blocks/mossy_diorite_brick_wall_from_diorite_or_mossy_diorite_bricks_stonecutting": {
     "criteria": {
       "has_diorite_or_mossy_diorite_bricks": "2025-08-17 15:31:00 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_plate_slab_from_tuff_or_tuff_plates_stonecutting": {
+    "criteria": {
+      "has_tuff_or_tuff_plates": "2025-08-17 15:50:43 +0000"
     },
     "done": true
   },
@@ -5482,6 +5506,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-17 15:31:00 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_tile_wall_from_tuff_or_tuff_tiles_stonecutting": {
+    "criteria": {
+      "has_tuff_or_tuff_tiles": "2025-08-17 15:50:43 +0000"
     },
     "done": true
   },
@@ -5539,6 +5569,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_paver_slab_from_tuff_or_tuff_pavers_stonecutting": {
+    "criteria": {
+      "has_tuff_or_tuff_pavers": "2025-08-17 15:50:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_granite_bricks_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-17 15:24:27 +0000"
@@ -5560,6 +5596,12 @@
   "stoneworks:recipes/building_blocks/andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-17 15:19:47 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_plate_wall_from_tuff_or_tuff_plates_stonecutting": {
+    "criteria": {
+      "has_tuff_or_tuff_plates": "2025-08-17 15:50:43 +0000"
     },
     "done": true
   },
@@ -5593,6 +5635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-08-17 15:50:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_shingle_slab_from_andesite_or_andesite_shingles_stonecutting": {
     "criteria": {
       "has_andesite_or_andesite_shingles": "2025-08-17 15:19:47 +0000"
@@ -5602,6 +5650,12 @@
   "aether:recipes/building_blocks/blue_ice_freezing": {
     "criteria": {
       "has_water_bucket": "2025-08-17 15:36:01 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_plates_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-08-17 15:50:43 +0000"
     },
     "done": true
   },
@@ -5632,6 +5686,18 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-17 15:23:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-08-17 15:50:43 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_pillar_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-08-17 15:50:43 +0000"
     },
     "done": true
   },
@@ -5671,15 +5737,33 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-08-17 15:50:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_andesite_stairs_from_andesite_or_mossy_cobbled_andesite_stonecutting": {
     "criteria": {
       "has_andesite_or_mossy_cobbled_andesite": "2025-08-17 15:19:47 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_pavers_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-08-17 15:50:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_andesite_stairs_from_andesite_or_cobbled_andesite_stonecutting": {
     "criteria": {
       "has_andesite_or_cobbled_andesite": "2025-08-17 15:19:47 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_shingle_wall_from_tuff_or_tuff_shingles_stonecutting": {
+    "criteria": {
+      "has_tuff_or_tuff_shingles": "2025-08-17 15:50:43 +0000"
     },
     "done": true
   },
@@ -5692,6 +5776,12 @@
   "stoneworks:recipes/building_blocks/diorite_brick_stairs_from_diorite_or_diorite_bricks_stonecutting": {
     "criteria": {
       "has_diorite_or_diorite_bricks": "2025-08-17 15:31:00 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_tuff_brick_wall_from_tuff_or_mossy_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_or_mossy_tuff_bricks": "2025-08-17 15:50:43 +0000"
     },
     "done": true
   },
@@ -5725,15 +5815,45 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_paver_stairs_from_tuff_or_tuff_pavers_stonecutting": {
+    "criteria": {
+      "has_tuff_or_tuff_pavers": "2025-08-17 15:50:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/diorite_plate_wall_from_diorite_or_diorite_plates_stonecutting": {
     "criteria": {
       "has_diorite_or_diorite_plates": "2025-08-17 15:31:00 +0000"
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_wall_from_tuff_or_mossy_cobbled_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff_or_mossy_cobbled_tuff": "2025-08-17 15:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_slab": {
+    "criteria": {
+      "has_tuff": "2025-08-17 15:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_brick_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-08-17 15:50:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_andesite_bricks_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-17 15:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-08-17 15:50:43 +0000"
     },
     "done": true
   },
@@ -5809,6 +5929,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/tuff_stairs_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-08-17 15:50:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-17 15:31:00 +0000"
@@ -5863,6 +5989,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-08-17 15:50:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-17 15:30:29 +0000"
@@ -5872,6 +6004,12 @@
   "stoneworks:recipes/building_blocks/diorite_pavers_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-17 15:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-08-17 15:50:43 +0000"
     },
     "done": true
   },
@@ -5947,6 +6085,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_tile_stairs_from_tuff_or_tuff_tiles_stonecutting": {
+    "criteria": {
+      "has_tuff_or_tuff_tiles": "2025-08-17 15:50:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-17 15:23:17 +0000"
@@ -5968,6 +6112,12 @@
   "stoneworks:recipes/building_blocks/cobbled_andesite_wall_from_andesite_or_cobbled_andesite_stonecutting": {
     "criteria": {
       "has_andesite_or_cobbled_andesite": "2025-08-17 15:19:47 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_paver_wall_from_tuff_or_tuff_pavers_stonecutting": {
+    "criteria": {
+      "has_tuff_or_tuff_pavers": "2025-08-17 15:50:43 +0000"
     },
     "done": true
   },
@@ -6001,6 +6151,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-08-17 15:50:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_brick_stairs_from_andesite_or_andesite_bricks_stonecutting": {
     "criteria": {
       "has_andesite_or_andesite_bricks": "2025-08-17 15:19:47 +0000"
@@ -6010,6 +6166,12 @@
   "stoneworks:recipes/building_blocks/cracked_andesite_tiles_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-17 15:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-08-17 15:50:43 +0000"
     },
     "done": true
   },
@@ -6034,6 +6196,24 @@
   "stoneworks:recipes/building_blocks/granite_brick_wall_from_granite_or_granite_bricks_stonecutting": {
     "criteria": {
       "has_granite_or_granite_bricks": "2025-08-17 15:24:27 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_shingle_stairs_from_tuff_or_tuff_shingles_stonecutting": {
+    "criteria": {
+      "has_tuff_or_tuff_shingles": "2025-08-17 15:50:43 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_tuff_brick_slab_from_tuff_or_mossy_tuff_bricks_stonecutting": {
+    "criteria": {
+      "has_tuff_or_mossy_tuff_bricks": "2025-08-17 15:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_slab_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-08-17 15:50:43 +0000"
     },
     "done": true
   },
@@ -6064,6 +6244,12 @@
   "stoneworks:recipes/building_blocks/diorite_shingle_wall_from_diorite_or_diorite_shingles_stonecutting": {
     "criteria": {
       "has_diorite_or_diorite_shingles": "2025-08-17 15:31:00 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_tile_slab_from_tuff_or_tuff_tiles_stonecutting": {
+    "criteria": {
+      "has_tuff_or_tuff_tiles": "2025-08-17 15:50:43 +0000"
     },
     "done": true
   },
@@ -6127,6 +6313,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cobbled_tuff_slab_from_tuff_or_cobbled_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff_or_cobbled_tuff": "2025-08-17 15:50:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-17 15:24:27 +0000"
@@ -6136,6 +6328,12 @@
   "stoneworks:recipes/building_blocks/cobbled_diorite_stairs_from_diorite_or_cobbled_diorite_stonecutting": {
     "criteria": {
       "has_diorite_or_cobbled_diorite": "2025-08-17 15:31:00 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_plate_stairs_from_tuff_or_tuff_plates_stonecutting": {
+    "criteria": {
+      "has_tuff_or_tuff_plates": "2025-08-17 15:50:43 +0000"
     },
     "done": true
   },
@@ -6151,9 +6349,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/tuff_wall": {
+    "criteria": {
+      "has_tuff": "2025-08-17 15:50:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-17 15:30:29 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_tuff_wall_from_tuff_or_cobbled_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff_or_cobbled_tuff": "2025-08-17 15:50:43 +0000"
     },
     "done": true
   },
@@ -6175,6 +6385,18 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/cracked_tuff_tiles_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-08-17 15:50:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/tuff_wall_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-08-17 15:50:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-08-17 15:31:00 +0000"
@@ -6184,6 +6406,12 @@
   "stoneworks:recipes/building_blocks/chiseled_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-17 15:19:47 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_slab_from_tuff_or_mossy_cobbled_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff_or_mossy_cobbled_tuff": "2025-08-17 15:50:43 +0000"
     },
     "done": true
   },
@@ -6232,6 +6460,12 @@
   "stoneworks:recipes/building_blocks/mossy_granite_brick_stairs_from_granite_or_mossy_granite_bricks_stonecutting": {
     "criteria": {
       "has_granite_or_mossy_granite_bricks": "2025-08-17 15:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_tuff": {
+    "criteria": {
+      "has_tuff": "2025-08-17 15:50:43 +0000"
     },
     "done": true
   },
@@ -6301,9 +6535,21 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-08-17 15:50:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-17 15:23:17 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/cobbled_tuff_stairs_from_tuff_or_cobbled_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff_or_cobbled_tuff": "2025-08-17 15:50:43 +0000"
     },
     "done": true
   },
@@ -6328,6 +6574,12 @@
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-08-17 15:43:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tuff_stairs": {
+    "criteria": {
+      "has_tuff": "2025-08-17 15:50:43 +0000"
     },
     "done": true
   },
@@ -6415,6 +6667,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_tuff_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-08-17 15:50:43 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_tiles_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-08-17 15:50:43 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/sweet_berry_jelly": {
     "criteria": {
       "has_tag_wover_water_bottles": "2025-08-17 15:36:01 +0000"
@@ -6424,6 +6688,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-17 15:19:47 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_tuff_bricks_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-08-17 15:50:43 +0000"
     },
     "done": true
   },
@@ -6451,6 +6721,12 @@
     },
     "done": true
   },
+  "stoneworks:recipes/building_blocks/tuff_shingles_from_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff": "2025-08-17 15:50:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_paver_stairs_from_granite_or_granite_pavers_stonecutting": {
     "criteria": {
       "has_granite_or_granite_pavers": "2025-08-17 15:24:27 +0000"
@@ -6460,6 +6736,12 @@
   "stoneworks:recipes/building_blocks/granite_shingle_stairs_from_granite_or_granite_shingles_stonecutting": {
     "criteria": {
       "has_granite_or_granite_shingles": "2025-08-17 15:24:27 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/tuff_shingle_slab_from_tuff_or_tuff_shingles_stonecutting": {
+    "criteria": {
+      "has_tuff_or_tuff_shingles": "2025-08-17 15:50:43 +0000"
     },
     "done": true
   },
@@ -6574,6 +6856,12 @@
   "stoneworks:recipes/building_blocks/andesite_paver_wall_from_andesite_or_andesite_pavers_stonecutting": {
     "criteria": {
       "has_andesite_or_andesite_pavers": "2025-08-17 15:19:47 +0000"
+    },
+    "done": true
+  },
+  "stoneworks:recipes/building_blocks/mossy_cobbled_tuff_stairs_from_tuff_or_mossy_cobbled_tuff_stonecutting": {
+    "criteria": {
+      "has_tuff_or_mossy_cobbled_tuff": "2025-08-17 15:50:43 +0000"
     },
     "done": true
   },
