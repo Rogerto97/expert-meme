@@ -7081,6 +7081,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/bacon_sandwich": {
+    "criteria": {
+      "has_bacon": "2025-08-17 19:41:31 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_bricks_stairs_stonecutter": {
     "criteria": {
       "has_obsidian": "2025-08-17 19:32:35 +0000"
@@ -7096,6 +7102,12 @@
   "betternether:recipes/building_blocks/obsidian_tile_stairs_stonecutter": {
     "criteria": {
       "has_obsidian": "2025-08-17 19:32:35 +0000"
+    },
+    "done": true
+  },
+  "inmis:plated_backpack": {
+    "criteria": {
+      "backpack": "2025-08-17 19:41:57 +0000"
     },
     "done": true
   },
@@ -7135,6 +7147,24 @@
     },
     "done": true
   },
+  "inmis:recipes/gilded_backpack": {
+    "criteria": {
+      "has_plated_backpack": "2025-08-17 19:41:57 +0000"
+    },
+    "done": true
+  },
+  "inmis:gilded_backpack": {
+    "criteria": {
+      "backpack": "2025-08-17 19:42:13 +0000"
+    },
+    "done": true
+  },
+  "inmis:recipes/bejeweled_backpack": {
+    "criteria": {
+      "has_gilded_backpack": "2025-08-17 19:42:13 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_glass_smelting": {
     "criteria": {
       "has_obsidian": "2025-08-17 19:32:35 +0000"
@@ -7156,6 +7186,12 @@
   "betternether:recipes/building_blocks/obsidian_tile": {
     "criteria": {
       "has_obsidian": "2025-08-17 19:32:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bacon_and_eggs": {
+    "criteria": {
+      "has_bacon": "2025-08-17 19:41:31 +0000"
     },
     "done": true
   },

@@ -6066,6 +6066,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2025-08-17 19:41:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-08-17 19:31:03 +0000"
@@ -6087,6 +6093,18 @@
   "betternether:recipes/building_blocks/obsidian_tile_stairs_stonecutter": {
     "criteria": {
       "has_obsidian": "2025-08-17 19:32:28 +0000"
+    },
+    "done": true
+  },
+  "inmis:plated_backpack": {
+    "criteria": {
+      "backpack": "2025-08-17 19:42:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/skyroot_milk_bucket_cake": {
+    "criteria": {
+      "has_egg": "2025-08-17 19:41:59 +0000"
     },
     "done": true
   },
@@ -6138,6 +6156,36 @@
     },
     "done": true
   },
+  "inmis:recipes/gilded_backpack": {
+    "criteria": {
+      "has_plated_backpack": "2025-08-17 19:42:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2025-08-17 19:41:59 +0000"
+    },
+    "done": true
+  },
+  "inmis:gilded_backpack": {
+    "criteria": {
+      "backpack": "2025-08-17 19:42:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-08-17 19:41:59 +0000"
+    },
+    "done": true
+  },
+  "inmis:recipes/bejeweled_backpack": {
+    "criteria": {
+      "has_gilded_backpack": "2025-08-17 19:42:34 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/obsidian_glass_smelting": {
     "criteria": {
       "has_obsidian": "2025-08-17 19:32:28 +0000"
@@ -6147,6 +6195,12 @@
   "betternether:recipes/building_blocks/obsidian_bricks_slab_stonecutter": {
     "criteria": {
       "has_obsidian": "2025-08-17 19:32:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fried_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-17 19:41:59 +0000"
     },
     "done": true
   },
@@ -6165,6 +6219,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-08-17 19:32:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-08-17 19:41:59 +0000"
     },
     "done": true
   },
