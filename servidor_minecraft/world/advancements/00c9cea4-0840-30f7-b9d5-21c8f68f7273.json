@@ -134,6 +134,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "floodplain": "2025-08-17 16:30:27 +0000",
       "old_growth_woodland": "2025-08-16 15:54:27 +0000",
       "rainforest": "2025-08-16 16:03:39 +0000",
       "redwood_forest": "2025-08-16 14:54:49 +0000",
@@ -4524,6 +4525,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/wheat_dough": {
+    "criteria": {
+      "has_wheat": "2025-08-17 16:31:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-17 15:24:04 +0000"
@@ -4539,6 +4546,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-17 15:19:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2025-08-17 16:31:24 +0000"
     },
     "done": true
   },
@@ -5142,6 +5155,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2025-08-17 16:35:38 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_brick_stairs_from_andesite_or_andesite_bricks_stonecutting": {
     "criteria": {
       "has_andesite_or_andesite_bricks": "2025-08-17 15:19:55 +0000"
@@ -5196,6 +5215,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-08-17 16:31:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/obtain_ancient_debris": {
     "criteria": {
       "ancient_debris": "2025-08-17 15:12:28 +0000"
@@ -5211,6 +5236,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-17 15:25:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-08-17 16:31:24 +0000"
     },
     "done": true
   },
@@ -5333,6 +5364,12 @@
       "has_tuff_or_tuff_plates": "2025-08-17 16:03:44 +0000"
     },
     "done": true
+  },
+  "natures_spirit:adventure/collect_all_flowers": {
+    "criteria": {
+      "rose_bush": "2025-08-17 16:35:38 +0000"
+    },
+    "done": false
   },
   "stoneworks:recipes/building_blocks/granite_bricks_from_granite_stonecutting": {
     "criteria": {
@@ -5598,9 +5635,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-08-17 16:30:57 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/andesite_corner_trim": {
     "criteria": {
       "has_andesite_corner_trim": "2025-08-17 15:19:55 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_dart": {
+    "criteria": {
+      "has_feather": "2025-08-17 16:30:57 +0000"
     },
     "done": true
   },
