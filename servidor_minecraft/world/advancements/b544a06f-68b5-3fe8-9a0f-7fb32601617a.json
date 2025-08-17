@@ -3127,6 +3127,7 @@
       "minecraft:cave_spider": "2025-08-16 16:00:05 +0000",
       "minecraft:skeleton": "2025-08-16 15:54:23 +0000",
       "minecraft:spider": "2025-08-16 15:46:11 +0000",
+      "minecraft:zombie": "2025-08-17 15:40:42 +0000",
       "minecraft:creeper": "2025-08-16 15:43:35 +0000",
       "minecraft:drowned": "2025-08-16 15:15:29 +0000"
     },
@@ -5292,6 +5293,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/packed_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-08-17 15:36:01 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cobbled_andesite_slab_from_andesite_or_cobbled_andesite_stonecutting": {
     "criteria": {
       "has_andesite_or_cobbled_andesite": "2025-08-17 15:19:47 +0000"
@@ -5349,6 +5356,12 @@
   "stoneworks:recipes/building_blocks/cobbled_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-17 15:19:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_piston": {
+    "criteria": {
+      "has_redstone": "2025-08-17 15:42:09 +0000"
     },
     "done": true
   },
@@ -5412,6 +5425,12 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-17 15:44:00 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_diorite_brick_wall_from_diorite_or_mossy_diorite_bricks_stonecutting": {
     "criteria": {
       "has_diorite_or_mossy_diorite_bricks": "2025-08-17 15:31:00 +0000"
@@ -5430,9 +5449,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-17 15:44:00 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/granite_brick_stairs_from_granite_or_granite_bricks_stonecutting": {
     "criteria": {
       "has_granite_or_granite_bricks": "2025-08-17 15:24:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-17 15:44:00 +0000"
     },
     "done": true
   },
@@ -5544,6 +5575,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/shadow_berry_jelly": {
+    "criteria": {
+      "has_tag_wover_water_bottles": "2025-08-17 15:36:01 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_paver_stairs_from_andesite_or_andesite_pavers_stonecutting": {
     "criteria": {
       "has_andesite_or_andesite_pavers": "2025-08-17 15:19:47 +0000"
@@ -5559,6 +5596,12 @@
   "stoneworks:recipes/building_blocks/andesite_shingle_slab_from_andesite_or_andesite_shingles_stonecutting": {
     "criteria": {
       "has_andesite_or_andesite_shingles": "2025-08-17 15:19:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/blue_ice_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-08-17 15:36:01 +0000"
     },
     "done": true
   },
@@ -5598,6 +5641,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/ice_from_bucket_freezing": {
+    "criteria": {
+      "has_water_bucket": "2025-08-17 15:36:01 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_shingle_stairs_from_andesite_or_andesite_shingles_stonecutting": {
     "criteria": {
       "has_andesite_or_andesite_shingles": "2025-08-17 15:19:47 +0000"
@@ -5631,6 +5680,12 @@
   "stoneworks:recipes/building_blocks/cobbled_andesite_stairs_from_andesite_or_cobbled_andesite_stonecutting": {
     "criteria": {
       "has_andesite_or_cobbled_andesite": "2025-08-17 15:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-08-17 15:42:09 +0000"
     },
     "done": true
   },
@@ -5688,6 +5743,12 @@
     },
     "done": true
   },
+  "charm:copper_pistons/recipes/copper_piston": {
+    "criteria": {
+      "has_redstone": "2025-08-17 15:42:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-17 15:31:00 +0000"
@@ -5712,6 +5773,18 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/blossom_berry_jelly": {
+    "criteria": {
+      "has_tag_wover_water_bottles": "2025-08-17 15:36:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-08-17 15:42:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-08-17 15:24:27 +0000"
@@ -5730,9 +5803,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-17 15:44:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-08-17 15:31:00 +0000"
+    },
+    "done": true
+  },
+  "magnumtorch:recipes/decorations/amethyst_magnum_torch": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-17 15:44:00 +0000"
     },
     "done": true
   },
@@ -5757,6 +5842,12 @@
   "stoneworks:recipes/building_blocks/mossy_andesite_brick_wall_from_andesite_or_mossy_andesite_bricks_stonecutting": {
     "criteria": {
       "has_andesite_or_mossy_andesite_bricks": "2025-08-17 15:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-08-17 15:42:09 +0000"
     },
     "done": true
   },
@@ -5832,6 +5923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-08-17 15:42:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-08-17 15:27:03 +0000"
@@ -5880,6 +5977,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-08-17 15:43:36 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_granite_brick_wall_from_granite_or_mossy_granite_bricks_stonecutting": {
     "criteria": {
       "has_granite_or_mossy_granite_bricks": "2025-08-17 15:24:27 +0000"
@@ -5892,6 +5995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-08-17 15:44:00 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/andesite_brick_stairs_from_andesite_or_andesite_bricks_stonecutting": {
     "criteria": {
       "has_andesite_or_andesite_bricks": "2025-08-17 15:19:47 +0000"
@@ -5901,6 +6010,12 @@
   "stoneworks:recipes/building_blocks/cracked_andesite_tiles_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-17 15:19:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_note_block": {
+    "criteria": {
+      "has_redstone": "2025-08-17 15:42:09 +0000"
     },
     "done": true
   },
@@ -5928,6 +6043,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-08-17 15:42:09 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-08-17 15:24:27 +0000"
@@ -5949,6 +6070,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-17 15:30:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-08-17 15:42:09 +0000"
     },
     "done": true
   },
@@ -6057,6 +6184,18 @@
   "stoneworks:recipes/building_blocks/chiseled_andesite_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-17 15:19:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-08-17 15:36:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-08-17 15:42:09 +0000"
     },
     "done": true
   },
@@ -6174,9 +6313,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-08-17 15:42:09 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/diorite_pillar_trim": {
     "criteria": {
       "has_diorite_pillar_trim": "2025-08-17 15:31:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-08-17 15:43:36 +0000"
     },
     "done": true
   },
@@ -6264,6 +6415,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sweet_berry_jelly": {
+    "criteria": {
+      "has_tag_wover_water_bottles": "2025-08-17 15:36:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-08-17 15:19:47 +0000"
@@ -6279,6 +6436,12 @@
   "stoneworks:recipes/building_blocks/mossy_andesite_brick_slab_from_andesite_or_mossy_andesite_bricks_stonecutting": {
     "criteria": {
       "has_andesite_or_mossy_andesite_bricks": "2025-08-17 15:19:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_redstone": "2025-08-17 15:42:09 +0000"
     },
     "done": true
   },
@@ -6351,6 +6514,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-17 15:23:17 +0000"
+    },
+    "done": true
+  },
+  "charm:redstone_sand/recipes/redstone_sand": {
+    "criteria": {
+      "has_redstone": "2025-08-17 15:42:09 +0000"
     },
     "done": true
   },
