@@ -7698,6 +7698,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-24 21:55:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:warped_forest": "2025-08-24 20:39:47 +0000"
@@ -7860,6 +7866,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/misc/crafting/rock_soup": {
+    "criteria": {
+      "has_magma_cream": "2025-08-24 21:55:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
     "criteria": {
       "has_red_nether_bricks": "2025-08-24 21:23:04 +0000"
@@ -7881,6 +7893,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-24 20:38:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-08-24 21:57:48 +0000"
     },
     "done": true
   },
@@ -8148,6 +8166,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/misc/crafting/magma_cake_alt": {
+    "criteria": {
+      "has_magma_cream": "2025-08-24 21:55:32 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/warped_barrel": {
     "criteria": {
       "has_warped_planks": "2025-08-24 19:48:30 +0000"
@@ -8391,6 +8415,12 @@
   "stoneworks:recipes/building_blocks/stone_pillar_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-24 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/burnt_roll": {
+    "criteria": {
+      "has_magma_cream": "2025-08-24 21:55:32 +0000"
     },
     "done": true
   },
@@ -8958,6 +8988,18 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/cooking/cooking/hotcream": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-24 21:57:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-24 21:55:32 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/bn_red_mushroom": {
     "criteria": {
       "has_wall_mushroom_red": "2025-08-24 19:44:51 +0000"
@@ -8997,6 +9039,12 @@
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-08-24 19:53:57 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
+    "criteria": {
+      "has_lava_bucket": "2025-08-24 21:57:48 +0000"
     },
     "done": true
   },
@@ -9206,6 +9254,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-08-24 21:55:32 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/magma_cake": {
+    "criteria": {
+      "has_magma_cream": "2025-08-24 21:55:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-08-24 19:47:12 +0000"
@@ -9314,6 +9374,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-08-24 21:55:32 +0000"
+    },
+    "done": true
+  },
   "charm:vanilla_wood_variants/recipes/warped_barrel": {
     "criteria": {
       "has_planks": "2025-08-24 19:48:30 +0000"
@@ -9407,6 +9473,12 @@
   "handcrafted:recipes/misc/blackstone_corner_trim": {
     "criteria": {
       "has_blackstone_corner_trim": "2025-08-24 19:40:47 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/cooking/burn_roll": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-24 21:55:32 +0000"
     },
     "done": true
   },
@@ -9803,6 +9875,12 @@
   "handcrafted:recipes/misc/wood_plate": {
     "criteria": {
       "has_wood_plate": "2025-08-24 20:50:12 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/cooking/rock_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-24 21:55:32 +0000"
     },
     "done": true
   },

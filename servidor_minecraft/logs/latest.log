@@ -3469,3 +3469,79 @@ Caused by: java.lang.RuntimeException: Cannot load class com.dooji.underlay.jade
 [21:52:08] [Server thread/INFO]: LuLo7 claimed a grave belonging to LuLo7 at -149, 65, -125, minecraft:the_nether
 [21:53:25] [Server thread/INFO]: Saving data for 96 chunks for dimension 'the_nether' took 1 milliseconds
 [21:53:26] [Server thread/INFO]: Saving data for 1457 chunks for dimension 'overworld' took 4 milliseconds
+[21:54:31] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:54:31] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:54:34] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[21:54:45] [Server thread/INFO]: Rogerto claimed a grave belonging to Rogerto at -222, 10, -282, minecraft:the_nether
+[21:55:00] [Server thread/INFO]: Named entity class_5419['ᔑ∴ᔑꖎᔑ ↸∷ᔑ∷𝙹ꖎ'/48864, l='ServerLevel[world]', x=-216.30, y=8.00, z=-290.35] died: ᔑ∴ᔑꖎᔑ ↸∷ᔑ∷𝙹ꖎ was slain by LuLo7
+[21:55:04] [Server thread/INFO]: Named entity class_5419['⨅ᒷ∷ᒷᒷリ 𝙹ᓭℸ ̣ ∷╎↸'/48865, l='ServerLevel[world]', x=-216.63, y=8.00, z=-290.47] died: ⨅ᒷ∷ᒷᒷリ 𝙹ᓭℸ ̣ ∷╎↸ was slain by LuLo7
+[21:55:21] [Server thread/INFO]: Named entity class_5419['𝙹∷⎓⍑ꖎᔑ╎ℸ ̣ ⍑ ᔑ⨅'⊣𝙹⨅𝙹ꖎ'/48944, l='ServerLevel[world]', x=-216.71, y=8.00, z=-290.69] died: 𝙹∷⎓⍑ꖎᔑ╎ℸ ̣ ⍑ ᔑ⨅'⊣𝙹⨅𝙹ꖎ was slain by Rogerto
+[21:55:51] [Server thread/INFO]: Named entity class_5419['⨅ᔑ∷ʖᔑリ⚍ ℸ ̣ ∷ᔑꖌ𝙹ᒲᔑリ'/49011, l='ServerLevel[world]', x=-217.60, y=7.75, z=-291.70] died: ⨅ᔑ∷ʖᔑリ⚍ ℸ ̣ ∷ᔑꖌ𝙹ᒲᔑリ was slain by LuLo7
+[21:57:33] [Server thread/INFO]: Named entity class_5419['ᓵ⍑∷||ᓭᒷᓭ ᓭ!¡ᔑ∷ꖌ'/49256, l='ServerLevel[world]', x=-222.30, y=11.00, z=-285.70] died: ᓵ⍑∷||ᓭᒷᓭ ᓭ!¡ᔑ∷ꖌ was slain by LuLo7
+[21:57:37] [Server thread/INFO]: Named entity class_5419['⍑∷ᔑ⊣ ʖ𝙹ꖎᒲ𝙹∷𝙹リ'/49048, l='ServerLevel[world]', x=-222.30, y=11.00, z=-285.70] died: ⍑∷ᔑ⊣ ʖ𝙹ꖎᒲ𝙹∷𝙹リ was slain by LuLo7
+[21:57:40] [Server thread/INFO]: Named entity class_5419['ᔑ∷↸╎ℸ ̣ ⍊╎ℸ ̣ ᔑꖎ╎ℸ ̣ ||'/49049, l='ServerLevel[world]', x=-222.30, y=11.00, z=-285.70] died: ᔑ∷↸╎ℸ ̣ ⍊╎ℸ ̣ ᔑꖎ╎ℸ ̣ || was slain by LuLo7
+[21:57:44] [Server thread/INFO]: Named entity class_5419['∴𝙹∷ꖌリᒷ⍑ ℸ ̣ 𝙹⊣∷⚍ꖎꖎ𝙹ᓵ⍑'/49069, l='ServerLevel[world]', x=-222.30, y=11.00, z=-285.70] died: ∴𝙹∷ꖌリᒷ⍑ ℸ ̣ 𝙹⊣∷⚍ꖎꖎ𝙹ᓵ⍑ was slain by LuLo7
+[21:57:47] [Server thread/INFO]: Named entity class_5419['ᔑꖌ𝙹ᓭ⚍ᔑ ʖ∷╎ꖎꖎ╎ᔑリᓵ||'/49197, l='ServerLevel[world]', x=-222.54, y=11.00, z=-285.45] died: ᔑꖌ𝙹ᓭ⚍ᔑ ʖ∷╎ꖎꖎ╎ᔑリᓵ|| was slain by LuLo7
+[21:57:48] [Server thread/INFO]: Rogerto has made the advancement [Hot Stuff]
+[21:57:50] [Server thread/INFO]: Named entity class_5419['ᔑリ╎ᒲ╎ℸ ̣ ∷ᔑ ╎リ⎓ᒷ∷リ𝙹'/49143, l='ServerLevel[world]', x=-222.77, y=11.00, z=-285.30] died: ᔑリ╎ᒲ╎ℸ ̣ ∷ᔑ ╎リ⎓ᒷ∷リ𝙹 was slain by LuLo7
+[21:58:13] [Server thread/INFO]: Named entity class_5419['ᓭ⍑ᔑ⍑ᔑʖᔑ ⊣ᒷリᒷᓭ╎ᓭ'/49349, l='ServerLevel[world]', x=-220.68, y=8.00, z=-292.21] died: ᓭ⍑ᔑ⍑ᔑʖᔑ ⊣ᒷリᒷᓭ╎ᓭ tried to swim in lava
+[21:58:25] [Server thread/INFO]: Saving data for 96 chunks for dimension 'the_nether' took 1 milliseconds
+[21:58:25] [Server thread/INFO]: Saving data for 1457 chunks for dimension 'overworld' took 4 milliseconds
+[21:58:29] [Server thread/INFO]: Named entity class_5419['ᓵ∷ᒷᓭᓭ╎↸ᔑ ⚍⊣ᒲ⚍ᓵ⍑'/49348, l='ServerLevel[world]', x=-219.50, y=10.00, z=-293.44] died: ᓵ∷ᒷᓭᓭ╎↸ᔑ ⚍⊣ᒲ⚍ᓵ⍑ was slain by LuLo7
+[21:58:58] [Server thread/INFO]: Named entity class_5419['ʖ𝙹||ꖎᒷ ᔑꖎ⊣𝙹↸ᔑリ'/49447, l='ServerLevel[world]', x=-220.43, y=10.00, z=-288.49] died: ʖ𝙹||ꖎᒷ ᔑꖎ⊣𝙹↸ᔑリ was slain by LuLo7
+[21:59:26] [Server thread/INFO]: LuLo7 was slain by ⚍∷╎ᒷꖎ ⍊╎ℸ ̣ ᔑꖎ╎ℸ ̣ ||
+[21:59:27] [Server thread/INFO]: Named entity class_5419['⚍∷╎ᒷꖎ ⍊╎ℸ ̣ ᔑꖎ╎ℸ ̣ ||'/49367, l='ServerLevel[world]', x=-219.48, y=7.77, z=-290.29] died: ⚍∷╎ᒷꖎ ⍊╎ℸ ̣ ᔑꖎ╎ℸ ̣ || was slain by Rogerto
+[21:59:30] [Worker-Main-4/INFO]: BBox:class_3341{minX=-1194, minY=22, minZ=-1114, maxX=-1030, maxY=96, maxZ=-950}
+[21:59:45] [Worker-Main-4/INFO]: BBox:class_3341{minX=-1194, minY=22, minZ=-1114, maxX=-1030, maxY=96, maxZ=-950}
+[22:00:56] [Server thread/INFO]: LuLo7 claimed a grave belonging to LuLo7 at -222, 8, -293, minecraft:the_nether
+[22:00:57] [Server thread/INFO]: Nikomaiden lost connection: Disconnected
+[22:00:57] [Server thread/INFO]: Nikomaiden left the game
+[22:00:57] [Server thread/INFO]: Updating all forceload tickets for 00c9cea4-0840-30f7-b9d5-21c8f68f7273
+[22:01:51] [Server thread/INFO]: Named entity class_4836['ᔑᔑꖎ╎ᓭ⍑ ᓭ𝙹⚍ꖎ'/50022, l='ServerLevel[world]', x=-276.50, y=51.00, z=-161.50] died: ᔑᔑꖎ╎ᓭ⍑ ᓭ𝙹⚍ꖎ fell from a high place
+[22:02:20] [Server thread/INFO]: Named entity class_4836['ᓭᔑꖎᔑリᔑ ⊣𝙹⊣'ℸ ̣ ⍑ᔑℸ ̣ ⍑'/50127, l='ServerLevel[world]', x=-279.50, y=62.00, z=-193.50] died: ᓭᔑꖎᔑリᔑ ⊣𝙹⊣'ℸ ̣ ⍑ᔑℸ ̣ ⍑ fell from a high place
+[22:03:24] [Server thread/INFO]: LuLo7 lost connection: Disconnected
+[22:03:24] [Server thread/INFO]: LuLo7 left the game
+[22:03:24] [Server thread/INFO]: Updating all forceload tickets for 6bd18da3-1390-3fa8-90b1-837d04df607a
+[22:03:25] [Server thread/INFO]: Saving data for 96 chunks for dimension 'the_nether' took 1 milliseconds
+[22:03:25] [Server thread/INFO]: Saving data for 1457 chunks for dimension 'overworld' took 3 milliseconds
+[22:03:55] [Server thread/INFO]: Rogerto lost connection: Disconnected
+[22:03:55] [Server thread/INFO]: Rogerto left the game
+[22:03:55] [Server thread/INFO]: Updating all forceload tickets for b544a06f-68b5-3fe8-9a0f-7fb32601617a
+[22:04:09] [Server thread/INFO]: Stopping the server
+[22:04:09] [Server thread/INFO]: Invalidated damage temperature effect registry cache
+[22:04:09] [Server thread/INFO]: Resetting environment controller...
+[22:04:09] [Server thread/INFO]: Stopping server
+[22:04:09] [Server thread/INFO]: Saving players
+[22:04:09] [Server thread/INFO]: Saving worlds
+[22:04:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22:04:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22:04:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/voidz:void
+[22:04:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[22:04:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22:04:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/deeperdarker:otherside
+[22:04:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[22:04:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/uf_data:data
+[22:04:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22:04:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22:04:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (void): All chunks are saved
+[22:04:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[22:04:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22:04:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[22:04:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[22:04:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (data): All chunks are saved
+[22:04:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22:04:09] [Server thread/INFO]: Server stopping, clearing chunk activity tracking map.
+[22:04:09] [Server thread/INFO]: Unloading server configs...
+[22:04:09] [Server thread/INFO]: Sending config unload event for goblintraders-entities.toml
+[22:04:09] [Server thread/INFO]: Finished unloading server configs
+[22:04:09] [Server thread/INFO]: Stopping IO worker...
+[22:04:09] [Server thread/INFO]: Stopped IO worker!
+[22:04:09] [Server thread/INFO]: Dispatching unloading event for config barteringstation-server.toml
+[22:04:09] [Server thread/INFO]: Dispatching unloading event for config easyanvils-server.toml
+[22:04:09] [Server thread/INFO]: Dispatching unloading event for config easymagic-server.toml
+[22:04:09] [Server thread/INFO]: Dispatching unloading event for config illagerinvasion-server.toml
+[22:04:09] [Server thread/INFO]: Dispatching unloading event for config leavesbegone-server.toml
+[22:04:09] [Server thread/INFO]: Dispatching unloading event for config magnumtorch-server.toml
+[22:04:09] [Server thread/INFO]: Dispatching unloading event for config netherchested-server.toml
+[22:04:09] [Server thread/INFO]: Dispatching unloading event for config skeletonaifix-server.toml
+[22:04:09] [Server thread/INFO]: Dispatching unloading event for config tradingpost-server.toml
