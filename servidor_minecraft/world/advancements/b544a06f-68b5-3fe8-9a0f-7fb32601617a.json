@@ -7846,6 +7846,12 @@
     },
     "done": true
   },
+  "morevillagers:all_professions_traded": {
+    "criteria": {
+      "librarian": "2025-08-24 21:08:50 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-08-24 19:40:47 +0000"
@@ -8011,6 +8017,12 @@
   "another_furniture:recipes/warped_shelf": {
     "criteria": {
       "has_planks": "2025-08-24 19:48:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-08-24 21:13:20 +0000"
     },
     "done": true
   },
@@ -8452,6 +8464,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/sweet_berry_jelly_potion": {
+    "criteria": {
+      "has_sweet_berries": "2025-08-24 21:13:20 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/warped_corner_trim": {
     "criteria": {
       "has_warped_corner_trim": "2025-08-24 19:48:30 +0000"
@@ -8734,6 +8752,12 @@
     },
     "done": false
   },
+  "handcrafted:recipes/misc/berry_jam_jar": {
+    "criteria": {
+      "has_berry_jam_jar": "2025-08-24 21:13:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-24 19:40:47 +0000"
@@ -8954,6 +8978,12 @@
   "betternether:recipes/decorations/netherrack_furnace": {
     "criteria": {
       "has_netherrack": "2025-08-24 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2025-08-24 21:08:50 +0000"
     },
     "done": true
   },
@@ -9230,6 +9260,12 @@
   "stoneworks:recipes/building_blocks/blackstone_shingle_slab_from_blackstone_or_blackstone_shingles_stonecutting": {
     "criteria": {
       "has_blackstone_or_blackstone_shingles": "2025-08-24 19:40:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-08-24 21:08:50 +0000"
     },
     "done": true
   },

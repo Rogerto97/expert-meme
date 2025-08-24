@@ -3314,3 +3314,24 @@ Caused by: java.lang.RuntimeException: Cannot load class com.dooji.underlay.jade
 [20:58:21] [Server thread/INFO]: Saving data for 1382 chunks for dimension 'overworld' took 3 milliseconds
 [21:03:21] [Server thread/INFO]: Saving data for 82 chunks for dimension 'the_nether' took 0 milliseconds
 [21:03:21] [Server thread/INFO]: Saving data for 1383 chunks for dimension 'overworld' took 3 milliseconds
+[21:08:21] [Server thread/INFO]: Saving data for 82 chunks for dimension 'the_nether' took 1 milliseconds
+[21:08:21] [Server thread/INFO]: Saving data for 1383 chunks for dimension 'overworld' took 3 milliseconds
+[21:08:50] [Server thread/INFO]: Rogerto has made the advancement [What a Deal!]
+[21:08:50] [Server thread/INFO]: Rogerto has made the advancement [First Trade]
+[21:09:32] [Server thread/INFO]: LuLo7 has made the advancement [Cover Me with Diamonds]
+[21:10:52] [Server thread/INFO]: No return portal found
+[21:10:52] [Server thread/INFO]: LuLo7 has made the advancement [Eternal Nether]
+[21:10:52] [Server thread/INFO]: LuLo7 has made the advancement [Time for a Sweat]
+[21:10:52] [Server thread/INFO]: LuLo7 has made the advancement [We Need to Go Deeper]
+[21:10:53] [Worker-Main-1/INFO]: BBox:class_3341{minX=-1194, minY=22, minZ=-1114, maxX=-1030, maxY=96, maxZ=-950}
+[21:10:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2531ms or 50 ticks behind
+[21:11:49] [Worker-Main-4/INFO]: BBox:class_3341{minX=-1194, minY=22, minZ=-1114, maxX=-1030, maxY=96, maxZ=-950}
+[21:11:51] [Server thread/WARN]: LuLo7 moved wrongly!
+[21:12:04] [Server thread/INFO]: Named entity class_4836['!¡∷𝙹ᒲᒷℸ ̣ ⍑ᒷ⚍ᓭ ⍊⚍リ⊣∷𝙹ꖎꖎ𝙹↸'/31628, l='ServerLevel[world]', x=-200.50, y=56.00, z=-68.50] died: !¡∷𝙹ᒲᒷℸ ̣ ⍑ᒷ⚍ᓭ ⍊⚍リ⊣∷𝙹ꖎꖎ𝙹↸ fell from a high place
+[21:13:09] [Server thread/INFO]: LuLo7 was blown up by Blaze Guardian
+[21:13:09] [Server thread/INFO]: Rogerto was blown up by Blaze Guardian
+[21:13:12] [Worker-Main-3/INFO]: BBox:class_3341{minX=-1194, minY=22, minZ=-1114, maxX=-1030, maxY=96, maxZ=-950}
+[21:13:23] [Server thread/INFO]: Saving data for 82 chunks for dimension 'the_nether' took 0 milliseconds
+[21:13:23] [Server thread/INFO]: Saving data for 1427 chunks for dimension 'overworld' took 3 milliseconds
+[21:13:29] [Server thread/INFO]: No return portal found
+[21:13:30] [Worker-Main-1/INFO]: BBox:class_3341{minX=-1194, minY=22, minZ=-1114, maxX=-1030, maxY=96, maxZ=-950}
