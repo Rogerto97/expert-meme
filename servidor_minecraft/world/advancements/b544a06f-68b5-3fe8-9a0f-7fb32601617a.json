@@ -3146,6 +3146,7 @@
       "minecraft:piglin": "2025-08-24 19:43:10 +0000",
       "minecraft:vindicator": "2025-08-17 17:08:38 +0000",
       "minecraft:spider": "2025-08-16 15:46:11 +0000",
+      "minecraft:piglin_brute": "2025-08-24 21:25:28 +0000",
       "minecraft:zombie": "2025-08-17 15:40:42 +0000",
       "minecraft:creeper": "2025-08-16 15:43:35 +0000",
       "minecraft:drowned": "2025-08-16 15:15:29 +0000",
@@ -7888,6 +7889,12 @@
     },
     "done": true
   },
+  "betternether:cincinnasite_gear": {
+    "criteria": {
+      "cincinnasite_helmet": "2025-08-24 21:29:51 +0000"
+    },
+    "done": false
+  },
   "stoneworks:recipes/building_blocks/stone_tile_wall_from_stone_or_stone_tiles_stonecutting": {
     "criteria": {
       "has_stone_or_stone_tiles": "2025-08-24 20:14:12 +0000"
@@ -8530,6 +8537,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-08-24 21:29:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-24 20:38:46 +0000"
@@ -8740,6 +8753,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-08-24 21:29:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-24 20:38:46 +0000"
@@ -8851,6 +8870,7 @@
   "betternether:nether_wood": {
     "criteria": {
       "got_warped": "2025-08-24 19:48:30 +0000",
+      "got_crimson": "2025-08-24 21:29:11 +0000",
       "got_anchor_tree": "2025-08-24 19:45:14 +0000"
     },
     "done": false
@@ -8864,6 +8884,12 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-08-24 19:52:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_pickaxe_repairing": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-08-24 21:30:21 +0000"
     },
     "done": true
   },
