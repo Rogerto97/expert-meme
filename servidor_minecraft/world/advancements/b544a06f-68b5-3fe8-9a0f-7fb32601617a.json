@@ -7654,6 +7654,18 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/crimson_boat": {
+    "criteria": {
+      "has_crimson_planks": "2025-08-24 21:40:43 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_side_table": {
+    "criteria": {
+      "has_crimson_side_table": "2025-08-24 21:40:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-24 20:38:46 +0000"
@@ -7727,6 +7739,12 @@
     },
     "done": true
   },
+  "charm:vanilla_wood_variants/recipes/crimson_chest": {
+    "criteria": {
+      "has_planks": "2025-08-24 21:40:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-24 20:38:46 +0000"
@@ -7769,6 +7787,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-24 21:40:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-24 20:14:12 +0000"
@@ -7796,6 +7820,12 @@
   "betternether:recipes/misc/cincinnasite_ingot_from_shard_blasting": {
     "criteria": {
       "has_cincinnasite": "2025-08-24 19:36:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-08-24 21:36:29 +0000"
     },
     "done": true
   },
@@ -7871,6 +7901,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/crimson_corner_trim": {
+    "criteria": {
+      "has_crimson_corner_trim": "2025-08-24 21:40:43 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/crimson_chair": {
+    "criteria": {
+      "has_planks": "2025-08-24 21:40:43 +0000"
+    },
+    "done": true
+  },
   "morevillagers:recipes/decayed_workbench": {
     "criteria": {
       "has_nether_bricks": "2025-08-24 19:47:12 +0000"
@@ -7880,6 +7922,12 @@
   "charm:kilns/recipes/nether_brick": {
     "criteria": {
       "has_netherrack": "2025-08-24 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_cupboard": {
+    "criteria": {
+      "has_crimson_cupboard": "2025-08-24 21:40:43 +0000"
     },
     "done": true
   },
@@ -7952,6 +8000,12 @@
   "stoneworks:recipes/building_blocks/blackstone_plate_slab_from_blackstone_or_blackstone_plates_stonecutting": {
     "criteria": {
       "has_blackstone_or_blackstone_plates": "2025-08-24 19:40:47 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/chiseled_crimson_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-08-24 21:40:43 +0000"
     },
     "done": true
   },
@@ -8099,6 +8153,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/crimson_dining_bench": {
+    "criteria": {
+      "has_crimson_dining_bench": "2025-08-24 21:40:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-08-24 19:53:57 +0000"
@@ -8132,6 +8192,12 @@
   "handcrafted:recipes/misc/wood_cup": {
     "criteria": {
       "has_wood_cup": "2025-08-24 20:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-08-24 21:40:43 +0000"
     },
     "done": true
   },
@@ -8243,6 +8309,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/golden_axe_repairing": {
+    "criteria": {
+      "has_golden_axe": "2025-08-24 21:38:13 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_shingles_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-24 19:40:47 +0000"
@@ -8258,6 +8330,12 @@
   "minecraft:recipes/redstone/warped_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-24 19:48:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_table": {
+    "criteria": {
+      "has_crimson_table": "2025-08-24 21:40:43 +0000"
     },
     "done": true
   },
@@ -8279,9 +8357,21 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/crimson_desk": {
+    "criteria": {
+      "has_crimson_desk": "2025-08-24 21:40:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-08-24 19:47:12 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/crimson_crafting_table": {
+    "criteria": {
+      "has_crimson_planks": "2025-08-24 21:40:43 +0000"
     },
     "done": true
   },
@@ -8306,6 +8396,12 @@
   "another_furniture:recipes/warped_chair": {
     "criteria": {
       "has_planks": "2025-08-24 19:48:30 +0000"
+    },
+    "done": true
+  },
+  "variantcraftingtables:recipes/misc/crimson_crafting_table": {
+    "criteria": {
+      "has_planks": "2025-08-24 21:40:43 +0000"
     },
     "done": true
   },
@@ -8579,6 +8675,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/crimson_shelf": {
+    "criteria": {
+      "has_planks": "2025-08-24 21:40:43 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/warped_couch": {
     "criteria": {
       "has_warped_couch": "2025-08-24 19:48:30 +0000"
@@ -8594,6 +8696,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-08-24 19:47:12 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/crimson_chest": {
+    "criteria": {
+      "has_crimson_planks": "2025-08-24 21:40:43 +0000"
     },
     "done": true
   },
@@ -8624,6 +8732,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-08-24 21:02:02 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_nightstand": {
+    "criteria": {
+      "has_crimson_nightstand": "2025-08-24 21:40:43 +0000"
     },
     "done": true
   },
@@ -8759,6 +8873,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/crimson_couch": {
+    "criteria": {
+      "has_crimson_couch": "2025-08-24 21:40:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-08-24 20:38:46 +0000"
@@ -8783,11 +8903,23 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/crimson_pillar_trim": {
+    "criteria": {
+      "has_crimson_pillar_trim": "2025-08-24 21:40:43 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:mineshafts": {
     "criteria": {
       "in_mineshaft_warped": "2025-08-24 19:48:29 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-08-24 21:40:43 +0000"
+    },
+    "done": true
   },
   "handcrafted:recipes/misc/berry_jam_jar": {
     "criteria": {
@@ -8852,6 +8984,12 @@
   "handcrafted:recipes/misc/blackstone_pillar_trim": {
     "criteria": {
       "has_blackstone_pillar_trim": "2025-08-24 19:40:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-08-24 21:40:43 +0000"
     },
     "done": true
   },
@@ -8926,6 +9064,12 @@
   "betternether:recipes/transportation/anchor_tree_boat": {
     "criteria": {
       "has_anchor_tree_planks": "2025-08-24 20:05:14 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/crimson_barrel": {
+    "criteria": {
+      "has_crimson_planks": "2025-08-24 21:40:43 +0000"
     },
     "done": true
   },
@@ -9025,15 +9169,51 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/crimson_fancy_bed": {
+    "criteria": {
+      "has_crimson_fancy_bed": "2025-08-24 21:40:43 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_counter": {
+    "criteria": {
+      "has_crimson_counter": "2025-08-24 21:40:43 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_drawer": {
+    "criteria": {
+      "has_crimson_drawer": "2025-08-24 21:40:43 +0000"
+    },
+    "done": true
+  },
   "morevillagers:first_trade": {
     "criteria": {
       "villagertrade": "2025-08-24 21:08:50 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-08-24 21:40:43 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-08-24 21:36:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-08-24 19:47:12 +0000"
+    },
+    "done": true
+  },
+  "netherchested:recipes/decorations/nether_chest": {
+    "criteria": {
+      "has_netherite_scrap": "2025-08-24 21:36:29 +0000"
     },
     "done": true
   },
@@ -9151,6 +9331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-08-24 21:40:43 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_netherrack_wall_from_netherrack_or_polished_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack_or_polished_netherrack": "2025-08-24 19:38:08 +0000"
@@ -9172,6 +9358,12 @@
   "another_furniture:recipes/oak_flower_box": {
     "criteria": {
       "has_slab": "2025-08-24 20:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-24 21:40:43 +0000"
     },
     "done": true
   },
@@ -9214,6 +9406,12 @@
   "handcrafted:recipes/misc/blackstone_corner_trim": {
     "criteria": {
       "has_blackstone_corner_trim": "2025-08-24 19:40:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_shelf": {
+    "criteria": {
+      "has_crimson_shelf": "2025-08-24 21:40:43 +0000"
     },
     "done": true
   },
@@ -9313,6 +9511,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-24 21:40:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/trade": {
     "criteria": {
       "traded": "2025-08-24 21:08:50 +0000"
@@ -9391,9 +9595,21 @@
     },
     "done": true
   },
+  "betternether:ruby_gear": {
+    "criteria": {
+      "nether_ruby_helmet": "2025-08-24 21:41:49 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/decorations/blackstone_spines": {
     "criteria": {
       "has_blackstone": "2025-08-24 19:40:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_chair": {
+    "criteria": {
+      "has_crimson_chair": "2025-08-24 21:40:43 +0000"
     },
     "done": true
   },
@@ -9412,6 +9628,12 @@
   "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-24 19:40:47 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/crimson_barrel": {
+    "criteria": {
+      "has_planks": "2025-08-24 21:40:43 +0000"
     },
     "done": true
   },
@@ -9457,6 +9679,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/crimson_table": {
+    "criteria": {
+      "has_planks": "2025-08-24 21:40:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-08-24 19:40:54 +0000"
@@ -9478,6 +9706,12 @@
   "stoneworks:recipes/building_blocks/stone_tiles_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-08-24 20:14:12 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/crimson_bench": {
+    "criteria": {
+      "has_crimson_bench": "2025-08-24 21:40:43 +0000"
     },
     "done": true
   },
@@ -9514,6 +9748,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-08-24 19:34:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-24 21:40:43 +0000"
     },
     "done": true
   },

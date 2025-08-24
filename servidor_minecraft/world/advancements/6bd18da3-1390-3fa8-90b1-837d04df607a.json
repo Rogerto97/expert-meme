@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-08-24 21:36:55 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_tuff_brick_stairs_from_tuff_or_mossy_tuff_bricks_stonecutting": {
     "criteria": {
       "has_tuff_or_mossy_tuff_bricks": "2025-08-24 21:29:54 +0000"
@@ -3351,6 +3357,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-24 20:33:05 +0000",
+      "minecraft:enderman": "2025-08-24 21:39:45 +0000",
       "minecraft:zombie": "2025-08-24 20:32:11 +0000",
       "minecraft:creeper": "2025-08-24 20:45:32 +0000",
       "minecraft:drowned": "2025-08-24 20:16:01 +0000"
