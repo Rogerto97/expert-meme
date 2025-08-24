@@ -2038,6 +2038,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-08-24 21:16:36 +0000",
       "bread": "2025-08-16 15:09:53 +0000",
       "cooked_mutton": "2025-08-16 15:39:55 +0000",
       "potato": "2025-08-24 19:26:30 +0000",
@@ -6784,6 +6785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-08-24 21:16:11 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/ender_perl_to_block": {
     "criteria": {
       "has_ender_pearl": "2025-08-24 20:41:24 +0000"
@@ -6901,6 +6908,12 @@
   "betternether:recipes/building_blocks/netherrack_netherrack_slab": {
     "criteria": {
       "has_netherrack": "2025-08-24 19:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-24 21:16:11 +0000"
     },
     "done": true
   },
