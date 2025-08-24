@@ -6745,6 +6745,12 @@
     },
     "done": true
   },
+  "eternalnether:recipes/building_blocks/blackstone": {
+    "criteria": {
+      "has_cobbled_blackstone": "2025-08-24 20:02:50 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/cincinnasite_fire_bowl": {
     "criteria": {
       "has_netherrack": "2025-08-24 19:37:57 +0000"
@@ -7033,6 +7039,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-08-24 20:02:44 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/misc/bn_brown_mushroom": {
     "criteria": {
       "has_wall_mushroom_brown": "2025-08-24 19:54:29 +0000"
@@ -7187,6 +7199,12 @@
   "minecraft:recipes/building_blocks/warped_planks": {
     "criteria": {
       "has_logs": "2025-08-24 19:54:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-08-24 20:02:44 +0000"
     },
     "done": true
   },

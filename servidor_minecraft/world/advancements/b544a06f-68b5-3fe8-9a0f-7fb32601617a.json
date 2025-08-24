@@ -7677,6 +7677,12 @@
     },
     "done": true
   },
+  "betternether:recipes/redstone/anchor_tree_door": {
+    "criteria": {
+      "has_anchor_tree_planks": "2025-08-24 20:05:14 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-08-24 19:38:08 +0000"
@@ -7698,6 +7704,12 @@
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_stairs_from_netherrack_or_mossy_netherrack_bricks_stonecutting": {
     "criteria": {
       "has_netherrack_or_mossy_netherrack_bricks": "2025-08-24 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/anchor_tree_chest": {
+    "criteria": {
+      "has_anchor_tree_planks": "2025-08-24 20:05:14 +0000"
     },
     "done": true
   },
@@ -7770,6 +7782,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-08-24 19:40:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/anchor_tree_planks": {
+    "criteria": {
+      "has_the_recipe": "2025-08-24 20:05:14 +0000"
     },
     "done": true
   },
@@ -7947,6 +7965,12 @@
     },
     "done": true
   },
+  "betternether:recipes/redstone/anchor_tree_button": {
+    "criteria": {
+      "has_anchor_tree_planks": "2025-08-24 20:05:14 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/warped_nightstand": {
     "criteria": {
       "has_warped_nightstand": "2025-08-24 19:48:30 +0000"
@@ -8058,6 +8082,12 @@
   "minecraft:recipes/redstone/warped_fence_gate": {
     "criteria": {
       "has_planks": "2025-08-24 19:48:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/anchor_tree_slab": {
+    "criteria": {
+      "has_anchor_tree_planks": "2025-08-24 20:05:14 +0000"
     },
     "done": true
   },
@@ -8373,9 +8403,21 @@
     },
     "done": true
   },
+  "betternether:recipes/redstone/anchor_tree_trapdoor": {
+    "criteria": {
+      "has_anchor_tree_planks": "2025-08-24 20:05:14 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/anchor_tree_log": {
     "criteria": {
       "has_anchor_tree_bark": "2025-08-24 19:46:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-08-24 20:01:57 +0000"
     },
     "done": true
   },
@@ -8536,6 +8578,12 @@
     },
     "done": true
   },
+  "betternether:recipes/transportation/anchor_tree_boat": {
+    "criteria": {
+      "has_anchor_tree_planks": "2025-08-24 20:05:14 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/nether_brick_tile_slab_from_brick_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-08-24 19:47:12 +0000"
@@ -8575,6 +8623,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-24 19:40:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/misc/anchor_tree_wall": {
+    "criteria": {
+      "has_anchor_tree_planks": "2025-08-24 20:05:14 +0000"
     },
     "done": true
   },
@@ -8626,6 +8680,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_fletching_table": {
+    "criteria": {
+      "has_flint": "2025-08-24 20:01:57 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/warped_table": {
     "criteria": {
       "has_planks": "2025-08-24 19:48:30 +0000"
@@ -8668,9 +8728,21 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/anchor_tree_crafting_table": {
+    "criteria": {
+      "has_anchor_tree_planks": "2025-08-24 20:05:14 +0000"
+    },
+    "done": true
+  },
   "charm:vanilla_wood_variants/recipes/warped_barrel": {
     "criteria": {
       "has_planks": "2025-08-24 19:48:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/anchor_tree_barrel": {
+    "criteria": {
+      "has_anchor_tree_planks": "2025-08-24 20:05:14 +0000"
     },
     "done": true
   },
@@ -8725,6 +8797,12 @@
   "aether:recipes/combat/golden_sword_repairing": {
     "criteria": {
       "has_golden_sword": "2025-08-24 19:54:22 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/anchor_tree_plate": {
+    "criteria": {
+      "has_anchor_tree_planks": "2025-08-24 20:05:14 +0000"
     },
     "done": true
   },
@@ -8857,6 +8935,12 @@
   "stoneworks:recipes/building_blocks/mossy_blackstone_brick_slab_from_blackstone_or_mossy_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_blackstone_or_mossy_blackstone_bricks": "2025-08-24 19:40:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/anchor_tree_stairs": {
+    "criteria": {
+      "has_anchor_tree_planks": "2025-08-24 20:05:14 +0000"
     },
     "done": true
   },

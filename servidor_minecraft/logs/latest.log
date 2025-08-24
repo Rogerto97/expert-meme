@@ -3231,3 +3231,19 @@ Caused by: java.lang.RuntimeException: Cannot load class com.dooji.underlay.jade
 [19:57:54] [Server thread/INFO]: Nikomaiden has made the advancement [Not Today, Thank You]
 [19:58:19] [Server thread/INFO]: Saving data for 74 chunks for dimension 'the_nether' took 0 milliseconds
 [19:58:19] [Server thread/INFO]: Saving data for 1101 chunks for dimension 'overworld' took 3 milliseconds
+[20:03:19] [Server thread/INFO]: Saving data for 78 chunks for dimension 'the_nether' took 1 milliseconds
+[20:03:19] [Server thread/INFO]: Saving data for 1101 chunks for dimension 'overworld' took 3 milliseconds
+[20:07:50] [Server thread/INFO]: Named entity class_4836['ᔑ╎ℸ ̣ ⍑リᒷ ℸ ̣ ∷ᔑꖌ𝙹ᒲᔑリ'/7821, l='ServerLevel[world]', x=-207.50, y=25.63, z=-76.50] died: ᔑ╎ℸ ̣ ⍑リᒷ ℸ ̣ ∷ᔑꖌ𝙹ᒲᔑリ tried to swim in lava
+[20:08:19] [Server thread/INFO]: Saving data for 78 chunks for dimension 'the_nether' took 0 milliseconds
+[20:08:19] [Server thread/INFO]: Saving data for 1101 chunks for dimension 'overworld' took 2 milliseconds
+[20:11:01] [Server thread/INFO]: Nikomaiden has made the advancement [Enchanter]
+[20:11:13] [Server thread/INFO]: LuLo7[/127.147.120.56:55677] logged in with entity id 8387 at (-91.5, 96.0, 36.5)
+[20:11:13] [Server thread/INFO]: Sending server config values to client
+[20:11:13] [Server thread/INFO]: LuLo7 joined the game
+[20:11:13] [Server thread/INFO]: Updating all forceload tickets for 6bd18da3-1390-3fa8-90b1-837d04df607a
+[20:11:14] [Server thread/INFO]: Channel update: LuLo7 -> default
+[20:11:14] [Server thread/INFO]: Priority overwritten for player LuLo7. Claiming: GRAVE / Robbing: INVENTORY
+[20:11:14] [Server thread/INFO]: Receiving client config
+[20:11:18] [Worker-Main-2/WARN]: Empty height range: [30 absolute-20 absolute]
+[20:11:55] [Worker-Main-2/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
+[20:11:55] [Worker-Main-2/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
