@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-24 21:02:08 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/warped_chair": {
     "criteria": {
       "has_stick": "2025-08-24 20:13:29 +0000"
@@ -88,6 +94,12 @@
       "minecraft:spotted": "2025-08-24 20:45:02 +0000"
     },
     "done": false
+  },
+  "charm:vanilla_wood_variants/recipes/chiseled_warped_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-08-24 21:00:05 +0000"
+    },
+    "done": true
   },
   "betterend:recipes/decorations/end_lotus_ladder": {
     "criteria": {
@@ -170,6 +182,12 @@
   "biomesoplenty:recipes/transportation/jacaranda_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-24 20:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-24 21:02:08 +0000"
     },
     "done": true
   },
@@ -600,6 +618,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-24 21:02:08 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/golden_ring": {
     "criteria": {
       "has_gold_ingot": "2025-08-24 20:17:51 +0000"
@@ -609,6 +633,12 @@
   "aether:recipes/combat/iron_gloves": {
     "criteria": {
       "has_iron": "2025-08-24 20:21:07 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-08-24 21:03:14 +0000"
     },
     "done": true
   },
@@ -684,6 +714,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-24 21:02:08 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/helix_tree_ladder": {
     "criteria": {
       "has_stick": "2025-08-24 20:13:29 +0000"
@@ -729,6 +765,12 @@
   "betternether:recipes/decorations/oak_chair": {
     "criteria": {
       "has_stick": "2025-08-24 20:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-24 21:00:05 +0000"
     },
     "done": true
   },
@@ -858,6 +900,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-08-24 20:56:35 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/wheat_dough": {
     "criteria": {
       "has_wheat": "2025-08-24 20:15:28 +0000"
@@ -879,6 +927,12 @@
   "betterdungeons:root": {
     "criteria": {
       "always": "2025-08-24 20:11:13 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/warped_shelf": {
+    "criteria": {
+      "has_planks": "2025-08-24 21:00:05 +0000"
     },
     "done": true
   },
@@ -942,6 +996,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/warped_table": {
+    "criteria": {
+      "has_warped_table": "2025-08-24 21:00:05 +0000"
+    },
+    "done": true
+  },
   "charm:ebony_wood/recipes/ebony_boat": {
     "criteria": {
       "in_water": "2025-08-24 20:14:34 +0000"
@@ -1002,6 +1062,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/warped_barrel": {
+    "criteria": {
+      "has_warped_planks": "2025-08-24 21:00:05 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/iron_pickaxe_repairing": {
     "criteria": {
       "has_iron_pickaxe": "2025-08-24 20:36:33 +0000"
@@ -1056,6 +1122,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/warped_nightstand": {
+    "criteria": {
+      "has_warped_nightstand": "2025-08-24 21:00:05 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/helix_tree_chair": {
     "criteria": {
       "has_stick": "2025-08-24 20:13:29 +0000"
@@ -1104,6 +1176,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-24 21:02:08 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/dragon_tree_fence": {
     "criteria": {
       "has_stick": "2025-08-24 20:13:29 +0000"
@@ -1146,6 +1224,12 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/warped_chest": {
+    "criteria": {
+      "has_warped_planks": "2025-08-24 21:00:05 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/misc/copy_plate_upgrade": {
     "criteria": {
       "has_diamond": "2025-08-24 20:17:53 +0000"
@@ -1176,9 +1260,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-24 21:02:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_bench": {
+    "criteria": {
+      "has_warped_bench": "2025-08-24 21:00:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-08-24 20:21:07 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_fancy_bed": {
+    "criteria": {
+      "has_warped_fancy_bed": "2025-08-24 21:00:05 +0000"
     },
     "done": true
   },
@@ -1255,6 +1357,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-24 21:00:05 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/warped_ladder": {
     "criteria": {
       "has_stick": "2025-08-24 20:13:29 +0000"
@@ -1279,6 +1387,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/warped_side_table": {
+    "criteria": {
+      "has_warped_side_table": "2025-08-24 21:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-24 21:02:08 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lucernia_bar_stool": {
     "criteria": {
       "has_stick": "2025-08-24 20:13:29 +0000"
@@ -1294,6 +1414,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-08-24 20:13:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_the_recipe": "2025-08-24 20:58:37 +0000"
     },
     "done": true
   },
@@ -1345,6 +1471,12 @@
     },
     "done": true
   },
+  "another_furniture:recipes/warped_chair": {
+    "criteria": {
+      "has_planks": "2025-08-24 21:00:05 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/bar_stool_cincinnasite": {
     "criteria": {
       "has_stick": "2025-08-24 20:13:29 +0000"
@@ -1393,6 +1525,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/warped_chair": {
+    "criteria": {
+      "has_warped_chair": "2025-08-24 21:00:05 +0000"
+    },
+    "done": true
+  },
   "charm:core/decoration": {
     "criteria": {
       "player_joined": "2025-08-24 20:11:13 +0000"
@@ -1414,6 +1552,24 @@
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "has_the_recipe": "2025-08-24 20:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-24 21:00:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-24 21:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-08-24 21:00:05 +0000"
     },
     "done": true
   },
@@ -1495,6 +1651,12 @@
     },
     "done": true
   },
+  "variantcraftingtables:recipes/misc/warped_crafting_table": {
+    "criteria": {
+      "has_planks": "2025-08-24 21:00:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-24 20:13:37 +0000"
@@ -1519,9 +1681,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2025-08-24 21:02:08 +0000"
+    },
+    "done": true
+  },
   "magnumtorch:recipes/decorations/diamond_magnum_torch": {
     "criteria": {
       "has_diamond": "2025-08-24 20:17:53 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_dining_bench": {
+    "criteria": {
+      "has_warped_dining_bench": "2025-08-24 21:00:05 +0000"
     },
     "done": true
   },
@@ -1567,6 +1741,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-24 21:00:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_the_recipe": "2025-08-24 20:29:42 +0000"
@@ -1597,6 +1777,18 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/warped_pillar_trim": {
+    "criteria": {
+      "has_warped_pillar_trim": "2025-08-24 21:00:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_desk": {
+    "criteria": {
+      "has_warped_desk": "2025-08-24 21:00:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-08-24 20:23:34 +0000"
@@ -1612,6 +1804,12 @@
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2025-08-24 20:39:01 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_corner_trim": {
+    "criteria": {
+      "has_warped_corner_trim": "2025-08-24 21:00:05 +0000"
     },
     "done": true
   },
@@ -1753,6 +1951,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-24 21:02:08 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_mushroom_ladder": {
     "criteria": {
       "has_stick": "2025-08-24 20:13:29 +0000"
@@ -1783,6 +1987,12 @@
     },
     "done": true
   },
+  "betternether:recipes/building_blocks/warped_bookshelf": {
+    "criteria": {
+      "has_warped_planks": "2025-08-24 21:00:05 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/redstone/dragon_tree_gate": {
     "criteria": {
       "has_stick": "2025-08-24 20:13:29 +0000"
@@ -1810,6 +2020,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2025-08-24 20:15:32 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_couch": {
+    "criteria": {
+      "has_warped_couch": "2025-08-24 21:00:05 +0000"
     },
     "done": true
   },
@@ -1905,6 +2121,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_yellow_bed": {
+    "criteria": {
+      "has_the_recipe": "2025-08-24 20:58:40 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/transportation/activator_rail": {
     "criteria": {
       "has_stick": "2025-08-24 20:13:29 +0000"
@@ -1962,6 +2184,12 @@
   "another_furniture:recipes/birch_drawer": {
     "criteria": {
       "has_planks": "2025-08-24 20:13:29 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_counter": {
+    "criteria": {
+      "has_warped_counter": "2025-08-24 21:00:05 +0000"
     },
     "done": true
   },
@@ -2260,9 +2488,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-24 21:02:08 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:root": {
     "criteria": {
       "always": "2025-08-24 20:11:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-24 21:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-24 21:02:08 +0000"
     },
     "done": true
   },
@@ -2497,6 +2743,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-24 21:00:05 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/silverfish_trophy": {
     "criteria": {
       "has_silverfish_trophy": "2025-08-24 20:12:43 +0000"
@@ -2508,6 +2760,12 @@
       "has_gold_ingot": "2025-08-24 20:17:51 +0000"
     },
     "done": true
+  },
+  "betternether:nether_wood": {
+    "criteria": {
+      "got_warped": "2025-08-24 21:00:02 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/conduit": {
     "criteria": {
@@ -2524,6 +2782,12 @@
   "natures_spirit:recipes/transportation/ghaf_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-24 20:13:37 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/warped_crafting_table": {
+    "criteria": {
+      "has_warped_planks": "2025-08-24 21:00:05 +0000"
     },
     "done": true
   },
@@ -2554,6 +2818,12 @@
   "charm:core/world": {
     "criteria": {
       "player_joined": "2025-08-24 20:11:13 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_shelf": {
+    "criteria": {
+      "has_warped_shelf": "2025-08-24 21:00:05 +0000"
     },
     "done": true
   },
@@ -2786,6 +3056,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-24 21:02:08 +0000"
+    },
+    "done": true
+  },
   "advancednetherite:recipes/misc/netherite_gold_ingot": {
     "criteria": {
       "has_minecraft:gold_ingot": "2025-08-24 20:17:51 +0000"
@@ -2882,6 +3158,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-08-24 21:00:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-08-24 21:00:05 +0000"
+    },
+    "done": true
+  },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
       "oak_house_large_1": "2025-08-24 20:35:49 +0000",
@@ -2925,6 +3213,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_the_recipe": "2025-08-24 20:57:54 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/warped_table": {
+    "criteria": {
+      "has_planks": "2025-08-24 21:00:05 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/pythadendron_taburet": {
     "criteria": {
       "has_stick": "2025-08-24 20:13:29 +0000"
@@ -2940,6 +3240,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-24 20:21:05 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_cupboard": {
+    "criteria": {
+      "has_warped_cupboard": "2025-08-24 21:00:05 +0000"
     },
     "done": true
   },
@@ -2985,6 +3291,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-08-24 20:56:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-08-24 20:21:07 +0000"
@@ -3006,6 +3318,12 @@
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-08-24 20:17:53 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/warped_barrel": {
+    "criteria": {
+      "has_planks": "2025-08-24 21:00:05 +0000"
     },
     "done": true
   },
@@ -3087,6 +3405,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-24 21:02:08 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/stalagnate_ladder": {
     "criteria": {
       "has_stick": "2025-08-24 20:13:29 +0000"
@@ -3120,6 +3444,12 @@
   "betterend:recipes/misc/copy_terminite_upgrade": {
     "criteria": {
       "has_stick": "2025-08-24 20:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_the_recipe": "2025-08-24 21:02:08 +0000"
     },
     "done": true
   },
@@ -3269,6 +3599,18 @@
     },
     "done": true
   },
+  "charm:vanilla_wood_variants/recipes/warped_chest": {
+    "criteria": {
+      "has_planks": "2025-08-24 21:00:05 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/warped_boat": {
+    "criteria": {
+      "has_warped_planks": "2025-08-24 21:00:05 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/transportation/tag_rail": {
     "criteria": {
       "has_stick": "2025-08-24 20:13:29 +0000"
@@ -3314,6 +3656,12 @@
   "betternether:recipes/decorations/rubeus_ladder": {
     "criteria": {
       "has_stick": "2025-08-24 20:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-08-24 21:00:02 +0000"
     },
     "done": true
   },
@@ -3377,9 +3725,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2025-08-24 21:02:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-24 21:02:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-08-24 20:14:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-08-24 21:00:05 +0000"
     },
     "done": true
   },
@@ -3455,9 +3821,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-08-24 21:00:05 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_gloves_repairing": {
     "criteria": {
       "has_iron_gloves": "2025-08-24 20:17:52 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/tined_glass_from_smaragdant": {
+    "criteria": {
+      "has_glass": "2025-08-24 21:02:08 +0000"
     },
     "done": true
   },
@@ -3606,6 +3984,12 @@
     },
     "done": true
   },
+  "charm:vanilla_wood_variants/recipes/warped_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-08-24 21:00:05 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:teleportation/is_near_beehive": {
     "criteria": {
       "is_near_beehive": "2025-08-24 20:39:24 +0000"
@@ -3660,6 +4044,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-08-24 21:00:05 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_ring": {
     "criteria": {
       "has_iron_ingot": "2025-08-24 20:21:07 +0000"
@@ -3678,15 +4068,33 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/warped_drawer": {
+    "criteria": {
+      "has_warped_drawer": "2025-08-24 21:00:05 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/stalagnate_fence": {
     "criteria": {
       "has_stick": "2025-08-24 20:13:29 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2025-08-24 21:02:08 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/nether_mushroom_chair": {
     "criteria": {
       "has_stick": "2025-08-24 20:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_the_recipe": "2025-08-24 20:57:49 +0000"
     },
     "done": true
   },
