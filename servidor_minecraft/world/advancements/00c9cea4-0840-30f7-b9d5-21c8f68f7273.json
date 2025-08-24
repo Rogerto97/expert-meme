@@ -7244,6 +7244,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-08-24 20:11:01 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_stairs_from_netherrack_or_mossy_cobbled_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack_or_mossy_cobbled_netherrack": "2025-08-24 19:37:57 +0000"

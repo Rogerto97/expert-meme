@@ -3247,3 +3247,38 @@ Caused by: java.lang.RuntimeException: Cannot load class com.dooji.underlay.jade
 [20:11:18] [Worker-Main-2/WARN]: Empty height range: [30 absolute-20 absolute]
 [20:11:55] [Worker-Main-2/WARN]: Ignoring unknown attribute 'minecraft:movement_speed'
 [20:11:55] [Worker-Main-2/WARN]: Ignoring unknown attribute 'minecraft:follow_range'
+[20:13:19] [Server thread/INFO]: Saving data for 78 chunks for dimension 'the_nether' took 0 milliseconds
+[20:13:19] [Server thread/INFO]: Saving data for 1104 chunks for dimension 'overworld' took 6 milliseconds
+[20:13:40] [Server thread/INFO]: LuLo7 has made the advancement [Stone Age]
+[20:13:47] [Server thread/INFO]: LuLo7 has made the advancement [Getting an Upgrade]
+[20:14:15] [Server thread/INFO]: Tree reached max size of 100
+[20:14:16] [Server thread/INFO]: Tree reached max size of 100
+[20:14:18] [Server thread/INFO]: Tree reached max size of 100
+[20:14:19] [Server thread/INFO]: Tree reached max size of 100
+[20:14:20] [Server thread/INFO]: Tree reached max size of 100
+[20:14:21] [Server thread/INFO]: Tree reached max size of 100
+[20:14:22] [Server thread/INFO]: Tree reached max size of 100
+[20:14:23] [Server thread/INFO]: Tree reached max size of 100
+[20:14:25] [Server thread/INFO]: Tree reached max size of 100
+[20:14:42] [Server thread/WARN]: @Redirect conflict. Skipping mixins.redirected_fabric_1.21.1.json:net.minecraft.world.level.block.piston.PistonStructureResolverMixin from mod redirected->@Redirect::redirectDirections()[Lnet/minecraft/class_2350; with priority 10, already redirected by lithium.mixins.json:alloc.enum_values.piston_handler.PistonStructureResolverMixin from mod lithium->@Redirect::removeAllocation()[Lnet/minecraft/class_2350; with priority 1000
+[20:15:08] [Server thread/INFO]: LuLo7 has made the advancement [Jaws]
+[20:15:43] [Server thread/INFO]: LuLo7 has reached the goal [Rested]
+[20:16:01] [Server thread/INFO]: LuLo7 has made the advancement [Monster Hunter]
+[20:16:21] [Worker-Main-1/WARN]: Ignoring unknown attribute 'neoforge:swim_speed'
+[20:16:21] [Worker-Main-1/WARN]: Ignoring unknown attribute 'neoforge:swim_speed'
+[20:16:21] [Worker-Main-1/WARN]: Ignoring unknown attribute 'neoforge:swim_speed'
+[20:16:22] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[20:16:22] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:16:22] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[20:16:22] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:16:22] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[20:16:22] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:16:22] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[20:16:22] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:16:22] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[20:16:22] [Worker-Main-1/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[20:17:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2184ms or 43 ticks behind
+[20:17:53] [Server thread/INFO]: LuLo7 has made the advancement [Diamonds!]
+[20:18:21] [Server thread/INFO]: Saving data for 78 chunks for dimension 'the_nether' took 0 milliseconds
+[20:18:21] [Server thread/INFO]: Saving data for 1134 chunks for dimension 'overworld' took 5 milliseconds
+[20:21:07] [Server thread/INFO]: LuLo7 has made the advancement [Acquire Hardware]

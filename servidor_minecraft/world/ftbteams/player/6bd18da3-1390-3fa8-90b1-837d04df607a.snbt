@@ -2,9 +2,7 @@
 	id: "6bd18da3-1390-3fa8-90b1-837d04df607a"
 	type: "player"
 	player_name: "LuLo7"
-	ranks: {
-		6bd18da3-1390-3fa8-90b1-837d04df607a: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "LuLo7"
 		"ftbteams:description": ""
