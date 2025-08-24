@@ -71,11 +71,23 @@
     },
     "done": true
   },
+  "inmis:recipes/blazing_backpack": {
+    "criteria": {
+      "has_bejeweled_backpack": "2025-08-24 20:53:12 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/jellyshroom_chair": {
     "criteria": {
       "has_stick": "2025-08-24 20:13:29 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:spotted": "2025-08-24 20:45:02 +0000"
+    },
+    "done": false
   },
   "betterend:recipes/decorations/end_lotus_ladder": {
     "criteria": {
@@ -281,6 +293,12 @@
     },
     "done": true
   },
+  "natures_spirit:recipes/building_blocks/sugi_wood": {
+    "criteria": {
+      "has_log": "2025-08-24 20:46:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "unlock_right_away": "2025-08-24 20:11:13 +0000"
@@ -332,6 +350,12 @@
   "charm:woodcutters/recipes/woodcutter": {
     "criteria": {
       "has_planks": "2025-08-24 20:12:43 +0000"
+    },
+    "done": true
+  },
+  "inmis:recipes/withered_backpack": {
+    "criteria": {
+      "has_bejeweled_backpack": "2025-08-24 20:53:12 +0000"
     },
     "done": true
   },
@@ -597,6 +621,12 @@
   "betternether:root": {
     "criteria": {
       "welcome": "2025-08-24 20:11:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-24 20:45:02 +0000"
     },
     "done": true
   },
@@ -1154,6 +1184,7 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "blastfurnace": "2025-08-24 20:42:19 +0000",
       "brewingstand": "2025-08-24 20:27:00 +0000"
     },
     "done": false
@@ -1242,6 +1273,12 @@
     },
     "done": true
   },
+  "inmis:frayed_backpack": {
+    "criteria": {
+      "backpack": "2025-08-24 20:52:03 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/lucernia_bar_stool": {
     "criteria": {
       "has_stick": "2025-08-24 20:13:29 +0000"
@@ -1323,6 +1360,12 @@
   "biomesoplenty:recipes/transportation/redwood_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-24 20:13:37 +0000"
+    },
+    "done": true
+  },
+  "inmis:plated_backpack": {
+    "criteria": {
+      "backpack": "2025-08-24 20:52:08 +0000"
     },
     "done": true
   },
@@ -1563,6 +1606,12 @@
   "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
     "criteria": {
       "has_planks": "2025-08-24 20:12:43 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-08-24 20:39:01 +0000"
     },
     "done": true
   },
@@ -2060,6 +2109,12 @@
     },
     "done": true
   },
+  "morevillagers:recipes/hunting_post": {
+    "criteria": {
+      "has_arrow": "2025-08-24 20:50:13 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/redstone/rubeus_gate": {
     "criteria": {
       "has_stick": "2025-08-24 20:13:29 +0000"
@@ -2257,6 +2312,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-08-24 20:33:05 +0000",
       "minecraft:zombie": "2025-08-24 20:32:11 +0000",
+      "minecraft:creeper": "2025-08-24 20:45:32 +0000",
       "minecraft:drowned": "2025-08-24 20:16:01 +0000"
     },
     "done": false
@@ -2820,9 +2876,16 @@
     },
     "done": true
   },
+  "inmis:recipes/gilded_backpack": {
+    "criteria": {
+      "has_plated_backpack": "2025-08-24 20:52:08 +0000"
+    },
+    "done": true
+  },
   "adorabuild_structures:tireless_legs": {
     "criteria": {
-      "oak_house_large_1": "2025-08-24 20:35:49 +0000"
+      "oak_house_large_1": "2025-08-24 20:35:49 +0000",
+      "oak_house_medium_2": "2025-08-24 20:49:25 +0000"
     },
     "done": false
   },
@@ -2898,6 +2961,12 @@
     },
     "done": true
   },
+  "natures_spirit:recipes/building_blocks/sugi_planks": {
+    "criteria": {
+      "has_logs": "2025-08-24 20:46:00 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/redstone/tag_piston": {
     "criteria": {
       "has_tag_minecraft_planks": "2025-08-24 20:12:43 +0000"
@@ -2925,6 +2994,12 @@
   "morevillagers:first_workstation_get": {
     "criteria": {
       "brewingstand": "2025-08-24 20:27:00 +0000"
+    },
+    "done": true
+  },
+  "inmis:gilded_backpack": {
+    "criteria": {
+      "backpack": "2025-08-24 20:52:13 +0000"
     },
     "done": true
   },
@@ -3003,6 +3078,12 @@
   "betternether:recipes/decorations/mangrove_chair": {
     "criteria": {
       "has_stick": "2025-08-24 20:13:29 +0000"
+    },
+    "done": true
+  },
+  "inmis:recipes/bejeweled_backpack": {
+    "criteria": {
+      "has_gilded_backpack": "2025-08-24 20:52:13 +0000"
     },
     "done": true
   },
@@ -3096,6 +3177,12 @@
     },
     "done": true
   },
+  "inmis:recipes/plated_backpack": {
+    "criteria": {
+      "has_frayed_backpack": "2025-08-24 20:52:03 +0000"
+    },
+    "done": true
+  },
   "bclib:recipes/decorations/tag_smith_table": {
     "criteria": {
       "has_tag_minecraft_planks": "2025-08-24 20:12:43 +0000"
@@ -3111,6 +3198,12 @@
   "charm:vanilla_wood_variants/recipes/mangrove_ladder": {
     "criteria": {
       "has_stick": "2025-08-24 20:13:29 +0000"
+    },
+    "done": true
+  },
+  "inmis:bejeweled_backpack": {
+    "criteria": {
+      "backpack": "2025-08-24 20:53:12 +0000"
     },
     "done": true
   },
@@ -3146,6 +3239,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "old_growth_woodland": "2025-08-24 20:50:25 +0000",
       "redwood_forest": "2025-08-24 20:12:05 +0000",
       "scrubland": "2025-08-24 20:28:43 +0000"
     },
@@ -3292,6 +3386,12 @@
   "natures_spirit:recipes/transportation/wisteria_boat": {
     "criteria": {
       "in_water": "2025-08-24 20:14:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-08-24 20:40:50 +0000"
     },
     "done": true
   },
@@ -3503,6 +3603,12 @@
   "betternether:recipes/decorations/anchor_tree_fence": {
     "criteria": {
       "has_stick": "2025-08-24 20:13:29 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-08-24 20:39:24 +0000"
     },
     "done": true
   },
