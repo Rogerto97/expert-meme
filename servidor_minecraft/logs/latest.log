@@ -3123,3 +3123,34 @@ Caused by: java.lang.RuntimeException: Cannot load class com.dooji.underlay.jade
 [19:31:39] [Server thread/INFO]: Nikomaiden has made the advancement [Time for a Sweat]
 [19:31:39] [Server thread/INFO]: Nikomaiden has made the advancement [We Need to Go Deeper]
 [19:31:40] [Worker-Main-2/INFO]: BBox:class_3341{minX=-1194, minY=22, minZ=-1114, maxX=-1030, maxY=96, maxZ=-950}
+[19:33:19] [Server thread/INFO]: Saving data for 5 chunks for dimension 'the_nether' took 0 milliseconds
+[19:33:19] [Server thread/INFO]: Saving data for 1101 chunks for dimension 'overworld' took 5 milliseconds
+[19:33:20] [Server thread/INFO]: Rogerto has made the advancement [Not Today, Thank You]
+[19:34:41] [Server thread/INFO]: Named entity class_4836['ᔑ↸ᒷᒷリ ʖ𝙹ꖎᒲ𝙹∷𝙹リ'/2489, l='ServerLevel[world]', x=-128.50, y=66.00, z=-70.50] died: ᔑ↸ᒷᒷリ ʖ𝙹ꖎᒲ𝙹∷𝙹リ fell from a high place
+[19:34:54] [Server thread/INFO]: Rogerto has made the advancement [Into Fire]
+[19:37:23] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:37:23] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:37:23] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:37:23] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:37:23] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:37:23] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:37:23] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:37:23] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:37:23] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:37:23] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:37:23] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:37:23] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:37:23] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:37:23] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:37:23] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:37:23] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:37:23] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:37:23] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:37:23] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:37:23] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:37:23] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:step_height_addition'
+[19:37:23] [Worker-Main-2/WARN]: Ignoring unknown attribute 'forge:entity_gravity'
+[19:38:19] [Server thread/INFO]: Saving data for 17 chunks for dimension 'the_nether' took 1 milliseconds
+[19:38:19] [Server thread/INFO]: Saving data for 1101 chunks for dimension 'overworld' took 3 milliseconds
+[19:41:32] [Server thread/INFO]: Named entity class_4836['⍑ᒷꖎ╎𝙹ᓭ ʖ𝙹リ⊣∷╎ꖌ'/2833, l='ServerLevel[world]', x=-343.30, y=71.00, z=-264.60] died: ⍑ᒷꖎ╎𝙹ᓭ ʖ𝙹リ⊣∷╎ꖌ tried to swim in lava
+[19:42:22] [Server thread/INFO]: Named entity class_4836['⍑ᔑ⊣ᔑリ 𝙹ꖎ⊣𝙹ꖎᔑ∷'/2825, l='ServerLevel[world]', x=-340.79, y=81.00, z=-241.52] died: ⍑ᔑ⊣ᔑリ 𝙹ꖎ⊣𝙹ꖎᔑ∷ burned to death
