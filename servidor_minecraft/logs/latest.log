@@ -3443,3 +3443,29 @@ Caused by: java.lang.RuntimeException: Cannot load class com.dooji.underlay.jade
 [21:43:28] [Server thread/INFO]: Tree reached max size of 100
 [21:43:31] [Server thread/INFO]: Tree reached max size of 100
 [21:43:32] [Server thread/INFO]: Tree reached max size of 100
+[21:44:38] [Server thread/INFO]: Named entity class_5419['!¡||∷𝙹ᓵ 𝙹ꖎ∷𝙹ℸ ̣ ⍑'/44863, l='ServerLevel[world]', x=-214.46, y=10.00, z=-288.30] died: !¡||∷𝙹ᓵ 𝙹ꖎ∷𝙹ℸ ̣ ⍑ was slain by Rogerto
+[21:44:40] [Server thread/INFO]: Named entity class_5419['ᓭ𝙹⚍⍊ᔑリリᔑ ꖌ⚍⨅⨅╎∷𝙹リ'/45044, l='ServerLevel[world]', x=-214.42, y=10.00, z=-288.48] died: ᓭ𝙹⚍⍊ᔑリリᔑ ꖌ⚍⨅⨅╎∷𝙹リ was slain by Rogerto
+[21:45:43] [Server thread/INFO]: Named entity class_5419['⍊ᔑᓭ⚍ᒲᔑリ 𝙹⊣ꖎᔑリリᔑꖌ'/45240, l='ServerLevel[world]', x=-215.30, y=9.00, z=-290.30] died: ⍊ᔑᓭ⚍ᒲᔑリ 𝙹⊣ꖎᔑリリᔑꖌ was slain by Rogerto
+[21:45:48] [Server thread/INFO]: Named entity class_5419['⍑∷ᔑ⊣ ╎ꖎꖎ⚍ᒲ╎リᒷ'/45157, l='ServerLevel[world]', x=-215.41, y=9.77, z=-290.62] died: ⍑∷ᔑ⊣ ╎ꖎꖎ⚍ᒲ╎リᒷ was slain by Rogerto
+[21:45:59] [Server thread/INFO]: Named entity class_5419['ꖌᒷᔑ⍑╎ ↸∷ᔑ⨅⊣ᔑꖎꖎᒷℸ ̣ ⍑'/45278, l='ServerLevel[world]', x=-215.30, y=9.00, z=-290.30] died: ꖌᒷᔑ⍑╎ ↸∷ᔑ⨅⊣ᔑꖎꖎᒷℸ ̣ ⍑ was slain by Rogerto
+[21:45:59] [Server thread/INFO]: Named entity class_5419['∴𝙹∷ꖌリᒷᓭ⍑ ╎ꖎ⍊⚍リリ╎ᓭ'/45239, l='ServerLevel[world]', x=-216.07, y=9.00, z=-290.70] died: ∴𝙹∷ꖌリᒷᓭ⍑ ╎ꖎ⍊⚍リリ╎ᓭ was slain by Rogerto
+[21:46:04] [Server thread/INFO]: Named entity class_5419['ᔑ!¡𝙹ꖎꖎ𝙹 ᒷ∷⊣ᒷ↸╎ℸ ̣ ⍑'/45340, l='ServerLevel[world]', x=-215.54, y=9.00, z=-290.51] died: ᔑ!¡𝙹ꖎꖎ𝙹 ᒷ∷⊣ᒷ↸╎ℸ ̣ ⍑ was slain by Rogerto
+[21:46:41] [Server thread/INFO]: Rogerto was slain by ⚍∷ᔑ !¡╎⊣ ⍊⚍リ⊣∷𝙹ꖎꖎ𝙹↸
+[21:46:51] [Worker-Main-4/INFO]: BBox:class_3341{minX=-1194, minY=22, minZ=-1114, maxX=-1030, maxY=96, maxZ=-950}
+[21:48:06] [Worker-Main-1/INFO]: BBox:class_3341{minX=-1194, minY=22, minZ=-1114, maxX=-1030, maxY=96, maxZ=-950}
+[21:48:25] [Server thread/INFO]: Saving data for 96 chunks for dimension 'the_nether' took 1 milliseconds
+[21:48:25] [Server thread/INFO]: Saving data for 1457 chunks for dimension 'overworld' took 3 milliseconds
+[21:49:50] [Worker-Main-1/INFO]: BBox:class_3341{minX=-1194, minY=22, minZ=-1114, maxX=-1030, maxY=96, maxZ=-950}
+[21:50:04] [Server thread/INFO]: LuLo7 has made the advancement [Crafting a New Look]
+[21:50:22] [Server thread/INFO]: Rogerto was burned to a crisp while fighting Blaze Guardian
+[21:50:24] [Worker-Main-1/INFO]: BBox:class_3341{minX=-1194, minY=22, minZ=-1114, maxX=-1030, maxY=96, maxZ=-950}
+[21:50:50] [Worker-Main-1/INFO]: BBox:class_3341{minX=-1194, minY=22, minZ=-1114, maxX=-1030, maxY=96, maxZ=-950}
+[21:50:54] [Worker-Main-3/INFO]: BBox:class_3341{minX=-1194, minY=22, minZ=-1114, maxX=-1030, maxY=96, maxZ=-950}
+[21:50:56] [Server thread/INFO]: Rogerto claimed a grave belonging to Rogerto at -155, 60, -144, minecraft:the_nether
+[21:51:29] [Server thread/INFO]: LuLo7 has made the advancement [Into Fire]
+[21:51:42] [Server thread/INFO]: LuLo7 was blown up by Blaze Guardian
+[21:51:44] [Worker-Main-1/INFO]: BBox:class_3341{minX=-1194, minY=22, minZ=-1114, maxX=-1030, maxY=96, maxZ=-950}
+[21:51:58] [Worker-Main-4/INFO]: BBox:class_3341{minX=-1194, minY=22, minZ=-1114, maxX=-1030, maxY=96, maxZ=-950}
+[21:52:08] [Server thread/INFO]: LuLo7 claimed a grave belonging to LuLo7 at -149, 65, -125, minecraft:the_nether
+[21:53:25] [Server thread/INFO]: Saving data for 96 chunks for dimension 'the_nether' took 1 milliseconds
+[21:53:26] [Server thread/INFO]: Saving data for 1457 chunks for dimension 'overworld' took 4 milliseconds
