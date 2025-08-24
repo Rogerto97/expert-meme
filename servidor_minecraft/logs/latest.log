@@ -3223,3 +3223,11 @@ Caused by: java.lang.RuntimeException: Cannot load class com.dooji.underlay.jade
 [19:51:41] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-283, y=11, z=-96}) reached max scan size of 500
 [19:51:42] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-282, y=11, z=-96}) reached max scan size of 500
 [19:51:42] [Server thread/INFO]: Tree at BlockPosWrapper(raw=class_2338{x=-282, y=11, z=-96}) reached max scan size of 500
+[19:53:17] [Server thread/INFO]: Named entity class_4836['⨅ꖎ𝙹ℸ ̣ ᔑ ᓭ𝙹⚍ꖎ'/5396, l='ServerLevel[world]', x=-301.50, y=57.00, z=-96.50] died: ⨅ꖎ𝙹ℸ ̣ ᔑ ᓭ𝙹⚍ꖎ fell from a high place
+[19:53:19] [Server thread/INFO]: Saving data for 71 chunks for dimension 'the_nether' took 1 milliseconds
+[19:53:19] [Server thread/INFO]: Saving data for 1101 chunks for dimension 'overworld' took 3 milliseconds
+[19:55:06] [Server thread/INFO]: Named entity class_4836['𝙹∷╎ᔑリᔑ ⍊╎ℸ ̣ ᔑꖎ╎ℸ ̣ ||'/5622, l='ServerLevel[world]', x=-293.78, y=26.84, z=-83.58] died: 𝙹∷╎ᔑリᔑ ⍊╎ℸ ̣ ᔑꖎ╎ℸ ̣ || tried to swim in lava
+[19:57:41] [Server thread/INFO]: Nikomaiden has made the advancement [Into Fire]
+[19:57:54] [Server thread/INFO]: Nikomaiden has made the advancement [Not Today, Thank You]
+[19:58:19] [Server thread/INFO]: Saving data for 74 chunks for dimension 'the_nether' took 0 milliseconds
+[19:58:19] [Server thread/INFO]: Saving data for 1101 chunks for dimension 'overworld' took 3 milliseconds

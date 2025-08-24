@@ -7658,12 +7658,24 @@
     },
     "done": true
   },
+  "charm:vanilla_wood_variants/recipes/chiseled_warped_bookshelf": {
+    "criteria": {
+      "has_planks": "2025-08-24 19:48:30 +0000"
+    },
+    "done": true
+  },
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:upside_down_forest_cleared": "2025-08-24 19:40:18 +0000",
       "betternether:upside_down_forest": "2025-08-24 19:39:23 +0000"
     },
     "done": false
+  },
+  "eternalnether:recipes/building_blocks/warped_nether_bricks": {
+    "criteria": {
+      "has_warped_roots": "2025-08-24 19:48:50 +0000"
+    },
+    "done": true
   },
   "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
     "criteria": {
@@ -7797,6 +7809,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-08-24 19:48:30 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_pillar_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-24 19:40:47 +0000"
@@ -7875,9 +7893,21 @@
     },
     "done": true
   },
+  "another_furniture:recipes/warped_shelf": {
+    "criteria": {
+      "has_planks": "2025-08-24 19:48:30 +0000"
+    },
+    "done": true
+  },
   "mynethersdelight:recipes/building_blocks/stonecutting/red_nether_bricks_cabinet": {
     "criteria": {
       "has_nether_bricks": "2025-08-24 19:47:12 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_table": {
+    "criteria": {
+      "has_warped_table": "2025-08-24 19:48:30 +0000"
     },
     "done": true
   },
@@ -7905,6 +7935,24 @@
     },
     "done": true
   },
+  "betternether:recipes/decorations/warped_barrel": {
+    "criteria": {
+      "has_warped_planks": "2025-08-24 19:48:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-08-24 19:53:57 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_nightstand": {
+    "criteria": {
+      "has_warped_nightstand": "2025-08-24 19:48:30 +0000"
+    },
+    "done": true
+  },
   "adventurez:recipes/ender_flute_recipe": {
     "criteria": {
       "got_the_ender_pearl": "2025-08-24 19:27:58 +0000"
@@ -7923,6 +7971,18 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/cooking/cooking/strider_and_grilled_fungus": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-24 19:52:42 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/warped_chest": {
+    "criteria": {
+      "has_warped_planks": "2025-08-24 19:48:30 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_tile_slab_from_blackstone_or_blackstone_tiles_stonecutting": {
     "criteria": {
       "has_blackstone_or_blackstone_tiles": "2025-08-24 19:40:47 +0000"
@@ -7935,9 +7995,27 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/warped_bench": {
+    "criteria": {
+      "has_warped_bench": "2025-08-24 19:48:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_fancy_bed": {
+    "criteria": {
+      "has_warped_fancy_bed": "2025-08-24 19:48:30 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_or_mossy_netherrack_bricks_stonecutting": {
     "criteria": {
       "has_netherrack_or_mossy_netherrack_bricks": "2025-08-24 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-08-24 19:53:58 +0000"
     },
     "done": true
   },
@@ -7977,6 +8055,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-08-24 19:48:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_side_table": {
+    "criteria": {
+      "has_warped_side_table": "2025-08-24 19:48:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-08-24 19:47:12 +0000"
@@ -7986,6 +8076,12 @@
   "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
     "criteria": {
       "has_rose_quartz_chunk": "2025-08-24 19:34:07 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/warped_chair": {
+    "criteria": {
+      "has_planks": "2025-08-24 19:48:30 +0000"
     },
     "done": true
   },
@@ -8004,6 +8100,24 @@
   "stoneworks:recipes/building_blocks/cobbled_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-24 19:40:47 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_chair": {
+    "criteria": {
+      "has_warped_chair": "2025-08-24 19:48:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2025-08-24 19:48:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2025-08-24 19:48:30 +0000"
     },
     "done": true
   },
@@ -8043,6 +8157,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-08-24 19:53:57 +0000"
+    },
+    "done": true
+  },
+  "variantcraftingtables:recipes/misc/warped_crafting_table": {
+    "criteria": {
+      "has_planks": "2025-08-24 19:48:30 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/blackstone_tiles_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-24 19:40:47 +0000"
@@ -8058,6 +8184,12 @@
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-08-24 19:47:12 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_dining_bench": {
+    "criteria": {
+      "has_warped_dining_bench": "2025-08-24 19:48:30 +0000"
     },
     "done": true
   },
@@ -8079,6 +8211,24 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/warped_pillar_trim": {
+    "criteria": {
+      "has_warped_pillar_trim": "2025-08-24 19:48:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_desk": {
+    "criteria": {
+      "has_warped_desk": "2025-08-24 19:48:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_corner_trim": {
+    "criteria": {
+      "has_warped_corner_trim": "2025-08-24 19:48:30 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/quartz_glass_smelting": {
     "criteria": {
       "has_quartz": "2025-08-24 19:37:35 +0000"
@@ -8094,6 +8244,12 @@
   "stoneworks:recipes/building_blocks/blackstone_tile_stairs_from_blackstone_or_blackstone_tiles_stonecutting": {
     "criteria": {
       "has_blackstone_or_blackstone_tiles": "2025-08-24 19:40:47 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/cooking/strider_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-24 19:52:42 +0000"
     },
     "done": true
   },
@@ -8139,6 +8295,12 @@
     },
     "done": true
   },
+  "handcrafted:recipes/misc/warped_couch": {
+    "criteria": {
+      "has_warped_couch": "2025-08-24 19:48:30 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_blackstone_stairs_from_blackstone_or_mossy_cobbled_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone_or_mossy_cobbled_blackstone": "2025-08-24 19:40:47 +0000"
@@ -8166,6 +8328,12 @@
   "stoneworks:recipes/building_blocks/nether_brick_paver_slab_from_nether_bricks_or_nether_brick_pavers_stonecutting": {
     "criteria": {
       "has_nether_bricks_or_nether_brick_pavers": "2025-08-24 19:47:12 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_counter": {
+    "criteria": {
+      "has_warped_counter": "2025-08-24 19:48:30 +0000"
     },
     "done": true
   },
@@ -8253,6 +8421,12 @@
     },
     "done": true
   },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_warped": "2025-08-24 19:48:29 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-24 19:40:47 +0000"
@@ -8301,8 +8475,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-08-24 19:53:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-08-24 19:48:30 +0000"
+    },
+    "done": true
+  },
   "betternether:nether_wood": {
     "criteria": {
+      "got_warped": "2025-08-24 19:48:30 +0000",
       "got_anchor_tree": "2025-08-24 19:45:14 +0000"
     },
     "done": false
@@ -8310,6 +8497,12 @@
   "betternether:recipes/building_blocks/roof_tile_nether_brick_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-08-24 19:47:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-24 19:52:23 +0000"
     },
     "done": true
   },
@@ -8322,6 +8515,12 @@
   "betternether:recipes/decorations/blackstone_furnace": {
     "criteria": {
       "has_blackstone": "2025-08-24 19:40:47 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/decorations/warped_crafting_table": {
+    "criteria": {
+      "has_warped_planks": "2025-08-24 19:48:30 +0000"
     },
     "done": true
   },
@@ -8352,6 +8551,12 @@
   "stoneworks:recipes/building_blocks/polished_netherrack_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-08-24 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_shelf": {
+    "criteria": {
+      "has_warped_shelf": "2025-08-24 19:48:30 +0000"
     },
     "done": true
   },
@@ -8415,9 +8620,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2025-08-24 19:48:30 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/warped_table": {
+    "criteria": {
+      "has_planks": "2025-08-24 19:48:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-08-24 19:47:12 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_cupboard": {
+    "criteria": {
+      "has_warped_cupboard": "2025-08-24 19:48:30 +0000"
     },
     "done": true
   },
@@ -8436,6 +8659,18 @@
   "stoneworks:recipes/building_blocks/blackstone_paver_wall_from_blackstone_or_blackstone_pavers_stonecutting": {
     "criteria": {
       "has_blackstone_or_blackstone_pavers": "2025-08-24 19:40:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2025-08-24 19:52:42 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/warped_barrel": {
+    "criteria": {
+      "has_planks": "2025-08-24 19:48:30 +0000"
     },
     "done": true
   },
@@ -8487,6 +8722,24 @@
     },
     "done": true
   },
+  "aether:recipes/combat/golden_sword_repairing": {
+    "criteria": {
+      "has_golden_sword": "2025-08-24 19:54:22 +0000"
+    },
+    "done": true
+  },
+  "charm:vanilla_wood_variants/recipes/warped_chest": {
+    "criteria": {
+      "has_planks": "2025-08-24 19:48:30 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/transportation/warped_boat": {
+    "criteria": {
+      "has_warped_planks": "2025-08-24 19:48:30 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/chainmail_gloves_repairing": {
     "criteria": {
       "has_chainmail_gloves": "2025-08-24 19:36:10 +0000"
@@ -8523,9 +8776,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2025-08-24 19:48:30 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/building_blocks/anchor_tree_bark": {
     "criteria": {
       "has_anchor_tree_log": "2025-08-24 19:45:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/cooked_rice": {
+    "criteria": {
+      "has_rice": "2025-08-24 19:53:57 +0000"
     },
     "done": true
   },
@@ -8544,6 +8809,12 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-24 19:40:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2025-08-24 19:48:30 +0000"
     },
     "done": true
   },
@@ -8601,9 +8872,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2025-08-24 19:48:30 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/warped_drawer": {
+    "criteria": {
+      "has_warped_drawer": "2025-08-24 19:48:30 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_or_mossy_netherrack_bricks_stonecutting": {
     "criteria": {
       "has_netherrack_or_mossy_netherrack_bricks": "2025-08-24 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/rice_bag": {
+    "criteria": {
+      "has_rice": "2025-08-24 19:53:57 +0000"
     },
     "done": true
   },
@@ -8628,6 +8917,12 @@
   "stoneworks:recipes/building_blocks/cobbled_netherrack_slab_from_netherrack_or_cobbled_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack_or_cobbled_netherrack": "2025-08-24 19:38:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_leggings_repairing": {
+    "criteria": {
+      "has_chainmail_leggings": "2025-08-24 19:54:22 +0000"
     },
     "done": true
   },

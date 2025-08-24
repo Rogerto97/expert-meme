@@ -135,6 +135,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "volcanic_plains": "2025-08-17 19:44:40 +0000",
+      "withered_abyss": "2025-08-24 19:48:28 +0000",
       "woodland": "2025-08-17 16:40:13 +0000",
       "floodplain": "2025-08-17 16:30:27 +0000",
       "old_growth_woodland": "2025-08-16 15:54:27 +0000",
@@ -3632,6 +3633,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-08-17 17:10:10 +0000",
+      "minecraft:blaze": "2025-08-24 19:57:40 +0000",
       "minecraft:cave_spider": "2025-08-16 15:45:08 +0000",
       "minecraft:skeleton": "2025-08-16 15:54:38 +0000",
       "minecraft:spider": "2025-08-16 15:45:24 +0000",
@@ -6688,12 +6690,24 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-08-24 19:57:54 +0000"
+    },
+    "done": true
+  },
   "betternether:all_the_biomes": {
     "criteria": {
       "betternether:upside_down_forest_cleared": "2025-08-24 19:40:24 +0000",
       "betternether:upside_down_forest": "2025-08-24 19:39:25 +0000"
     },
     "done": false
+  },
+  "eternalnether:recipes/building_blocks/warped_nether_bricks": {
+    "criteria": {
+      "has_warped_roots": "2025-08-24 19:54:17 +0000"
+    },
+    "done": true
   },
   "stoneworks:recipes/building_blocks/cracked_netherrack_bricks_from_netherrack_stonecutting": {
     "criteria": {
@@ -6716,6 +6730,12 @@
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_stairs_from_netherrack_or_mossy_netherrack_bricks_stonecutting": {
     "criteria": {
       "has_netherrack_or_mossy_netherrack_bricks": "2025-08-24 19:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-08-24 19:57:41 +0000"
     },
     "done": true
   },
@@ -6821,6 +6841,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-08-24 19:52:21 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/polished_netherrack_slab_from_netherrack_or_polished_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack_or_polished_netherrack": "2025-08-24 19:37:57 +0000"
@@ -6839,9 +6865,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-08-24 19:53:12 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_wall_from_netherrack_or_mossy_netherrack_bricks_stonecutting": {
     "criteria": {
       "has_netherrack_or_mossy_netherrack_bricks": "2025-08-24 19:37:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-08-24 19:52:42 +0000"
     },
     "done": true
   },
@@ -6860,6 +6898,12 @@
   "betternether:recipes/building_blocks/nether_brick_wall_from_brick_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-08-24 19:47:07 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/crafting/spicy_skewer": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-24 19:57:41 +0000"
     },
     "done": true
   },
@@ -6890,6 +6934,12 @@
   "stoneworks:recipes/building_blocks/netherrack_brick_stairs_from_netherrack_or_netherrack_bricks_stonecutting": {
     "criteria": {
       "has_netherrack_or_netherrack_bricks": "2025-08-24 19:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-08-24 19:52:21 +0000"
     },
     "done": true
   },
@@ -6959,6 +7009,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-24 19:57:41 +0000"
+    },
+    "done": true
+  },
   "stoneworks:recipes/building_blocks/mossy_cobbled_netherrack_from_netherrack_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-08-24 19:37:57 +0000"
@@ -6976,6 +7032,24 @@
       "has_anchor_tree_bark": "2025-08-24 19:46:23 +0000"
     },
     "done": true
+  },
+  "betternether:recipes/misc/bn_brown_mushroom": {
+    "criteria": {
+      "has_wall_mushroom_brown": "2025-08-24 19:54:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-08-24 19:53:12 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_warped": "2025-08-24 19:48:28 +0000"
+    },
+    "done": false
   },
   "stoneworks:recipes/building_blocks/mossy_netherrack_bricks_from_netherrack_stonecutting": {
     "criteria": {
@@ -7007,8 +7081,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-08-24 19:52:21 +0000"
+    },
+    "done": true
+  },
   "betternether:nether_wood": {
     "criteria": {
+      "got_warped": "2025-08-24 19:54:29 +0000",
       "got_anchor_tree": "2025-08-24 19:46:23 +0000"
     },
     "done": false
@@ -7016,6 +7097,18 @@
   "betternether:recipes/building_blocks/roof_tile_nether_brick_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-08-24 19:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-08-24 19:53:23 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/golden_pickaxe_repairing": {
+    "criteria": {
+      "has_golden_pickaxe": "2025-08-24 19:53:12 +0000"
     },
     "done": true
   },
@@ -7088,6 +7181,12 @@
   "stoneworks:recipes/building_blocks/nether_brick_plate_stairs_from_nether_bricks_or_nether_brick_plates_stonecutting": {
     "criteria": {
       "has_nether_bricks_or_nether_brick_plates": "2025-08-24 19:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-08-24 19:54:29 +0000"
     },
     "done": true
   },
@@ -7166,6 +7265,12 @@
   "stoneworks:recipes/building_blocks/mossy_netherrack_brick_slab_from_netherrack_or_mossy_netherrack_bricks_stonecutting": {
     "criteria": {
       "has_netherrack_or_mossy_netherrack_bricks": "2025-08-24 19:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-08-24 19:57:41 +0000"
     },
     "done": true
   },
