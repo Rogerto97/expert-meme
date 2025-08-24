@@ -7971,6 +7971,12 @@
     },
     "done": true
   },
+  "charm:vanilla_wood_variants/recipes/chest_minecart_with_custom_chest": {
+    "criteria": {
+      "has_chest": "2025-08-24 20:33:52 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/warped_table": {
     "criteria": {
       "has_warped_table": "2025-08-24 19:48:30 +0000"

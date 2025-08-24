@@ -5954,7 +5954,8 @@
   "natures_spirit:adventure/collect_all_flowers": {
     "criteria": {
       "rose_bush": "2025-08-17 16:35:38 +0000",
-      "poppy": "2025-08-17 20:34:30 +0000"
+      "poppy": "2025-08-17 20:34:30 +0000",
+      "hibiscus": "2025-08-24 20:36:11 +0000"
     },
     "done": false
   },
@@ -6820,6 +6821,12 @@
   "betternether:recipes/building_blocks/netherrack_stairs_stonecutting": {
     "criteria": {
       "has_netherrack": "2025-08-24 19:37:57 +0000"
+    },
+    "done": true
+  },
+  "natures_spirit:recipes/misc/red_dye_from_hibiscus": {
+    "criteria": {
+      "has_hibiscus": "2025-08-24 20:36:11 +0000"
     },
     "done": true
   },

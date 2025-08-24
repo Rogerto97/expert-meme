@@ -2,9 +2,7 @@
 	id: "00c9cea4-0840-30f7-b9d5-21c8f68f7273"
 	type: "player"
 	player_name: "Nikomaiden"
-	ranks: {
-		00c9cea4-0840-30f7-b9d5-21c8f68f7273: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Nikomaiden"
 		"ftbteams:description": ""

@@ -5,7 +5,7 @@
 	ranks: {
 		b544a06f-68b5-3fe8-9a0f-7fb32601617a: "owner"
 		6bd18da3-1390-3fa8-90b1-837d04df607a: "member"
-		00c9cea4-0840-30f7-b9d5-21c8f68f7273: "invited"
+		00c9cea4-0840-30f7-b9d5-21c8f68f7273: "member"
 	}
 	properties: {
 		"ftbteams:display_name": "MonasChinas"
@@ -19,6 +19,8 @@
 		{ from: "b544a06f-68b5-3fe8-9a0f-7fb32601617a", date: 1755360910052L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"Nikomaiden\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
 		{ from: "b544a06f-68b5-3fe8-9a0f-7fb32601617a", date: 1756066510824L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"LuLo7\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
 		{ from: "00000000-0000-0000-0000-000000000000", date: 1756066512891L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"LuLo7\"],\"color\":\"green\"}" }
+		{ from: "b544a06f-68b5-3fe8-9a0f-7fb32601617a", date: 1756067682364L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"Nikomaiden\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1756067686824L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"Nikomaiden\"],\"color\":\"green\"}" }
 	]
 	extra: { }
 }

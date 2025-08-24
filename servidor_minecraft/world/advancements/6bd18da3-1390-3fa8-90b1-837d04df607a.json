@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-08-24 20:30:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-08-24 20:13:29 +0000"
@@ -167,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-08-24 20:33:35 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/hammer": {
     "criteria": {
       "has_hammer": "2025-08-24 20:21:07 +0000"
@@ -224,6 +236,12 @@
   "dungeons_arise:find_typhon": {
     "criteria": {
       "location0": "2025-08-24 20:15:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-08-24 20:30:32 +0000"
     },
     "done": true
   },
@@ -287,6 +305,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-08-24 20:32:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2025-08-24 20:14:34 +0000"
@@ -296,6 +320,12 @@
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-08-24 20:17:53 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/aether_saddle": {
+    "criteria": {
+      "has_leather": "2025-08-24 20:30:32 +0000"
     },
     "done": true
   },
@@ -395,6 +425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-08-24 20:30:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-24 20:13:37 +0000"
@@ -459,6 +495,12 @@
   "betterend:recipes/decorations/jellyshroom_sign": {
     "criteria": {
       "has_stick": "2025-08-24 20:13:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_chestplate_repairing": {
+    "criteria": {
+      "has_iron_chestplate": "2025-08-24 20:36:46 +0000"
     },
     "done": true
   },
@@ -591,6 +633,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-08-24 20:21:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-08-24 20:30:21 +0000"
     },
     "done": true
   },
@@ -744,6 +792,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_helmet_repairing": {
+    "criteria": {
+      "has_iron_helmet": "2025-08-24 20:36:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-08-24 20:14:34 +0000"
@@ -798,6 +852,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-08-24 20:30:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-08-24 20:13:40 +0000"
@@ -843,6 +903,12 @@
   "farmersdelight:recipes/combat/iron_knife": {
     "criteria": {
       "has_iron_ingot": "2025-08-24 20:21:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2025-08-24 20:30:32 +0000"
     },
     "done": true
   },
@@ -906,6 +972,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_pickaxe_repairing": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-08-24 20:36:33 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_desk": {
     "criteria": {
       "has_spruce_desk": "2025-08-24 20:13:20 +0000"
@@ -948,6 +1020,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2025-08-24 20:32:12 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/helix_tree_chair": {
     "criteria": {
       "has_stick": "2025-08-24 20:13:29 +0000"
@@ -957,6 +1035,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-24 20:21:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-08-24 20:36:43 +0000"
     },
     "done": true
   },
@@ -999,6 +1083,12 @@
   "vanillabackport:recipes/transportation/pale_oak_boat": {
     "criteria": {
       "in_water": "2025-08-24 20:14:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-08-24 20:36:33 +0000"
     },
     "done": true
   },
@@ -1080,6 +1170,12 @@
     },
     "done": true
   },
+  "betterend:recipes/misc/leather_to_stripes": {
+    "criteria": {
+      "has_leather": "2025-08-24 20:30:32 +0000"
+    },
+    "done": true
+  },
   "natures_spirit:recipes/transportation/saxaul_boat": {
     "criteria": {
       "in_water": "2025-08-24 20:14:34 +0000"
@@ -1095,6 +1191,12 @@
   "betternether:recipes/decorations/anchor_tree_chair": {
     "criteria": {
       "has_stick": "2025-08-24 20:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-08-24 20:37:11 +0000"
     },
     "done": true
   },
@@ -1290,6 +1392,18 @@
     },
     "done": true
   },
+  "aether:recipes/combat/iron_leggings_repairing": {
+    "criteria": {
+      "has_iron_leggings": "2025-08-24 20:37:43 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/iron_shovel_repairing": {
+    "criteria": {
+      "has_iron_shovel": "2025-08-24 20:36:35 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spider_trophy": {
     "criteria": {
       "has_spider_trophy": "2025-08-24 20:12:43 +0000"
@@ -1410,6 +1524,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_the_recipe": "2025-08-24 20:29:42 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/skyroot_iron_vanilla_shield": {
     "criteria": {
       "has_iron_ingot": "2025-08-24 20:21:07 +0000"
@@ -1485,6 +1605,12 @@
   "handcrafted:recipes/misc/spruce_drawer": {
     "criteria": {
       "has_spruce_drawer": "2025-08-24 20:13:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-08-24 20:33:35 +0000"
     },
     "done": true
   },
@@ -1623,6 +1749,12 @@
   "betternether:recipes/decorations/spruce_chair": {
     "criteria": {
       "has_stick": "2025-08-24 20:13:29 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-08-24 20:32:12 +0000"
     },
     "done": true
   },
@@ -1787,6 +1919,12 @@
   "betterend:recipes/decorations/mossy_glowshroom_taburet": {
     "criteria": {
       "has_stick": "2025-08-24 20:13:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/iron_boots_repairing": {
+    "criteria": {
+      "has_iron_boots": "2025-08-24 20:37:42 +0000"
     },
     "done": true
   },
@@ -2061,6 +2199,12 @@
     },
     "done": true
   },
+  "morevillagers:recipes/mining_bench": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-08-24 20:36:33 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:root": {
     "criteria": {
       "always": "2025-08-24 20:11:13 +0000"
@@ -2111,6 +2255,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-08-24 20:33:05 +0000",
+      "minecraft:zombie": "2025-08-24 20:32:11 +0000",
       "minecraft:drowned": "2025-08-24 20:16:01 +0000"
     },
     "done": false
@@ -2118,6 +2264,12 @@
   "betternether:recipes/decorations/birch_chair": {
     "criteria": {
       "has_stick": "2025-08-24 20:13:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-08-24 20:30:21 +0000"
     },
     "done": true
   },
@@ -2265,6 +2417,18 @@
     },
     "done": true
   },
+  "aether:recipes/combat/shield_repairing": {
+    "criteria": {
+      "has_shield": "2025-08-24 20:37:29 +0000"
+    },
+    "done": true
+  },
+  "vanillabackport:recipes/combat/saddle": {
+    "criteria": {
+      "has_leather": "2025-08-24 20:30:32 +0000"
+    },
+    "done": true
+  },
   "betternether:recipes/decorations/stalagnate_chair": {
     "criteria": {
       "has_stick": "2025-08-24 20:13:29 +0000"
@@ -2397,6 +2561,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/iron_axe_repairing": {
+    "criteria": {
+      "has_iron_axe": "2025-08-24 20:36:37 +0000"
+    },
+    "done": true
+  },
   "handcrafted:recipes/misc/spruce_pillar_trim": {
     "criteria": {
       "has_spruce_pillar_trim": "2025-08-24 20:13:20 +0000"
@@ -2524,6 +2694,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-08-24 20:30:32 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:root": {
     "criteria": {
       "instant_granted": "2025-08-24 20:11:13 +0000"
@@ -2643,6 +2819,12 @@
       "has_iron_ingot": "2025-08-24 20:21:07 +0000"
     },
     "done": true
+  },
+  "adorabuild_structures:tireless_legs": {
+    "criteria": {
+      "oak_house_large_1": "2025-08-24 20:35:49 +0000"
+    },
+    "done": false
   },
   "betterend:recipes/misc/copy_aeternium_upgrade": {
     "criteria": {
@@ -2776,6 +2958,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-08-24 20:30:32 +0000"
+    },
+    "done": true
+  },
   "betterend:recipes/decorations/end_lotus_chair": {
     "criteria": {
       "has_stick": "2025-08-24 20:13:29 +0000"
@@ -2803,6 +2991,12 @@
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-08-24 20:17:56 +0000"
+    },
+    "done": true
+  },
+  "inmis:recipes/frayed_backpack": {
+    "criteria": {
+      "has_leather": "2025-08-24 20:30:32 +0000"
     },
     "done": true
   },
@@ -2952,7 +3146,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "redwood_forest": "2025-08-24 20:12:05 +0000"
+      "redwood_forest": "2025-08-24 20:12:05 +0000",
+      "scrubland": "2025-08-24 20:28:43 +0000"
     },
     "done": false
   },
@@ -3188,6 +3383,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-08-24 20:13:47 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/building_blocks/crafting/letios_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2025-08-24 20:32:12 +0000"
     },
     "done": true
   },
@@ -3427,6 +3628,7 @@
       "minecraft:river": "2025-08-24 20:19:23 +0000",
       "minecraft:lukewarm_ocean": "2025-08-24 20:19:13 +0000",
       "minecraft:stony_shore": "2025-08-24 20:12:25 +0000",
+      "natures_spirit:oak_savanna": "2025-08-24 20:31:47 +0000",
       "natures_spirit:tropical_shores": "2025-08-24 20:22:30 +0000",
       "natures_spirit:wooded_drylands": "2025-08-24 20:19:57 +0000",
       "minecraft:ocean": "2025-08-24 20:14:57 +0000",
@@ -3452,6 +3654,12 @@
   "charm:core/root": {
     "criteria": {
       "player_joined": "2025-08-24 20:11:13 +0000"
+    },
+    "done": true
+  },
+  "inmis:recipes/baby_backpack": {
+    "criteria": {
+      "has_leather": "2025-08-24 20:30:32 +0000"
     },
     "done": true
   },

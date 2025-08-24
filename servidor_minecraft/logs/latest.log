@@ -3290,3 +3290,11 @@ Caused by: java.lang.RuntimeException: Cannot load class com.dooji.underlay.jade
 [20:28:21] [Server thread/INFO]: Saving data for 78 chunks for dimension 'the_nether' took 0 milliseconds
 [20:28:21] [Server thread/INFO]: Saving data for 1285 chunks for dimension 'overworld' took 3 milliseconds
 [20:32:30] [Server thread/INFO]: LuLo7 has made the advancement [Sweet Dreams]
+[20:33:21] [Server thread/INFO]: Saving data for 78 chunks for dimension 'the_nether' took 1 milliseconds
+[20:33:21] [Server thread/INFO]: Saving data for 1299 chunks for dimension 'overworld' took 5 milliseconds
+[20:36:33] [Server thread/INFO]: LuLo7 has made the advancement [Isn't It Iron Pick]
+[20:36:43] [Server thread/INFO]: LuLo7 has made the advancement [Suit Up]
+[20:38:21] [Server thread/INFO]: Saving data for 78 chunks for dimension 'the_nether' took 0 milliseconds
+[20:38:21] [Server thread/INFO]: Saving data for 1331 chunks for dimension 'overworld' took 3 milliseconds
+[20:39:29] [Worker-Main-2/INFO]: BBox:class_3341{minX=-1194, minY=22, minZ=-1114, maxX=-1030, maxY=96, maxZ=-950}
+[20:39:49] [Server thread/INFO]: Tree reached max size of 100
